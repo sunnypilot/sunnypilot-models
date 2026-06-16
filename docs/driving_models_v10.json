@@ -2704,13 +2704,13 @@
       "display_name": "Macrostiff Model (January 01, 2026)",
       "is_20hz": true,
       "ref": "d70b13931793bc0e4d8efd36128dd66f227a3f81",
-      "environment": "development",
+      "environment": "master",
       "runner": "tinygrad",
       "index": 58,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2026-01-01T17:57:01Z",
-      "overrides": { "folder": "2026 World Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -2900,13 +2900,13 @@
       "display_name": "SC Model (January 08, 2026)",
       "is_20hz": true,
       "ref": "e4a4b4b1adf2d19fedab4d195faa382b061fa754",
-      "environment": "development",
+      "environment": "master",
       "runner": "tinygrad",
       "index": 62,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2026-01-09T02:16:04Z",
-      "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
+      "overrides": { "folder": "Master Models", "lat": ".0", "long": ".3" },
       "models": [
         {
           "type": "policy",
