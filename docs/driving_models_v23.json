@@ -480,7 +480,7 @@
       "index": 13,
       "minimum_selector_version": "29",
       "generation": "10",
-      "build_time": "2026-09-01T06:42:51Z",
+      "build_time": "2026-09-20T18:08:56Z",
       "overrides": { "folder": "2025 Pre World Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -488,17 +488,17 @@
           "artifact": {
             "file_name": "driving_vegetarian_filet_o_fish_june_21_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Vegetarian%20Filet%20o%20Fish%20%28June%2021%2C%202025%29-117/driving_vegetarian_filet_o_fish_june_21_2025_tinygrad.pkl",
-              "sha256": "d4234b64a0eb1405323b23705360f9cf6918f0f7f918a54c9430f22c85941ccd"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled29/model-Vegetarian%20Filet%20o%20Fish%20%28June%2021%2C%202025%29-124/driving_vegetarian_filet_o_fish_june_21_2025_tinygrad.pkl",
+              "sha256": "d4ea64a9c580182d1fdf20fd6640c74ae96a6cd5fab727d1ac7b5071711c179e"
             },
             "chunks": [
               {
                 "file_name": "driving_vegetarian_filet_o_fish_june_21_2025_tinygrad.pkl.chunk01of02",
-                "sha256": "07dbc87cf1b73e4849c5e82f580a6c3b3269a675c0569076ea08b9ec25df3145"
+                "sha256": "38daf1cac485f4d306d9a7b7120e7398014e5017688870c8e8dfeae6b96bec8b"
               },
               {
                 "file_name": "driving_vegetarian_filet_o_fish_june_21_2025_tinygrad.pkl.chunk02of02",
-                "sha256": "e6720f894344e613757ca5f473cf61782a1e4119fc460b1a14fda944e94de5f3"
+                "sha256": "db031622124fa15eada5a18dc7ad35aa4e8ee0b64d7af2fb09c371d3928bb279"
               }
             ]
           }
