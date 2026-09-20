@@ -1,5 +1,5 @@
 {
-  "tinygrad_ref": "e837e367aac9e1a66e689f4f32ce20ca9367df13",
+  "tinygrad_ref": "9cd40014f651ac2472b3b5fc3b12178ab4bb1c66",
   "bundles": [
     {
       "short_name": "LM",
@@ -1940,7 +1940,7 @@
       "index": 13,
       "minimum_selector_version": "19",
       "generation": "12",
-      "build_time": "2026-09-19T18:23:24Z",
+      "build_time": "2026-09-20T13:23:44Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1948,7 +1948,7 @@
           "artifact": {
             "file_name": "driving_cinque_terre_v3_model_september_17_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled27/model-Cinque%20Terre%20V3%20Model%20%28September%2017%2C%202026%29-435/driving_cinque_terre_v3_model_september_17_2026_tinygrad.pkl",
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled28/model-Cinque%20Terre%20V3%20Model%20%28September%2017%2C%202026%29-121/driving_cinque_terre_v3_model_september_17_2026_tinygrad.pkl",
               "sha256": "557f81d820b87be62336bda65e75a538fd76adda57586b9208b686b6c756acb7"
             },
             "chunks": [
