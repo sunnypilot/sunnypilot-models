@@ -2708,7 +2708,7 @@
       "index": 74,
       "minimum_selector_version": "29",
       "generation": "12",
-      "build_time": "2026-09-01T07:32:17Z",
+      "build_time": "2026-09-20T19:51:32Z",
       "overrides": { "folder": "Custom Merge Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2716,17 +2716,17 @@
           "artifact": {
             "file_name": "driving_kumars_vibe_august_14_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Kumars%20Vibe%20%28August%2014%2C%202026%29-117/driving_kumars_vibe_august_14_2026_tinygrad.pkl",
-              "sha256": "8b4f8e1368e71371c2e6f096394b028d205a2d959923395c7d40a5a910ed0a0e"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled29/model-Kumars%20Vibe%20%28August%2014%2C%202026%29-124/driving_kumars_vibe_august_14_2026_tinygrad.pkl",
+              "sha256": "b0d248b40e82b9fa7d36c626560ae1c312169546961e90e72d50e1729a31d92f"
             },
             "chunks": [
               {
                 "file_name": "driving_kumars_vibe_august_14_2026_tinygrad.pkl.chunk01of02",
-                "sha256": "c3cd94debc0814a76135583d107f89c4a182f0862bd73409f77c22c3d59e3e2f"
+                "sha256": "ad7361f9115a31aab52f747876f5ce074951c2f39376d94b4829d8d401551807"
               },
               {
                 "file_name": "driving_kumars_vibe_august_14_2026_tinygrad.pkl.chunk02of02",
-                "sha256": "af7da0b7302673ca31d4b9ccc6415329a7bef4d26a1a0b443b63a85c45ce20f4"
+                "sha256": "f1faabeb54433334f21e79cb4bd96af97f6064e625fb655bbb36eb69691fd2e1"
               }
             ]
           }
