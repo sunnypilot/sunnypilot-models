@@ -1272,7 +1272,7 @@
       "index": 35,
       "minimum_selector_version": "29",
       "generation": "12",
-      "build_time": "2026-09-01T06:00:20Z",
+      "build_time": "2026-09-20T18:04:13Z",
       "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1280,17 +1280,17 @@
           "artifact": {
             "file_name": "driving_north_nevada_model_october_07_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-North%20Nevada%20Model%20%28October%2007%2C%202025%29-117/driving_north_nevada_model_october_07_2025_tinygrad.pkl",
-              "sha256": "fb8e887201a4c753592a16b0d325a781780142eafba1bbf6f78ef37dda297a75"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled29/model-North%20Nevada%20Model%20%28October%2007%2C%202025%29-124/driving_north_nevada_model_october_07_2025_tinygrad.pkl",
+              "sha256": "0c755367ec3c9f02d4f259e6a417289319c6c2983c7566703008eeee8c534733"
             },
             "chunks": [
               {
                 "file_name": "driving_north_nevada_model_october_07_2025_tinygrad.pkl.chunk01of02",
-                "sha256": "b3428ff3b6172e803686bffc82f9bf7e79c9d14203cb8e52c082cf2c034b6bdf"
+                "sha256": "1cd617ae901e1fa40405180168b62bbca3014af6ec2cd4e3d263139f4175ec9c"
               },
               {
                 "file_name": "driving_north_nevada_model_october_07_2025_tinygrad.pkl.chunk02of02",
-                "sha256": "7b4ccf743e80bccaec2d68115a570d1944b72283afde7a52c2c07d4e9ebb0278"
+                "sha256": "f80192dc958103cb9bf0d231cac4e2a062d36c5b6428824057b69f98210812ae"
               }
             ]
           }
