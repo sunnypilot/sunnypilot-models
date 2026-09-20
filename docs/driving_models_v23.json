@@ -552,7 +552,7 @@
       "index": 15,
       "minimum_selector_version": "29",
       "generation": "11",
-      "build_time": "2026-09-01T06:53:30Z",
+      "build_time": "2026-09-20T19:02:10Z",
       "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -560,17 +560,17 @@
           "artifact": {
             "file_name": "driving_aggressive_tr_june_28_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Aggressive%20TR%20%28June%2028%2C%202025%29-117/driving_aggressive_tr_june_28_2025_tinygrad.pkl",
-              "sha256": "be18f1afb7c32226aebd14b13a00c5194ba4955c326a92de244902a0ea65da1e"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled29/model-Aggressive%20TR%20%28June%2028%2C%202025%29-124/driving_aggressive_tr_june_28_2025_tinygrad.pkl",
+              "sha256": "fcb4f2346ef1f16731ab3978b43d349032b661ec836bcae9f03c79376352cd19"
             },
             "chunks": [
               {
                 "file_name": "driving_aggressive_tr_june_28_2025_tinygrad.pkl.chunk01of02",
-                "sha256": "7b4087c383f0b191deab2c5ebfed8ed84b443fd70938840f9ed0db0cface5545"
+                "sha256": "daa80b2278f85a727fc75b49af8b1db1f7446a1368bab311dc45a5e640d6ebc6"
               },
               {
                 "file_name": "driving_aggressive_tr_june_28_2025_tinygrad.pkl.chunk02of02",
-                "sha256": "8cb67d8bc4ebf0acb68ec5888f3946017a59ea8bfadf08f58b9a757e69cccc29"
+                "sha256": "548b5e4878d510253b163d916e6a8b399deed08841251e91faabbc7fbb04fe1f"
               }
             ]
           }
