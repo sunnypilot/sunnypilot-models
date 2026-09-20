@@ -1596,7 +1596,7 @@
       "index": 44,
       "minimum_selector_version": "29",
       "generation": "12",
-      "build_time": "2026-09-01T06:51:00Z",
+      "build_time": "2026-09-20T18:04:22Z",
       "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1604,21 +1604,17 @@
           "artifact": {
             "file_name": "driving_planplus_model_november_28_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Planplus%20Model%20%28November%2028%2C%202025%29-117/driving_planplus_model_november_28_2025_tinygrad.pkl",
-              "sha256": "77510d08393221a933263027eae5979edcda9cc2308e3d862d5eef75a58aad81"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled29/model-Planplus%20Model%20%28November%2028%2C%202025%29-124/driving_planplus_model_november_28_2025_tinygrad.pkl",
+              "sha256": "19a6b86e0906d829bceceeb5a3740cfdc50e10694e449705df9508c76c61f819"
             },
             "chunks": [
               {
-                "file_name": "driving_planplus_model_november_28_2025_tinygrad.pkl.chunk01of03",
-                "sha256": "7caac374a548607ab98c7a3855c39c5dde527830d3feefec2be5aa4de979deb2"
+                "file_name": "driving_planplus_model_november_28_2025_tinygrad.pkl.chunk01of02",
+                "sha256": "9d2113033c50d5981b2a13c7c0d3158822f9e9721070772ae4c15de346aee764"
               },
               {
-                "file_name": "driving_planplus_model_november_28_2025_tinygrad.pkl.chunk02of03",
-                "sha256": "7fdb1ee861d1a0e55ee452a7be3462cbf9a03fc4cea61935d0a26d6f2089fc80"
-              },
-              {
-                "file_name": "driving_planplus_model_november_28_2025_tinygrad.pkl.chunk03of03",
-                "sha256": "4d4f794c7f8801b7b21089b18e1d1a58cbaedecebd9d057f89d2c8378f51c785"
+                "file_name": "driving_planplus_model_november_28_2025_tinygrad.pkl.chunk02of02",
+                "sha256": "a79fc5b94bae1ff418dedcc876372a16a80811d1536c6ad744253b00d9956ccf"
               }
             ]
           }
