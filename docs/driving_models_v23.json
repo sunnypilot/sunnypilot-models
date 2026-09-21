@@ -1848,7 +1848,7 @@
       "index": 51,
       "minimum_selector_version": "29",
       "generation": "12",
-      "build_time": "2026-09-21T02:33:37Z",
+      "build_time": "2026-09-21T17:48:23Z",
       "overrides": { "folder": "Master Models", "lat": ".0", "long": ".3" },
       "models": [
         {
@@ -1856,7 +1856,7 @@
           "artifact": {
             "file_name": "driving_wmi_v12_january_13_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled29/model-WMI%20V12%20%28January%2013%2C%202026%29-443/driving_wmi_v12_january_13_2026_tinygrad.pkl",
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled29/model-WMI%20V12%20%28January%2013%2C%202026%29-481/driving_wmi_v12_january_13_2026_tinygrad.pkl",
               "sha256": "fbaefa6e19541c1ffb08c989cc1c38dfafb0355744cb500da54c28f45b00eb3a"
             },
             "chunks": [
