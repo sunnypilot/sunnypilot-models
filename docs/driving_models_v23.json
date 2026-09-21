@@ -2388,7 +2388,7 @@
       "index": 66,
       "minimum_selector_version": "29",
       "generation": "12",
-      "build_time": "2026-09-01T07:29:04Z",
+      "build_time": "2026-09-21T20:06:16Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2396,21 +2396,21 @@
           "artifact": {
             "file_name": "driving_op_model_16_deep_june_03_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-OP%20Model%2016%20Deep%20%28June%2003%2C%202026%29-117/driving_op_model_16_deep_june_03_2026_tinygrad.pkl",
-              "sha256": "92e736e4f52ef0b25c4ae62e651261c3dde98a5050122699004236845256b6b9"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled29/model-OP%20Model%2016%20Deep%20%28June%2003%2C%202026%29-592/driving_op_model_16_deep_june_03_2026_tinygrad.pkl",
+              "sha256": "a52deb28f7409740bb1d1b1cbee9c1a4798edbf30bf25d87b6cf95245c42e890"
             },
             "chunks": [
               {
                 "file_name": "driving_op_model_16_deep_june_03_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "9eccee995af63d68c7d1f6e88cfbade529d718a0dc393b2d7ac6768233f90ef5"
+                "sha256": "fa7cab45e20c439bf8c0321cfd7de1dcd2731dcb6bca4c58d3321a7697b7c680"
               },
               {
                 "file_name": "driving_op_model_16_deep_june_03_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "be1aab4640b1faf47405e6fa8ac0f6d8422018777e3db3f55b3dbbeb66fb6267"
+                "sha256": "f5a56373144844b485cb9f6992bc048f3adf17aa2061558f0bd81b0b0deefeab"
               },
               {
                 "file_name": "driving_op_model_16_deep_june_03_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "1be7991ae7db8016f12d5ec3242434f09df9fc064da5a648b181b1913901bf99"
+                "sha256": "fc5e74fbf85e0a3385be2f65d13eb7b04515cca514c6b22eb6ff4c7a17c8790a"
               }
             ]
           }
