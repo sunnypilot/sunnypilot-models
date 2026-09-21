@@ -1308,7 +1308,7 @@
       "index": 36,
       "minimum_selector_version": "29",
       "generation": "12",
-      "build_time": "2026-09-01T05:23:43Z",
+      "build_time": "2026-09-21T02:28:43Z",
       "overrides": { "folder": "Release Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1316,17 +1316,17 @@
           "artifact": {
             "file_name": "driving_north_nevada_model_v2_october_08_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-North%20Nevada%20Model%20V2%20%28October%2008%2C%202025%29-117/driving_north_nevada_model_v2_october_08_2025_tinygrad.pkl",
-              "sha256": "84405d004ec385b77f5271ebdc5142ce11b576c625fea6fe85111b614c2d3504"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled29/model-North%20Nevada%20Model%20V2%20%28October%2008%2C%202025%29-439/driving_north_nevada_model_v2_october_08_2025_tinygrad.pkl",
+              "sha256": "7ef1bc3b3f667eb40d6e9e7ec79de4ca1806bb45d4e0f9b9207004002dbf8c30"
             },
             "chunks": [
               {
                 "file_name": "driving_north_nevada_model_v2_october_08_2025_tinygrad.pkl.chunk01of02",
-                "sha256": "ae86b520b42d2f855e41d6581f47e90857e74dba462d4af298abaf9afaf595e2"
+                "sha256": "a2ae37491b5e645278e8557bcdf431505787bff4d01875589fab09cc04ec7611"
               },
               {
                 "file_name": "driving_north_nevada_model_v2_october_08_2025_tinygrad.pkl.chunk02of02",
-                "sha256": "0ce95b7aac48bf702ad4b6f0ec7169e9ca8154bd4f4a2eb5cf06f07f4dbd0b6c"
+                "sha256": "d28010c5dc61e6c82340fd48d7ad561c6b4d8d9d534a2828985cb4da58b49b3b"
               }
             ]
           }
