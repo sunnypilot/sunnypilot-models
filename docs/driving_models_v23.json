@@ -235,7 +235,7 @@
           "artifact": {
             "file_name": "driving_notre_dame_july_01_2024_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled29/model-Notre%20Dame%20%28July%2001%2C%202024%29-442/driving_notre_dame_july_01_2024_tinygrad.pkl",
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled29/model-Notre%20Dame%20%28July%2001%2C%202024%29-480/driving_notre_dame_july_01_2024_tinygrad.pkl",
               "sha256": "0dd1eee3ea93eaa701776a83339a497eb273f9134e2906734f69fbae80902b31"
             },
             "chunks": [
@@ -251,7 +251,7 @@
           }
         }
       ],
-      "build_time": "2026-09-21T02:44:04Z"
+      "build_time": "2026-09-21T17:48:23Z"
     },
     {
       "short_name": "FOF",
