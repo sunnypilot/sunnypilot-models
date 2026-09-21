@@ -2628,7 +2628,7 @@
       "index": 72,
       "minimum_selector_version": "29",
       "generation": "12",
-      "build_time": "2026-09-01T07:09:20Z",
+      "build_time": "2026-09-21T20:13:17Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2636,21 +2636,21 @@
           "artifact": {
             "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-RDF%20Model%20V2%20%28August%2011%2C%202026%29-117/driving_rdf_model_v2_august_11_2026_tinygrad.pkl",
-              "sha256": "52fcf48bfb991f327a8982037eb0855d9a63437d78e9f4828d2be54df0f32567"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled29/model-RDF%20Model%20V2%20%28August%2011%2C%202026%29-593/driving_rdf_model_v2_august_11_2026_tinygrad.pkl",
+              "sha256": "c6a354ee95805b51b4896783f896fb5c425c36c28d8fa32dca9c08e1b4b2694d"
             },
             "chunks": [
               {
                 "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "daa108d1e79cc488e0df40a518ec57db5002418c7f3e90cff39c9f4033af6098"
+                "sha256": "23f29d9db68104e28582d4ceec68f23ab0020566d7d8d600720ce13603447d08"
               },
               {
                 "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "08678a51a38bf7c6fe86ac69f13bedbc497093cc415e47ce81b0eab8ee2c5c76"
+                "sha256": "75c0eac1f353322806eeb612ac36eb84b2bdbeec8041132bc32ef7c7d666d69e"
               },
               {
                 "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "88ff671dc77085cb7d39f5ceda9da2c9f2b2c30ef011eac2a0a095a8c2412aa8"
+                "sha256": "096b55cbe16f498d07719fae79ef8052d258219b80680132f5d4bdd98fcbd389"
               }
             ]
           }
