@@ -91,7 +91,7 @@
           "artifact": {
             "file_name": "driving_recertified_herbalist_march_01_2024_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled29/model-Recertified%20Herbalist%20%28March%2001%2C%202024%29-437/driving_recertified_herbalist_march_01_2024_tinygrad.pkl",
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled29/model-Recertified%20Herbalist%20%28March%2001%2C%202024%29-475/driving_recertified_herbalist_march_01_2024_tinygrad.pkl",
               "sha256": "f94af42e12a2e186cc2dabb8335882c210fd85d06cd230d88b6866b5c5e17d41"
             },
             "chunks": [
@@ -107,7 +107,7 @@
           }
         }
       ],
-      "build_time": "2026-09-21T02:23:42Z"
+      "build_time": "2026-09-21T17:38:05Z"
     },
     {
       "short_name": "DA",
