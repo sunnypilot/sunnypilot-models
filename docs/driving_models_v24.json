@@ -876,7 +876,7 @@
       "index": 24,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-09-20T19:08:16Z",
+      "build_time": "2026-09-23T18:40:33Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -884,17 +884,17 @@
           "artifact": {
             "file_name": "driving_down_to_ride_v6_august_12_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled29/model-Down%20to%20Ride%20v6%20%28August%2012%2C%202025%29-124/driving_down_to_ride_v6_august_12_2025_tinygrad.pkl",
-              "sha256": "964c397a498725a745a2fb1ee8d26117a58c223195357acc79139a4b03c086ca"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled31/model-Down%20to%20Ride%20v6%20%28August%2012%2C%202025%29-126/driving_down_to_ride_v6_august_12_2025_tinygrad.pkl",
+              "sha256": "d75203dc0e007e83829f0bb30967cfca4c9bd8ba68e37b21776ddf3cf5444014"
             },
             "chunks": [
               {
                 "file_name": "driving_down_to_ride_v6_august_12_2025_tinygrad.pkl.chunk01of02",
-                "sha256": "794b663c47574eb8c9163a169c36dbed461d1ebc763d7570c6be3f2cdb0b62ef"
+                "sha256": "e84c26e178eba0313de2a482d06231bde04034c09b5de8765f3fce5451b3337b"
               },
               {
                 "file_name": "driving_down_to_ride_v6_august_12_2025_tinygrad.pkl.chunk02of02",
-                "sha256": "a2666e30e6df6daae448a9eb879382dbc9dd2870b25d6c916a2d0d001c103941"
+                "sha256": "93c71e10ccfa7eb175ea49bc793eb19e36e54f5db5b106961dc93aac6b836782"
               }
             ]
           }
