@@ -2780,7 +2780,7 @@
       "index": 76,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-09-23T17:43:02Z",
+      "build_time": "2026-09-23T19:59:09Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2788,7 +2788,7 @@
           "artifact": {
             "file_name": "driving_terrible_super_fantastic_do_over_model_august_15_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled30/model-Terrible%20Super%20Fantastic%20Do%20Over%20Model%20%28August%2015%2C%202026%29-740/driving_terrible_super_fantastic_do_over_model_august_15_2026_tinygrad.pkl",
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled31/model-Terrible%20Super%20Fantastic%20Do%20Over%20Model%20%28August%2015%2C%202026%29-126/driving_terrible_super_fantastic_do_over_model_august_15_2026_tinygrad.pkl",
               "sha256": "769fcd4ddb7dcb70413f300504ae45ccede2f32e42f65b162bc8f9145ca3fb02"
             },
             "chunks": [
