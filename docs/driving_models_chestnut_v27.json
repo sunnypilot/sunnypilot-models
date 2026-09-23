@@ -192,7 +192,7 @@
       "index": 1,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-09-01T10:49:49Z",
+      "build_time": "2026-09-23T04:45:49Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -200,161 +200,161 @@
           "artifact": {
             "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled24/model-Tee%20Time%20%28August%2018%2C%202026%29-119/driving_tee_time_august_18_2026_tinygrad.pkl",
-              "sha256": "d02104fab59d06861001230141dd7d9882817b83cc2a361640ac763a0425c6cf"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled30/model-Tee%20Time%20%28August%2018%2C%202026%29-725/driving_tee_time_august_18_2026_tinygrad.pkl",
+              "sha256": "52e5fa89dbe82a9112315ef40c1e5b8fd1eb1dc6ff8d9a47ac3bf38dd632fade"
             },
             "chunks": [
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk01of38",
-                "sha256": "4375691a198541e644388ac740990d0552b69013063abe761043290a8d19aca0"
+                "sha256": "c16203e4af6d2127e632b82c792a67c424f04056f80fd1b26ff11fb94a9b0cc3"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk02of38",
-                "sha256": "915fa54b74b68e0ae2a785a2510ca8ba06ccf0f2c013b725b58dc7be49ac83aa"
+                "sha256": "1f3f8c263cc1c6f469d9a460b1efea4ac198027186fc66e787305357bc6235a8"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk03of38",
-                "sha256": "c771c2874ddaea12d31b3a86477a04f418c11e1a49fdf72e227d38c7b9e047d9"
+                "sha256": "749edf3569493913bc5b5685b4ced48be94fcd9b91386575cd5dd120e29ec732"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk04of38",
-                "sha256": "6632f0686f5365be530960eec1a9243067acaf2b4f46a98fcb52e35a4dee6afd"
+                "sha256": "3bbb1ce1558445eb0c96354d6a2b90f3ce2e7804ee2eec419bf5abddd606b320"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk05of38",
-                "sha256": "211c90def6f0645cce7c4166f82e39346a6a9f8118ad3255a15ea58b90d214e1"
+                "sha256": "8e34ffd9182f095b04551ed78ba59b42203e89fa5dd064566ece7f0cbbaecc6c"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk06of38",
-                "sha256": "68d3a56071ea254e94b6fc18d6c80b97939a8032b98c0ba509a71ec923d5f6cb"
+                "sha256": "7fd42cf8ddcc9ed50c920590c91b4d96dafaebdd850f1f08fb7f1b7562b3c0d4"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk07of38",
-                "sha256": "3408ecf22ce6b6f2c5a1ebf4aeca7d6bedd39c108e16a2e3dd1a98d55cb15dcd"
+                "sha256": "c7146a3babcfe97620c0fb55e9176084ab0ab63b88363ecd767308715665291b"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk08of38",
-                "sha256": "9898dd2b74bda4e967d5ece36be2e92048c1137bc333abbf6085dc791efdd083"
+                "sha256": "77510b54c0f9efaf9ae3763b901b69544890824b4703b98c27898665c585958d"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk09of38",
-                "sha256": "deabc79fe60e47a54c19241164dbee461bdc5fdaf1716069f4f07b1a27d1d5f9"
+                "sha256": "2c6a9c67f512f55cc386ae39a0766b1510b1bd7ff1d2c037034a53e7dc02e47a"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk10of38",
-                "sha256": "c2e2e4f8c96bc344db59b8ccab9f6ef5853bce8942dd006fe16f4a514f95f97b"
+                "sha256": "c28bd3668294637e025802aaf8c4d12e280d814771b89dd9ff206f399fe9a5a5"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk11of38",
-                "sha256": "3447c5b1de8a74c7484e0c8b609a6e15aeeb38eb56a53d2957597d15a70542ae"
+                "sha256": "791ef6fa158d759445ce98f3fefbbfc627d4a85770e71f0e382c0864dfeed7a7"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk12of38",
-                "sha256": "ac8695d977a6beca0530bfa7fe5b000c548a941e2983dc1ef05bd81a6c34bbb6"
+                "sha256": "88cd771c35a9d6642dddb6becd0dd22d77c460682c7a97c7ee96b03e98e2a605"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk13of38",
-                "sha256": "7b0bb7f826d70a85ba1fc3144bda857db885f355d155e18706c9d0d5eb42d23e"
+                "sha256": "80902e7e958284dc98be2290202dd39de143a9fd098a10b69b4b155f76008380"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk14of38",
-                "sha256": "6a31c40a13f1451de01bf9deace28cf04f962d8410d9aab9d74cc33a2280147b"
+                "sha256": "1e42c84f8cbc4645972a1d551b0eb2e632bedae8437bbc4d68fb1407b8eb6121"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk15of38",
-                "sha256": "9c61bbc1bc9ec8e6d1d6e6c4a0bb1cdbe0a70fafad5137e9a666686c6f74511a"
+                "sha256": "78f4dc77b51cb7d8e93f4aa9c79c51799ade30f80cfade92980072521ba83cf1"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk16of38",
-                "sha256": "d9d9250507cb568d8ee4418142da99faa67a7a58128f17f9b1f6914a8ff5a89e"
+                "sha256": "19bc0c32bc069f13cb67fb855727f2f090e0722d0aa34d9ddfe05f9f3199cfdc"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk17of38",
-                "sha256": "28e4629f2d7e736c872efd340ac2f6e281cac6309e2dd44f24258bc0ffc38402"
+                "sha256": "cf24e78ce35873e9ac4af87771d09062562fa526374cb3690b14b47c8d31b537"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk18of38",
-                "sha256": "f4fb2448c94974e43f59aca09d71f04a6d4e6c4d0230ac874c9e671d8bb9ae6d"
+                "sha256": "4bf7f636a1060ab06c89c1ba744649030e343ae344d8d8d772a852dcf613c075"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk19of38",
-                "sha256": "1fbb6561178154446c35b47f16ab6ee07af065a2ed50a8285abca3e45c612f51"
+                "sha256": "f07b5cd661600a197706f2f7b2199e75e70843979b0d5600104736504f078a94"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk20of38",
-                "sha256": "9b31705e1f2621dbe2b7a23eee226c12342559aec2408625a793c5e0a14ad9f2"
+                "sha256": "5ea4501f40287b0ece63530d39cdebbe3cbfe81864342f79827f536840d13583"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk21of38",
-                "sha256": "20d999460930f67e631138fa456ceda9a575113900a5e1fc3cf3bcd23266764e"
+                "sha256": "79bd597bfdc6ed0c431a6887c50745bd803daa9204874c98538a4a914cd39421"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk22of38",
-                "sha256": "dd6cba6ccb02691f570652368b18e2ec9df4233b47730edbfeb03ca99091ea6d"
+                "sha256": "68c7302de823129ae681d704a0d08d9e1ffa3f00cefb2b1fdde39d2b97602720"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk23of38",
-                "sha256": "6c9bccd53e6090960f9974a87e82f82c249942d21bfdded009ec0698bac9b01b"
+                "sha256": "469c9c01d4d149d0765aa6edc5679324d177501a5e2e305d1b5cc9dcc93dac28"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk24of38",
-                "sha256": "c2a395a1c5dfda30357b941ab3f087e0f9ee239ffbae7f80da61352197d8b3c1"
+                "sha256": "aa5b667a73e0d21aba861f9a670ca4690789c3df6f257522fd0ea50b2f6d4927"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk25of38",
-                "sha256": "e7f61ece84a38d006f6b059e7e37e26ffc4ade5b08de30018c48ee3384f9202f"
+                "sha256": "a1ff63b5518fc919d338a1dd1753e8eff63ae30ca6aaf8e3d9e18b7d97d9c2a4"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk26of38",
-                "sha256": "e63b0e4d1da3314c9d610dffe613a60d13597d8dcc96eebfd25f3ca7f2701ab8"
+                "sha256": "2f22dfbac632dd4e828c1debe2444b6be44694de2f7c3a81f10c9e4f3cc5f547"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk27of38",
-                "sha256": "7a977097524b5d7c964639ad9b9ca2839c42befa687f4de381203fd5a80e0b89"
+                "sha256": "79866ed85f961aadcac0d852a0c01f13a1b6db7a8438a55bf0dd37e62e666ce7"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk28of38",
-                "sha256": "86661aaf5fb464655a957c37e399db920f50d4626306d7d88f4bc22759ff70e6"
+                "sha256": "255f32aef3fd0d1ca8817d930070fb7b035402620909e4ce2eb1060552e560b6"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk29of38",
-                "sha256": "ad540e1de749ad283c0d1ba8a4d439dec84d1170a59be28a0f02c45184f0ff38"
+                "sha256": "3f7058bce02422027f5d50964e32de4d181a882e501ddc7ec86b28846d21b3b6"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk30of38",
-                "sha256": "e74f5f95d1d4505b760ee20daf8e0ba3542a1259439c8c4a0ec4e1eb85473e39"
+                "sha256": "b15e9bb5335845ce366000dec2ce9e1da278ba007a63ec7de3f20f79088c209f"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk31of38",
-                "sha256": "a73508a0ab6638b58b364088e0284b28a05809ff131c9de4fe59731e97d039ba"
+                "sha256": "1ec92b37f4925290c638b3f578ce8a59e2e17a1603aaa3e0fa27a6be35a6c7c4"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk32of38",
-                "sha256": "ceed9b0a59c38a289d7c6cc7bd69f030ab6b0365086f7dc3331ff0b03a798b47"
+                "sha256": "7a3ec29f71dae2b31db49a7c0d9868140d85f686093cd96dd56bf9498349b8ae"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk33of38",
-                "sha256": "74ca4fa7ff8d4b55ac3b384791ea89f162239c9643bdead1326591fc9e4980a2"
+                "sha256": "342c4bd9dd0405fbfe932f1e721f645c1bbfaea7d2d917267e3cd2184e2ee4ab"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk34of38",
-                "sha256": "7640e11443b2b716c9b3b4c9d24cd5afcca40808e790561153d3e3366e486847"
+                "sha256": "fb02f52d217350bbb5f42c268b5757e5152cbf3dc3d03e63cc4dd8d5ccf215ae"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk35of38",
-                "sha256": "9f9db59c0e47bc83e39fed3e698fd0a4145113cfa9da496b866b5ce8fe14e112"
+                "sha256": "d72a53e3b04d751b4b327bf4d6c9f23f5b271693fd0fa7d3356d9a2eb9eed110"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk36of38",
-                "sha256": "c9108b87bc16eaa0efb839015ff6c4ee123abcf32c6c70f3e06ce41177ae610b"
+                "sha256": "4d41d946a05b7dcc8e9fcbbfb26cb8bf5650ffdb09a4dce7629db8bdf686c180"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk37of38",
-                "sha256": "d22a0b512ea54f2eb06f3dffe9df1747ba58f2ffda086508d2324a98a3cf9e92"
+                "sha256": "de1578a46da9121d7df40f039b8990927d678feb95c7b91e8df70a7e13f50560"
               },
               {
                 "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk38of38",
-                "sha256": "8cebd530cc20cc58e1afd2260e690f1d79212bac2b8966ab12e8ad5f465f9f6c"
+                "sha256": "f9f72ef54be3d2a5b105022c70a0236b28fd35c886b6105e256460d4736134cb"
               }
             ]
           }
