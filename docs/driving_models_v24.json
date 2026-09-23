@@ -2388,7 +2388,7 @@
       "index": 66,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-09-21T20:06:16Z",
+      "build_time": "2026-09-23T19:37:47Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2396,21 +2396,21 @@
           "artifact": {
             "file_name": "driving_op_model_16_deep_june_03_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled29/model-OP%20Model%2016%20Deep%20%28June%2003%2C%202026%29-592/driving_op_model_16_deep_june_03_2026_tinygrad.pkl",
-              "sha256": "a52deb28f7409740bb1d1b1cbee9c1a4798edbf30bf25d87b6cf95245c42e890"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled31/model-OP%20Model%2016%20Deep%20%28June%2003%2C%202026%29-126/driving_op_model_16_deep_june_03_2026_tinygrad.pkl",
+              "sha256": "e5633b5f8f63c50f56c7d714495c5978393e35e9c75dd3c603aa2c5c4210b36f"
             },
             "chunks": [
               {
                 "file_name": "driving_op_model_16_deep_june_03_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "fa7cab45e20c439bf8c0321cfd7de1dcd2731dcb6bca4c58d3321a7697b7c680"
+                "sha256": "e05d7e05b0d28e96f12c5060841825685660a5c5f9c142afcd524926c7ee6685"
               },
               {
                 "file_name": "driving_op_model_16_deep_june_03_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "f5a56373144844b485cb9f6992bc048f3adf17aa2061558f0bd81b0b0deefeab"
+                "sha256": "2a4509c317d6538c80d7f9b688a8704e6ac125b90fc9b87d6123cf3d4c9a4f01"
               },
               {
                 "file_name": "driving_op_model_16_deep_june_03_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "fc5e74fbf85e0a3385be2f65d13eb7b04515cca514c6b22eb6ff4c7a17c8790a"
+                "sha256": "fb2d46a008f4e11f209c4a6e7b6f31fe1a7e940eddcd862183d30983c251b78e"
               }
             ]
           }
