@@ -2428,7 +2428,7 @@
       "index": 67,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-09-21T20:06:49Z",
+      "build_time": "2026-09-23T19:44:10Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2436,21 +2436,21 @@
           "artifact": {
             "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled29/model-Michael%20RL%20V2%20%28July%2018%2C%202026%29-591/driving_michael_rl_v2_july_18_2026_tinygrad.pkl",
-              "sha256": "1859c48cf07ca3365b4d521183476cc4c8550afd2d8ae89630ad1a17f8c122ce"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled31/model-Michael%20RL%20V2%20%28July%2018%2C%202026%29-126/driving_michael_rl_v2_july_18_2026_tinygrad.pkl",
+              "sha256": "7a0a824a726727836ae2f645bea8029b02cb5ab469c62eb3eb176b5f505afdc2"
             },
             "chunks": [
               {
                 "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "d3ecb42196d5ff0fddbf90df51ecdf45825788db07fce5239b38d472da8b6766"
+                "sha256": "ecd891444b42d483b108689dd25a85d4b66356f469a11757f635fdadec2c0c2b"
               },
               {
                 "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "4bb2fde471e93f877b22b070a0d76bf726a7c9001106dba9061dadcbea6103db"
+                "sha256": "6e929022ea99153b199f5b0d14403800800ff1ea927ff7442928592e09ee3fdf"
               },
               {
                 "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "8d64ded06bdcb562068ee5d36d27962ba7d248d2a7f124bffc22598133d1dc3b"
+                "sha256": "887ba10b17227d003e3b925fc59660846cf9f03195e0467492bf07a0c458eac8"
               }
             ]
           }
