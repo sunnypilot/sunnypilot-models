@@ -1740,7 +1740,7 @@
       "index": 11,
       "minimum_selector_version": "19",
       "generation": "12",
-      "build_time": "2026-09-20T18:33:43Z",
+      "build_time": "2026-09-23T03:59:48Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1748,77 +1748,77 @@
           "artifact": {
             "file_name": "driving_cinque_terre_model_september_04_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled30/model-Cinque%20Terre%20Model%20%28September%2004%2C%202026%29-125/driving_cinque_terre_model_september_04_2026_tinygrad.pkl",
-              "sha256": "a82783fc9cb0ff0a0ecd6a8cf7965d093861b64bec9b2033d6b8ad5294fb63e2"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled30/model-Cinque%20Terre%20Model%20%28September%2004%2C%202026%29-735/driving_cinque_terre_model_september_04_2026_tinygrad.pkl",
+              "sha256": "ca658b3982183cd99c56326d2b784891f93c6c687788b341ff43c7ac3a320590"
             },
             "chunks": [
               {
                 "file_name": "driving_cinque_terre_model_september_04_2026_tinygrad.pkl.chunk01of17",
-                "sha256": "675a299f7aa31f29171c390764f5023b860e32e77ad34f32858e0bd1479b3d4e"
+                "sha256": "4deff1da20a88d7b614271b2144e5798c481f0e7a0e9be0b8be42a8c5f0573ed"
               },
               {
                 "file_name": "driving_cinque_terre_model_september_04_2026_tinygrad.pkl.chunk02of17",
-                "sha256": "17cd936ace8a8de1b9a359b7252d8bfab94c54e847ea874279783ebf12e916dc"
+                "sha256": "5dac0487046386c9ef2828347830953af143097d8e9a85724fd0aacbd0800edf"
               },
               {
                 "file_name": "driving_cinque_terre_model_september_04_2026_tinygrad.pkl.chunk03of17",
-                "sha256": "b3a546ed92839290eecc6759474d7270c8dff16770273358e5b9aba22718f510"
+                "sha256": "c98850e35915ee2f5e8e4484f804d16cdbd765063a9605d6c6456de26b7ab325"
               },
               {
                 "file_name": "driving_cinque_terre_model_september_04_2026_tinygrad.pkl.chunk04of17",
-                "sha256": "cfdaa9bd45920d2bcac8b314d59bac53f25035d3200db9ae681e61bffec33b3b"
+                "sha256": "9e72de539e76969d2e6f54a5c5cde21a218ea23f794cdfe54f5a60d5297a427c"
               },
               {
                 "file_name": "driving_cinque_terre_model_september_04_2026_tinygrad.pkl.chunk05of17",
-                "sha256": "379b41ce29e6b53371e0a7c6d429175efbc72fd68738afed21508bfc9f72bfae"
+                "sha256": "49b12d0869f0b21a99c95fd406bcd937918efbe12ef70589120096ccb53775ab"
               },
               {
                 "file_name": "driving_cinque_terre_model_september_04_2026_tinygrad.pkl.chunk06of17",
-                "sha256": "30bdccaf4561a09bd8299e38a950eaa6d673cb406cde223553661d85d292c1d4"
+                "sha256": "591a72855de5fe9c7fd52954c38cf58a440d414b113d5d3dacb239274b195c3a"
               },
               {
                 "file_name": "driving_cinque_terre_model_september_04_2026_tinygrad.pkl.chunk07of17",
-                "sha256": "0e541c381a88edb6ff12f35ce5bacf036a5a3c1f05f43224fd87607ccd52d4ad"
+                "sha256": "84e5c06b450ee0045c83a866251d8d2a2b08fcfdc1da2b8998e86c5d0140e585"
               },
               {
                 "file_name": "driving_cinque_terre_model_september_04_2026_tinygrad.pkl.chunk08of17",
-                "sha256": "1a21868de34f8397abafe1c5df27c7fa82db960aa4f396d62963fca7cbde1f43"
+                "sha256": "4c2182f8665a1030e0ebf9e5ddea0525c9762168fcb9558a75d7b19dd60c3730"
               },
               {
                 "file_name": "driving_cinque_terre_model_september_04_2026_tinygrad.pkl.chunk09of17",
-                "sha256": "0bca9424e50bb5585a18a5395b34e3c031020e85c76ff2a37af4b9f5a1d101d8"
+                "sha256": "e79b566b5fc32d7b2cc5616f21676d8bd63f93b2b0fbb9bba81b7f0163d33c51"
               },
               {
                 "file_name": "driving_cinque_terre_model_september_04_2026_tinygrad.pkl.chunk10of17",
-                "sha256": "49f7f4350b5e6497c523a561a85c14a33d41d434f9396117b3564383d4dd394c"
+                "sha256": "cdbba6cb7c7a9e284f7ccf8a13814e967a0224f54d0f041762dbe463aed035dd"
               },
               {
                 "file_name": "driving_cinque_terre_model_september_04_2026_tinygrad.pkl.chunk11of17",
-                "sha256": "80ab84fc6cbc1a1a59f7b6d034b5f16fd89c16078fb643f8c939c75f7b252cf6"
+                "sha256": "3b59575f2e2c080834cf9bd89356bb9c9fb35eaeda58494a5eeed66831d7c185"
               },
               {
                 "file_name": "driving_cinque_terre_model_september_04_2026_tinygrad.pkl.chunk12of17",
-                "sha256": "0461923e7487d16b4cb9ea86f3cef21134710858ba0b5f74ca3c52e16037b9ce"
+                "sha256": "7ddbf1054e00547da3d2218740c8c2b807dfebf4287f8382958274513eb4e0f9"
               },
               {
                 "file_name": "driving_cinque_terre_model_september_04_2026_tinygrad.pkl.chunk13of17",
-                "sha256": "f6c0a58d960c14cd6a2a971fed44ec31f801e44f288ac5f459f45acd39094df3"
+                "sha256": "2e507ce65cf8e6ba66b6e253ff9899ec72ae3078ee4e676626db93aaf863ed52"
               },
               {
                 "file_name": "driving_cinque_terre_model_september_04_2026_tinygrad.pkl.chunk14of17",
-                "sha256": "0b3eeb9020e0e25edde20ec9daaf228dc2c6fe9374e68c959acca4b076bf44f5"
+                "sha256": "d12ab9fb7469a0bb80101fd7c9b7f24fc0984c9a3c28ea8689d76c84b08db8ce"
               },
               {
                 "file_name": "driving_cinque_terre_model_september_04_2026_tinygrad.pkl.chunk15of17",
-                "sha256": "a22aba9dba94068fd5867fb86d8534e4164de3fa36cd0ec02c9879a34d365e72"
+                "sha256": "a5937085b12a2165df594575a0993a3fc94ae58c87acf74f5db9201c16cfd4e6"
               },
               {
                 "file_name": "driving_cinque_terre_model_september_04_2026_tinygrad.pkl.chunk16of17",
-                "sha256": "0fa2634dfa7c685527b53111e6dd54ce4f1670ef5efbcd0804b657e4a52dc15f"
+                "sha256": "38d30f14c4593dafd9e649b968c32bf9d1cae99923620bb232aa23026ee5257c"
               },
               {
                 "file_name": "driving_cinque_terre_model_september_04_2026_tinygrad.pkl.chunk17of17",
-                "sha256": "698a37bf8c35f82e1da43cf6dc6d352f6166ba04917029fb810026b13de08ac8"
+                "sha256": "18c9c12eddc45099743946cc52904befaa8a931291a70d82b08957ae539f4d8b"
               }
             ]
           }
