@@ -91,23 +91,23 @@
           "artifact": {
             "file_name": "driving_recertified_herbalist_march_01_2024_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled29/model-Recertified%20Herbalist%20%28March%2001%2C%202024%29-475/driving_recertified_herbalist_march_01_2024_tinygrad.pkl",
-              "sha256": "f94af42e12a2e186cc2dabb8335882c210fd85d06cd230d88b6866b5c5e17d41"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled31/model-Recertified%20Herbalist%20%28March%2001%2C%202024%29-126/driving_recertified_herbalist_march_01_2024_tinygrad.pkl",
+              "sha256": "e1013e3f68c7f17ba31445d07b16420dbe24723689869ebefa26b3df88b2299f"
             },
             "chunks": [
               {
                 "file_name": "driving_recertified_herbalist_march_01_2024_tinygrad.pkl.chunk01of02",
-                "sha256": "274c29ab24b7454db4cf555138785a5abf7fa13eb61c5ea9f3d90b5ee3b19ce0"
+                "sha256": "1555dd61d04b0416d234a40ae929940ec8202ba1b238b1e12bb0e492cc6ab4bc"
               },
               {
                 "file_name": "driving_recertified_herbalist_march_01_2024_tinygrad.pkl.chunk02of02",
-                "sha256": "2bf5c69e1c54519155e58a80124a9def1e0b818bdf7373ebc80897a646ff2d62"
+                "sha256": "eeede26207ba1e674d6567f643ba69b8caaa68f831329ed2c605ad82df804b5b"
               }
             ]
           }
         }
       ],
-      "build_time": "2026-09-21T17:38:05Z"
+      "build_time": "2026-09-23T18:21:36Z"
     },
     {
       "short_name": "DA",
