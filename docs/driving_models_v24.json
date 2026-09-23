@@ -264,7 +264,7 @@
       "index": 7,
       "minimum_selector_version": "20",
       "generation": "10",
-      "build_time": "2026-09-23T03:46:37Z",
+      "build_time": "2026-09-23T18:35:52Z",
       "overrides": { "folder": "Release Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -272,7 +272,7 @@
           "artifact": {
             "file_name": "driving_filet_o_fish_march_07_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled29/model-Filet%20o%20Fish%20%28March%2007%2C%202025%29-738/driving_filet_o_fish_march_07_2025_tinygrad.pkl",
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled31/model-Filet%20o%20Fish%20%28March%2007%2C%202025%29-126/driving_filet_o_fish_march_07_2025_tinygrad.pkl",
               "sha256": "cddcc3587b274ab07b6a50f487303311193e093423954c60d838bb6cdd29342d"
             },
             "chunks": [
