@@ -2548,7 +2548,7 @@
       "index": 70,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-09-21T20:13:23Z",
+      "build_time": "2026-09-23T19:33:33Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2556,21 +2556,21 @@
           "artifact": {
             "file_name": "driving_rebellious_hope_model_july_27_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled29/model-Rebellious%20Hope%20Model%20%28July%2027%2C%202026%29-594/driving_rebellious_hope_model_july_27_2026_tinygrad.pkl",
-              "sha256": "ea405a565ec71331c105fa0de6f70e163b74d0102881d73c2e766df148817c12"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled31/model-Rebellious%20Hope%20Model%20%28July%2027%2C%202026%29-126/driving_rebellious_hope_model_july_27_2026_tinygrad.pkl",
+              "sha256": "3c5ca6b67c2b8f14df784ca7363264a50cd96c978988be3de65d27554b30682c"
             },
             "chunks": [
               {
                 "file_name": "driving_rebellious_hope_model_july_27_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "33af456da18fad921b4e95273389ba50e4bf2757415ec335e3deb25dfb9b8d4c"
+                "sha256": "d0297edf8542769fce8a0e05e276ca14c601749ca54161ae6bdb1102170901e4"
               },
               {
                 "file_name": "driving_rebellious_hope_model_july_27_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "190190bc2c3a085bc92dfab81ad4621028831ca525d2d79f0e8877a212dfa5dc"
+                "sha256": "a0d7b61ec871d6772ee8db238233adcec6a7c8e02c705a134148a2b72adcc354"
               },
               {
                 "file_name": "driving_rebellious_hope_model_july_27_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "860f2a05e17f0d4311d99b6abd4be0d7ec1efe9bc558aed673991a46eb984b1b"
+                "sha256": "76297e4d4010f50e9991fc58c04684f18d9cdd808c95ba6a8999acb2985f855f"
               }
             ]
           }
