@@ -1452,7 +1452,7 @@
       "index": 8,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-09-23T03:51:20Z",
+      "build_time": "2026-09-25T19:16:04Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1460,77 +1460,77 @@
           "artifact": {
             "file_name": "driving_sad_model_august_28_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled30/model-Sad%20Model%20%28August%2028%2C%202026%29-732/driving_sad_model_august_28_2026_tinygrad.pkl",
-              "sha256": "c21cc1f844a9d5a52bf210619873030d6b3030531d1c58323bef82ae139fa56f"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled32/model-Sad%20Model%20%28August%2028%2C%202026%29-127/driving_sad_model_august_28_2026_tinygrad.pkl",
+              "sha256": "5b10c539e5ce239db4829a4e01aeda5dc134fd11ddfee460b34121c8597dde2d"
             },
             "chunks": [
               {
                 "file_name": "driving_sad_model_august_28_2026_tinygrad.pkl.chunk01of17",
-                "sha256": "7c90d19d80ffffa073cd65946922377c2badac9ba35ad5296a3f808e416b05c9"
+                "sha256": "a8d4216f9b9baee8035696956ad24896cdc3cf34baacfae24f8040bdf78581dc"
               },
               {
                 "file_name": "driving_sad_model_august_28_2026_tinygrad.pkl.chunk02of17",
-                "sha256": "8e34e4091186f94f533f58a5dd7166c17bb0ab4628598fdcdacc7b99638ed80c"
+                "sha256": "ede31b479045782169740b312a84cbe69fa9e045f2cf8da1f14fa61b39411242"
               },
               {
                 "file_name": "driving_sad_model_august_28_2026_tinygrad.pkl.chunk03of17",
-                "sha256": "50855bc0adcf917c734a8de558fb6b6160a15535f84ce192fcd39f73470494ea"
+                "sha256": "7ef94527ed002eb61d426aedcb9e7df51cd41ee18b8c445e851798704b17bd58"
               },
               {
                 "file_name": "driving_sad_model_august_28_2026_tinygrad.pkl.chunk04of17",
-                "sha256": "b9dc66f8f239fb6ba878029f2dc18faeabf55d8a1039653407182254ebb3eaa7"
+                "sha256": "280f5e0aff2b52d66fabec5e2fdcc607a33acfe09d6b253b2a82c9285fa31f8c"
               },
               {
                 "file_name": "driving_sad_model_august_28_2026_tinygrad.pkl.chunk05of17",
-                "sha256": "b8bc93bccc2d26e7ae2acc28b95c6c243f2271981758378e4aa2f25e3feb82c8"
+                "sha256": "c6cb9731110dc0af8f804f88452ce07bb9ec6344be042cbab70ca81fb2c7be6c"
               },
               {
                 "file_name": "driving_sad_model_august_28_2026_tinygrad.pkl.chunk06of17",
-                "sha256": "2815d78f47f34c97270675c236fcafa24bbd4a21e6365ead9516c868155821c9"
+                "sha256": "04dbe5f2e9f71177c0a1c01897908cd363b53e7c43e80788f79781f2f4a63bde"
               },
               {
                 "file_name": "driving_sad_model_august_28_2026_tinygrad.pkl.chunk07of17",
-                "sha256": "5c50f5ca655dc37afeb619613c06780479275011d65de244bef00ba4141b9ebc"
+                "sha256": "2df61c76ee04f29e45cb56e504813e7e70807e7a2761e6510c0219399a76cc35"
               },
               {
                 "file_name": "driving_sad_model_august_28_2026_tinygrad.pkl.chunk08of17",
-                "sha256": "f88dc22e266ddaad440fd93367e297566dfb7c7c6b9580f17d19e5f36f632fe6"
+                "sha256": "311206f369a9bc6935f85d11cb26bc5857e2a75c144f64382a9cbe842be1b621"
               },
               {
                 "file_name": "driving_sad_model_august_28_2026_tinygrad.pkl.chunk09of17",
-                "sha256": "de37058466a61d02fd4d43993910efa9caf531e9b65911694f314cfbbca94825"
+                "sha256": "8641dee6c452e1a7186b0adb47211302d790812e7f9930e0ee58f4a6e53d218d"
               },
               {
                 "file_name": "driving_sad_model_august_28_2026_tinygrad.pkl.chunk10of17",
-                "sha256": "72ea603334ae479cb672b7f5dd61a148e8994e547ef591d570aacb313e873f1b"
+                "sha256": "8ad5fcee605eeac63c9eb424938e6063aafae83bde437ed27cdf064669f1a377"
               },
               {
                 "file_name": "driving_sad_model_august_28_2026_tinygrad.pkl.chunk11of17",
-                "sha256": "914c30866365b8eb455fb6cf1d57f83576f1f2c6b00b80e0cd8d3c2c2c484ebb"
+                "sha256": "4d66433bccf80d5e9b4df14b52bbe2d49985539c89c72bcf8c4959b6b4800e1f"
               },
               {
                 "file_name": "driving_sad_model_august_28_2026_tinygrad.pkl.chunk12of17",
-                "sha256": "0d6c6d8681ec409ad26d556cdfdd64932efc4d6f6d13a38096043ef3aec89bc7"
+                "sha256": "01a23c28a86b77ffb80dc0ce804f6ebcc4b692582cb803a97f97b7f4fd36716b"
               },
               {
                 "file_name": "driving_sad_model_august_28_2026_tinygrad.pkl.chunk13of17",
-                "sha256": "5337c3d28faa43e664ed27c0ab60fb0c32ac1e38cdbd56f4ea56a250b42e8ebf"
+                "sha256": "a4ba0c90fb1c17d762df429ade53e1af74d27ba310ed03f796897567f1939907"
               },
               {
                 "file_name": "driving_sad_model_august_28_2026_tinygrad.pkl.chunk14of17",
-                "sha256": "0af92c32a12a0cbdedefbfc4420db80633650354ba69e0ba568406e674b22dcb"
+                "sha256": "9ed715881f6fa1352ac3742127091a290dfee99f0c2fe3cef668fd13647c98c4"
               },
               {
                 "file_name": "driving_sad_model_august_28_2026_tinygrad.pkl.chunk15of17",
-                "sha256": "94fc951fd93fdda6956392ab3b913efb6aad17db97b5f6a72ce7fc519fd59a89"
+                "sha256": "022d8a32487dcab122618d3c675f2a82e16eed96738c4fe879ce9b67e5266553"
               },
               {
                 "file_name": "driving_sad_model_august_28_2026_tinygrad.pkl.chunk16of17",
-                "sha256": "f33b1dd85b472a0f64930d200d64f3802153db9d8a1354e401f3989b9028699e"
+                "sha256": "4eebae35eb95674eea68c6a95791989aa3c5a54871c0689a6f117941cc4d6bbc"
               },
               {
                 "file_name": "driving_sad_model_august_28_2026_tinygrad.pkl.chunk17of17",
-                "sha256": "644139a387fec3b8d6ef83bca43a9235ebf969a19dd00a4b86ef7975c7b4df20"
+                "sha256": "368cf1fceab8b6d310260b7cd5b5a7e4201afef2f44a37a5bb4d3e838e9ed134"
               }
             ]
           }
