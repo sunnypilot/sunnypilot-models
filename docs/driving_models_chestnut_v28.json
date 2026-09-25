@@ -12,7 +12,7 @@
       "index": 0,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-09-23T03:13:09Z",
+      "build_time": "2026-09-25T20:51:12Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -20,161 +20,161 @@
           "artifact": {
             "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled30/model-Lebowski%20Model%20%28July%2001%2C%202026%29-724/driving_lebowski_model_july_01_2026_tinygrad.pkl",
-              "sha256": "1bd7825d09e32b7d8f6c32195210dbf1486b3f12802e55dd6f8fae1374e59e66"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled32/model-Lebowski%20Model%20%28July%2001%2C%202026%29-742/driving_lebowski_model_july_01_2026_tinygrad.pkl",
+              "sha256": "d9d9326966faba8e86106ec98bffd703f608a9d2d4dfe026f53e8f52b68a79b8"
             },
             "chunks": [
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk01of38",
-                "sha256": "d5132efb1a16e7f5fb6a9aa3e755fe982f53f349df13f1191f68696c9fbfae7f"
+                "sha256": "7b8323fc05aa27400b39e9661fed491afebd2abd8c00b4adcecc83f183856d4e"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk02of38",
-                "sha256": "042bb73e0ac9670347b31e8c45ed8f7cc1107e93fa02c4f1c22aae8652cf1090"
+                "sha256": "bba4501e72c04d5ae7bc92335f293316ac2e0caed15b80274ee26c15273a5741"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk03of38",
-                "sha256": "e5266c0a24b465cad38911225a8dc6c7dcbcce759f4b4abf54b391a6ef90edaa"
+                "sha256": "339b8429f0d50f458f2da1d1b42a565651f612c1a6daefb4cebe2ceead986b6c"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk04of38",
-                "sha256": "37a264eb0cdfb5319d44dd8ce31ee5c53cd0569af833cf40c176541eb150a359"
+                "sha256": "0777ac56bf2b5c2756fa11aa0a5a35fbf118f38de388a266584ec8d5ebc6be16"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk05of38",
-                "sha256": "2a8dd302783480223461d0dd9b13beb5105a6804c1b210dd0ae21638fbe1a299"
+                "sha256": "48bb31d5fd1cf8070521910c69f785485d8676df4f2a5e7f81082b1a3aadb5e4"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk06of38",
-                "sha256": "04fec73fcf211b42242a3496953bd957339815b9c89928c2966cf0453e0398fa"
+                "sha256": "66a68b8decf03a9a4ef7dea051d887430813c02b50dada510d67a244279170bc"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk07of38",
-                "sha256": "c07ce8cb59901151677fda9ca2288e330da11926a62cee1e561d9aba88c7a975"
+                "sha256": "fbfacc3471c7a6ec13f7406a26b465921182869d1affba1d1ae2f7903179796d"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk08of38",
-                "sha256": "778a1c85cd9da3608788957c8e47c04561455d7505844643bf390bc19682a74b"
+                "sha256": "bb279ab77c48bda91a5378ac7b12c53da19dd21009998683db9d1f8f0ad8f3fe"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk09of38",
-                "sha256": "b9d29c7e2c2ac350b3cd75bbaea7596d3077a0e28da48bedae96da5d3001a412"
+                "sha256": "8814031b00ee2f43fb5d99436bdef629bf28a760f6ed8616cf99238bc41c3ed1"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk10of38",
-                "sha256": "598ca69c5276bccfda40dc753193ab68daff956230fa39a5efe47bb2979708f5"
+                "sha256": "5633011a485482516830e2d209583ee8bc68b700b1405a402d0e5d3961bddb62"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk11of38",
-                "sha256": "7c67f849646eeb1d760f985a11d573e9eeb852c935891b0290f4f985a6f485cf"
+                "sha256": "98d585ab4f5e2f5e7b262de9a804afd392f2923378a16aa10ad62b1747c1621d"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk12of38",
-                "sha256": "d20b0eb609deaf2bb778628adb26cad63197f2ea9759cd0ef1424017df5568a8"
+                "sha256": "4adcabfa530fc07df52da25c5101aded145b32baefa1ac95bd466eaba1269270"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk13of38",
-                "sha256": "217cdc294ed0f01f18ed271984898e1da7f282f05ad99f1bcf74802e516c5ad4"
+                "sha256": "d7d66dff4da5b4a93ee598bb3bcbcd0db46fbb0a48739c4b63b98ca61ee35576"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk14of38",
-                "sha256": "b05150eb7848348f942007e0481221f4f135d352feb22f555a4ee303d8438f46"
+                "sha256": "3c3976b51b623d65a30d88e8a07a22678982bbf9531ee568087dc33a38cd9229"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk15of38",
-                "sha256": "0abcefeee189af8e0b3cc7494ff875e831e34b306c7355e7a72ea8216fc0f0c8"
+                "sha256": "bfcdd1da44b65b87258d22085cb55a5322850da4010c5bd9a01409a0f081317e"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk16of38",
-                "sha256": "8c84839212b28975ef7b662273e4bbc8970a24dd5e4917f3d6c3eb04c7b42a0d"
+                "sha256": "dfb89d69c24b8e904de181694eb5c61585bbf1d6ed7a1f32c6196a9d988c4d1a"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk17of38",
-                "sha256": "cfc870eac7cea6104af34682979d5f3ac551a3e3b905fc4a53707be5d0887292"
+                "sha256": "19440e301c25b0387252c09b2a3f0e31a6c673598a6143dc9ebc4403f1d42946"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk18of38",
-                "sha256": "f8b7c42e6797e2789de92af5e36564b8b71f2df92e9b682a336939a6c498fdd5"
+                "sha256": "93118faf589e6e05abdf84b94f78bdd4df13958869ae7fbaec4debd93e982f82"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk19of38",
-                "sha256": "f4ac16e805b00e825c0356ccdf932197e106802f427224d4088500c8d13b8bb4"
+                "sha256": "c6f64284468816366727711796035d87d604242828e3cb44aa28524163f39a7f"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk20of38",
-                "sha256": "f5337d568971212ae160c94b69c44b50fcdde8c0ce41c73eb73ea50a6ae55a54"
+                "sha256": "d2d05695aeb7a9a54338061672986fac0d68bf7200e2bb6808c1026392ebcbb6"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk21of38",
-                "sha256": "690bc24aee4fdf379ce1bb12df1fc21fd929c164cb15e1c52125f20db797284e"
+                "sha256": "a995994e32e1b27d8de45440f56e9eb5494fcc1d48b4fda2eba45e0f5965f80f"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk22of38",
-                "sha256": "df05002593cb052257c531ad6cae9db9bc57920d21391585265cf7dd7bf03421"
+                "sha256": "f6cf10005aced9f498ed8015d4d261ecea4eff1ea58712a07c2cead9612bebc8"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk23of38",
-                "sha256": "392fefb91396a8b500b9c706b4c2266bc962603a4b71d7660e26f24e1740c557"
+                "sha256": "29cd87301a9dfc26611fa2147b90ddc8d62555715bfdf45d3dddbb05941ec4fe"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk24of38",
-                "sha256": "ca99e8c1c7cb71cb5ea51257f491b8aadfb43dd56d817c7a2dc35eda03782b39"
+                "sha256": "72e1369b74d0d7e698e5504fe59c8c00d0803286c9f28b5b6f46065caaa765b9"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk25of38",
-                "sha256": "3c74455cd555f87d84ce97e9ef5cc6eb71d4081627e108e7a92d9d7f56c788c2"
+                "sha256": "3aea7ea582aa19a5013977ec75500161e2524c50fa4755839f06955c4fcd1807"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk26of38",
-                "sha256": "0003f2dfbd04358623316592e278542314158aa9b1f4753897186b4a490e6052"
+                "sha256": "f9dbd29456fd2b3411b32faec4a92d31f48a9744d849e3f00fc46284afe45fdd"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk27of38",
-                "sha256": "c33c38a2657a11a21c15681ec5acdaafee57d0c915e4f7549fff332d4caae4d4"
+                "sha256": "bc5c0a3cc74bf4f7688b7d8fd24b7606998e45d3dadcfeb0902efaaff1181693"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk28of38",
-                "sha256": "b6d65ea30426beda8678a05dd840507f0a829fd2d65404a5d936b3d4fc981365"
+                "sha256": "2ccefd9fe8aa4a57b7996aefa76bb5381753cddb5c335f87ba6850f65873d071"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk29of38",
-                "sha256": "3c41b29ee46a9d234b7760c5a7caef17def997118ad95c968db80efd428da845"
+                "sha256": "65ae2ef19eccf60fe99fd35331771964c7b1c988476633dc382c154abcca67d3"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk30of38",
-                "sha256": "5f4ac2dffd7dbaccd3fe6d97885d3bc177ac270b13c11b936ca44c9db6cc4ea4"
+                "sha256": "c90389724810b70c4bcbdb2781e9819c7f0c6cc3d1376b0da7661e1e8df59889"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk31of38",
-                "sha256": "2dfae384a867c879b5c32450967a01a4887e579713e7ed73b6f3f5bc37e5b483"
+                "sha256": "5c415296078a24b19e3198b07ea41c478eaaeea4f5e2f294fbdedbedd67dcd5d"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk32of38",
-                "sha256": "68e725179afb4a3cbb8b638013b4d9340ff7902f5bf99f96f79ef546682358fc"
+                "sha256": "e8602cbf3dae14e05028909c8e10158b0d3a7d905c411555a632a2cad27e19b6"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk33of38",
-                "sha256": "72d733b6906e79208fce8e9b43af22488f07e3b00140367ecd9083c1c6d449ed"
+                "sha256": "abf24bdfbc5f19edbe1df0b3de82a7f8ad70d9ae3cdd1e3727475443771c3dec"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk34of38",
-                "sha256": "cfc81f14f88bd31481077798575dfeab7b22d02c1273fe64af2697b0c6391042"
+                "sha256": "57cf736f09d7d5f80ed7da97faf0bc92a7c4df752967f7b953df46d316185392"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk35of38",
-                "sha256": "3b5f2f7aebfb1e69bc8ada4b96269f59e119b3d868969bc7b08c226cf1d103ac"
+                "sha256": "aab900c9534bfd5e05a33684b1a886c335e2f1e3a156d35479b58a77eb17357a"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk36of38",
-                "sha256": "fd368969835c7317a1d0e5d2ead4ea25e2c7f268f44d691bc89d4a63a5f4be54"
+                "sha256": "5c4fc28b6399665a74c7e659a556a08d964a6a28a160c611d086bf3e43c215ed"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk37of38",
-                "sha256": "b633a0fc6d85d8dd877260a8dcf22f28e2378d1bfb55d467e5c2ac50e6b117b9"
+                "sha256": "e08d441b8848b774cf45938186065550f5f6b4ed68bac9212105e0614bb8f694"
               },
               {
                 "file_name": "driving_lebowski_model_july_01_2026_tinygrad.pkl.chunk38of38",
-                "sha256": "740e31a111daac3340c53a533dc55cb5181c8b43dbea1d05c25178211e262553"
+                "sha256": "b3300a00c5513bfef1974c0df7cc37fcd49b969f440ef1f195c205f96be94505"
               }
             ]
           }
