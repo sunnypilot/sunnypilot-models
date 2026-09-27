@@ -1668,7 +1668,7 @@
       "index": 10,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-09-02T03:06:35Z",
+      "build_time": "2026-09-27T10:18:33Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1676,77 +1676,77 @@
           "artifact": {
             "file_name": "driving_bmrlnap_model_v6_september_01_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled24/model-BMRLNAP%20Model%20v6%20%28September%2001%2C%202026%29-412/driving_bmrlnap_model_v6_september_01_2026_tinygrad.pkl",
-              "sha256": "089ab34c6cf0ff3483360d155e3f7f1d8453d72336957f765718d49da6ccf6ce"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled36/model-BMRLNAP%20Model%20v6%20%28September%2001%2C%202026%29-133/driving_bmrlnap_model_v6_september_01_2026_tinygrad.pkl",
+              "sha256": "f1c31d2262439776992af46aad9594381f4e917bc56b4bdbdd0e669c72292a55"
             },
             "chunks": [
               {
                 "file_name": "driving_bmrlnap_model_v6_september_01_2026_tinygrad.pkl.chunk01of17",
-                "sha256": "f92037acc537ba40814061444d1f9c4e6cf1bbc76f2260e0a0f44d6a387db62f"
+                "sha256": "9a5984d58440b09e095ad10f550d3b1420ec5eea304bdd0bfd4c8f4c3b1f41f2"
               },
               {
                 "file_name": "driving_bmrlnap_model_v6_september_01_2026_tinygrad.pkl.chunk02of17",
-                "sha256": "aa0895f62feb2667411749d1e7d6e95fa4058762c1f419bdef4db9d1553e300b"
+                "sha256": "99c6ecf7915237724af6b55005872b0d42ad08e3b5fe42456af191f3cb0dc3d6"
               },
               {
                 "file_name": "driving_bmrlnap_model_v6_september_01_2026_tinygrad.pkl.chunk03of17",
-                "sha256": "62a071bb67085afdc6dd8695824259dad36734c763fd3996b2c778ef10ec5816"
+                "sha256": "ad91b1d7b91610591b8d62d2faa49e5293b9b8b9daceb28b9887323eeea91ba9"
               },
               {
                 "file_name": "driving_bmrlnap_model_v6_september_01_2026_tinygrad.pkl.chunk04of17",
-                "sha256": "3df58fe200eceb11aa55ca3e18801bf58249a326b709980dd155ce5f78f0bebd"
+                "sha256": "dd0fed4df352dd9dfa606d1d123c7896515b7d56d40b10de6f7ab2a2bbc64f65"
               },
               {
                 "file_name": "driving_bmrlnap_model_v6_september_01_2026_tinygrad.pkl.chunk05of17",
-                "sha256": "1f5985981461db6127c42c6d8442951a31573385804d9942813c47cd06f6a140"
+                "sha256": "5b8dda2032c0d267c1f41e9d43b6900d58da82cc5c4381c77b779b2a6f30a30d"
               },
               {
                 "file_name": "driving_bmrlnap_model_v6_september_01_2026_tinygrad.pkl.chunk06of17",
-                "sha256": "8b20bb571a367af1d8799457681304c39e3a24df9a94d96daf155a001753d304"
+                "sha256": "53a3dbf4034a31e2acb90c4c331fb57b0127eeb81c8b031a278fb80acad9297e"
               },
               {
                 "file_name": "driving_bmrlnap_model_v6_september_01_2026_tinygrad.pkl.chunk07of17",
-                "sha256": "0db43009a995e9f16d3335210e26c302e1f677403fd2ca78b3f86dd4597929d1"
+                "sha256": "1bf13f0b3dc5790fa0c4e3b57f7ddafb0af08d06c209a1a77566099804f111c5"
               },
               {
                 "file_name": "driving_bmrlnap_model_v6_september_01_2026_tinygrad.pkl.chunk08of17",
-                "sha256": "627a644b65fb1e0b802eb317c0f63386478b5413d03ddc6151cb72da7a7877ac"
+                "sha256": "21a6715f99c7b2231ce81d61c377db6b5a792ee45464f15a861f1894611fc997"
               },
               {
                 "file_name": "driving_bmrlnap_model_v6_september_01_2026_tinygrad.pkl.chunk09of17",
-                "sha256": "117013b31172734e4d9140713c3ad0591e18af6adc8b833059948f66cfe65b6b"
+                "sha256": "063265d66be2d50bf6a3717945dd4af4c034a1058ebd1aac60624ea61080edeb"
               },
               {
                 "file_name": "driving_bmrlnap_model_v6_september_01_2026_tinygrad.pkl.chunk10of17",
-                "sha256": "dcd0907076075becb5800e4608b410666bc8bf5dbbe8f0462aca2f44aaed2aed"
+                "sha256": "fb9eced3ed3a4ea6d9437a22dd001a4369226613a2ee94e0d48042a7c95df2d8"
               },
               {
                 "file_name": "driving_bmrlnap_model_v6_september_01_2026_tinygrad.pkl.chunk11of17",
-                "sha256": "cc75b17046fef93f8f6bcd5271f341478cf6c14734c4b87c3c6b67e2ecff9495"
+                "sha256": "69223c39d20259ee50a0e774b23abd5894a0fe40820e39c53e8d5b824118efa1"
               },
               {
                 "file_name": "driving_bmrlnap_model_v6_september_01_2026_tinygrad.pkl.chunk12of17",
-                "sha256": "8b31e12f81371c3d427d13336af6a5932494d64f885cf1fa47343dec2e10c25e"
+                "sha256": "eaddd09208591aa31be63f314522efdc49f4e98b1cd793d13dedd3c438ef9c57"
               },
               {
                 "file_name": "driving_bmrlnap_model_v6_september_01_2026_tinygrad.pkl.chunk13of17",
-                "sha256": "7e7345deb271e7b277e96daabb166c98a2e46ad10778cf6994d549636240df20"
+                "sha256": "3066c520a6de5b2a0ae18e36c39e72ccd6ede04e85b4ab1f0b6328dfd21ce654"
               },
               {
                 "file_name": "driving_bmrlnap_model_v6_september_01_2026_tinygrad.pkl.chunk14of17",
-                "sha256": "65f72b3b773e0074755173467c3c9cc228b895ec1d0cddf359a51551fe58feff"
+                "sha256": "be83c15548e33a6f17675c71f2cf4ba642645086e027edcec84a10253dd4b8a5"
               },
               {
                 "file_name": "driving_bmrlnap_model_v6_september_01_2026_tinygrad.pkl.chunk15of17",
-                "sha256": "559be82f2323a85d9e5a662b94dd2a54e89f7d2228c4c7bf10fc51b18655ac51"
+                "sha256": "25cb8683c6f87ab9dd9e31c12c3d6184c96c141595ad90de1a25554169886f51"
               },
               {
                 "file_name": "driving_bmrlnap_model_v6_september_01_2026_tinygrad.pkl.chunk16of17",
-                "sha256": "1c39933cfbe6d7211a377a47cef2ecefec12c155943af749b261d9710e8f896c"
+                "sha256": "f142dec44abfe0713a0f3df9914a527d218ad50c1d92a0e447aa2e54430f4967"
               },
               {
                 "file_name": "driving_bmrlnap_model_v6_september_01_2026_tinygrad.pkl.chunk17of17",
-                "sha256": "742516e085a933da7469e2100c80400a45cc85cd0542a11a1c4bea2cc9bbdf14"
+                "sha256": "70217de1efc5151c0e022dd63c7924fc1fde9e18b9c700cea11176ab3542fcbf"
               }
             ]
           }
