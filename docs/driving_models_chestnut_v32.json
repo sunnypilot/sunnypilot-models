@@ -2000,7 +2000,7 @@
       "index": 13,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-09-26T00:54:52Z",
+      "build_time": "2026-09-27T03:40:13Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2008,13 +2008,13 @@
           "artifact": {
             "file_name": "driving_cinque_terre_v3_model_september_17_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled33/model-Cinque%20Terre%20V3%20Model%20%28September%2017%2C%202026%29-130/driving_cinque_terre_v3_model_september_17_2026_tinygrad.pkl",
-              "sha256": "78deb5f3d4c38a67f46dbbd80628a58643d9e07f4514cb0caf17956cc01c99ba"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled34/model-Cinque%20Terre%20V3%20Model%20%28September%2017%2C%202026%29-131/driving_cinque_terre_v3_model_september_17_2026_tinygrad.pkl",
+              "sha256": "a5188758d54453e40ae5404d010145dbc6bbf9466a4e000e2d74fca2278708c3"
             },
             "chunks": [
               {
                 "file_name": "driving_cinque_terre_v3_model_september_17_2026_tinygrad.pkl.chunk01of17",
-                "sha256": "e20da5c7f3b6a903b22d3793d00692b39156cbdf888f585519661b7a189e1c03"
+                "sha256": "c3bd158506027a16c9416505afe39a2f6385a22e59bc514cee933123277a6b74"
               },
               {
                 "file_name": "driving_cinque_terre_v3_model_september_17_2026_tinygrad.pkl.chunk02of17",
