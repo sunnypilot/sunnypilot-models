@@ -408,7 +408,7 @@
       "index": 11,
       "minimum_selector_version": "20",
       "generation": "10",
-      "build_time": "2026-09-01T06:31:33Z",
+      "build_time": "2026-09-28T07:27:05Z",
       "overrides": { "folder": "2025 Pre World Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -416,17 +416,17 @@
           "artifact": {
             "file_name": "driving_kerrygold_driving_june_08_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Kerrygold%20Driving%20%28June%2008%2C%202025%29-117/driving_kerrygold_driving_june_08_2025_tinygrad.pkl",
-              "sha256": "814e8bedc46de8ac45faf918aacf880862b6f22655e1c7fc2f98680e49301a47"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled38/model-Kerrygold%20Driving%20%28June%2008%2C%202025%29-135/driving_kerrygold_driving_june_08_2025_tinygrad.pkl",
+              "sha256": "e05ae8ad49177950057c8f084f24babef75ae5ef1790db1644bb010b92326fd0"
             },
             "chunks": [
               {
                 "file_name": "driving_kerrygold_driving_june_08_2025_tinygrad.pkl.chunk01of02",
-                "sha256": "ba59db8a081a64a5684d907ad390cbbf2eb065a9cc2dfdcc4c4a9f0a7d46c87b"
+                "sha256": "b558512641bbdd7480a7e0422427459eefb6970e3880adb219b32abfdeacc840"
               },
               {
                 "file_name": "driving_kerrygold_driving_june_08_2025_tinygrad.pkl.chunk02of02",
-                "sha256": "e05a188565f35e9e13f4c272e22b4928ad912bd8bf14143c7bfe74b271343d6e"
+                "sha256": "c3621a83cf132f6c96cfdcb9753b2cbf98baddb76fe8468a5db99460b1f04a4f"
               }
             ]
           }
