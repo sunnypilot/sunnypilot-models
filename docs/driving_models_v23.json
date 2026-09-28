@@ -2508,7 +2508,7 @@
       "index": 69,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-09-01T07:26:55Z",
+      "build_time": "2026-09-28T11:13:59Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2516,21 +2516,21 @@
           "artifact": {
             "file_name": "driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Get%20Your%20Hopes%20Up%20Model%20%28July%2025%2C%202026%29-117/driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl",
-              "sha256": "9aa82d264ac8365efa601956e2379978663f9bc02e11e934aba496ac7f7c04ba"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled38/model-Get%20Your%20Hopes%20Up%20Model%20%28July%2025%2C%202026%29-135/driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl",
+              "sha256": "6a4065a3250a88c5068a1197f296722d7ce225aa05124f65fb676f7ef6bf5db0"
             },
             "chunks": [
               {
                 "file_name": "driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "1157754ddd7c9e48527128e15b1c55afe9e521bf6301527de499794c37155f67"
+                "sha256": "be5c630b9b4f8a35e6737fbfb48d603fafe012473ecf44ab7802222136b64d83"
               },
               {
                 "file_name": "driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "517878923402cf0479830478ad2ebe08f5656b1d93fab43f6949056719c068af"
+                "sha256": "60e837d60ed5ba6527639758b113106f0c135242163023f67fb359d3c19b4e3b"
               },
               {
                 "file_name": "driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "a5e6fbb7eebec069eb89ef57bd9902c85911d0fdca8f7631fee1bb1530bd0cf3"
+                "sha256": "d8e7de114590b28a2f86fdeac3a215b3ea5a0a82199a352b7b02a5f17b9a203d"
               }
             ]
           }
