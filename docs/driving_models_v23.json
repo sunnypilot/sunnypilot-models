@@ -2428,7 +2428,7 @@
       "index": 67,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-09-01T07:10:16Z",
+      "build_time": "2026-09-28T12:05:37Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2436,21 +2436,21 @@
           "artifact": {
             "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Michael%20RL%20V2%20%28July%2018%2C%202026%29-117/driving_michael_rl_v2_july_18_2026_tinygrad.pkl",
-              "sha256": "5bf4733d0e9d61972ddd0f026d7a878ca8fb55306c60ad70589b9ef8423c4bfc"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled38/model-Michael%20RL%20V2%20%28July%2018%2C%202026%29-135/driving_michael_rl_v2_july_18_2026_tinygrad.pkl",
+              "sha256": "3b5646c58b94ff27c868616c82a8c40ae019ae99058d03e556dfcaf4cba26e3e"
             },
             "chunks": [
               {
                 "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "13cf70312b321ff0ba8885ef84c7197f0dfb9d879942d9210c393fa673841de1"
+                "sha256": "ebfb05ceaf8d65a8f00c2f5bd4012a97aff7ee7059b7b11855ff252eb6b5afe8"
               },
               {
                 "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "7b90a78e0a193b9dd1ad79aa68411f52d88cbcaf91472a6782ac54868671fed3"
+                "sha256": "96399db36bbec7212a98873ac388f9e7b7398cd8eebf22be0ca8d0ec9ddcc648"
               },
               {
                 "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "b6f74409f9506a015d318395d92b675c1f7fb08da40434477e52a7ffa3fad833"
+                "sha256": "4495a6d9d3f87251102ce66a1bc647b258b23e705ab07bd888d884c567dc75cf"
               }
             ]
           }
