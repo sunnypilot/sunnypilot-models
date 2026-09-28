@@ -2628,7 +2628,7 @@
       "index": 72,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-09-01T07:09:20Z",
+      "build_time": "2026-09-28T12:00:14Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2636,21 +2636,21 @@
           "artifact": {
             "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-RDF%20Model%20V2%20%28August%2011%2C%202026%29-117/driving_rdf_model_v2_august_11_2026_tinygrad.pkl",
-              "sha256": "52fcf48bfb991f327a8982037eb0855d9a63437d78e9f4828d2be54df0f32567"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled38/model-RDF%20Model%20V2%20%28August%2011%2C%202026%29-135/driving_rdf_model_v2_august_11_2026_tinygrad.pkl",
+              "sha256": "5b3b1d381d8c97053981aaa85b482948cd8d7d603aed30a56131ceacb3c1a032"
             },
             "chunks": [
               {
                 "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "daa108d1e79cc488e0df40a518ec57db5002418c7f3e90cff39c9f4033af6098"
+                "sha256": "eed8b4d27d410405922fa21e3ed92c3d29d530ba2c311b0d9462ca57ae7a2062"
               },
               {
                 "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "08678a51a38bf7c6fe86ac69f13bedbc497093cc415e47ce81b0eab8ee2c5c76"
+                "sha256": "0195da9fa5c45b2d0c7c1e07d1432b71afc89d22bf0fb27de3a2a90c5e05b94e"
               },
               {
                 "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "88ff671dc77085cb7d39f5ceda9da2c9f2b2c30ef011eac2a0a095a8c2412aa8"
+                "sha256": "0af183a90cbb383227b1e3ddfefdfd82242a42e912c92782c6453b9c2fd2405c"
               }
             ]
           }
