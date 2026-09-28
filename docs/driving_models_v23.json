@@ -1668,7 +1668,7 @@
       "index": 46,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-09-01T05:27:27Z",
+      "build_time": "2026-09-28T07:12:51Z",
       "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1676,21 +1676,17 @@
           "artifact": {
             "file_name": "driving_planplus_v2_december_11_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Planplus%20v2%20%28December%2011%2C%202025%29-117/driving_planplus_v2_december_11_2025_tinygrad.pkl",
-              "sha256": "5b42d8cf6da07a19a29f97997e073a4e60f5768fbcee79a3e3aea4e9a06d07a7"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled38/model-Planplus%20v2%20%28December%2011%2C%202025%29-135/driving_planplus_v2_december_11_2025_tinygrad.pkl",
+              "sha256": "c9e4df88bae4735f8e9a758be7ee5b77a7baa296930c2b3650f75ad46c13f458"
             },
             "chunks": [
               {
-                "file_name": "driving_planplus_v2_december_11_2025_tinygrad.pkl.chunk01of03",
-                "sha256": "3ae56478d44e63c2bcdb452e0896d60964cef8a97befc76304f3e51afef51903"
+                "file_name": "driving_planplus_v2_december_11_2025_tinygrad.pkl.chunk01of02",
+                "sha256": "027b8d20a1d0c1e3bb82686893b090ac33af42fc88835b345a65d7bfa6657717"
               },
               {
-                "file_name": "driving_planplus_v2_december_11_2025_tinygrad.pkl.chunk02of03",
-                "sha256": "f1f6a5b9ae6f3d7c51f7d55f68e04d97ba4ad7d2c562cef3b8b7307185d5e8f5"
-              },
-              {
-                "file_name": "driving_planplus_v2_december_11_2025_tinygrad.pkl.chunk03of03",
-                "sha256": "9b2c92db51124b8b97ee78f9c7ad5ee9e44a189ef7598c7bc079300c2e3a1d6e"
+                "file_name": "driving_planplus_v2_december_11_2025_tinygrad.pkl.chunk02of02",
+                "sha256": "a0d65a471e237d2fca0a820ea0be88b11b0b66fbade47d376ed74ce8e1c4ec6d"
               }
             ]
           }
