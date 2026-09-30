@@ -1892,7 +1892,7 @@
       "index": 52,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-09-01T06:47:13Z",
+      "build_time": "2026-09-30T22:50:45Z",
       "overrides": { "folder": "Release Models", "lat": ".0", "long": ".3" },
       "models": [
         {
@@ -1900,17 +1900,17 @@
           "artifact": {
             "file_name": "driving_cd210_model_february_03_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-CD210%20Model%20%28February%2003%2C%202026%29-117/driving_cd210_model_february_03_2026_tinygrad.pkl",
-              "sha256": "da573631cea88f6b6b6bea29c650734ea1ae7f6c2bc760a330d54165c5e1b4c1"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled39/model-CD210%20Model%20%28February%2003%2C%202026%29-136/driving_cd210_model_february_03_2026_tinygrad.pkl",
+              "sha256": "ba1694a6d541e598a279f7e6e21115129c13fce0de0aec0b3a2b2dd38b3b0e8a"
             },
             "chunks": [
               {
                 "file_name": "driving_cd210_model_february_03_2026_tinygrad.pkl.chunk01of02",
-                "sha256": "37f19b3f41f4721259b883ca5e3ac2479287786d5252e8835e29432e6d4c98f0"
+                "sha256": "60d26d0e09584c97653df15f02f2c9a061d98ecdd42a5eed7e675d007635b73a"
               },
               {
                 "file_name": "driving_cd210_model_february_03_2026_tinygrad.pkl.chunk02of02",
-                "sha256": "e7039a1d9867943cec8552ec19ac1cdba4252647394cade7baad1aada774c5d7"
+                "sha256": "5e3829c198185a57ca26b4933e9f92213eb8aace407c9d5cfc93020b647ba9a9"
               }
             ]
           }
