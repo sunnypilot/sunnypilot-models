@@ -840,7 +840,7 @@
       "index": 23,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-09-01T06:11:03Z",
+      "build_time": "2026-09-30T21:09:29Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -848,17 +848,17 @@
           "artifact": {
             "file_name": "driving_space_lab_3_august_08_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Space%20Lab%203%20%28August%2008%2C%202025%29-117/driving_space_lab_3_august_08_2025_tinygrad.pkl",
-              "sha256": "1fadf8666dbf3790f47192013fc65d5d038019e707ea0bd1639a0eb1393991d8"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled39/model-Space%20Lab%203%20%28August%2008%2C%202025%29-136/driving_space_lab_3_august_08_2025_tinygrad.pkl",
+              "sha256": "163a49f7f53b2d8adbfc2dbf5922cf42864aca3a3602f19f7181e0b2fe538fe2"
             },
             "chunks": [
               {
                 "file_name": "driving_space_lab_3_august_08_2025_tinygrad.pkl.chunk01of02",
-                "sha256": "934d462beed64dcb141a682bb3cc12d7ea8397e2930dc419f31de45b1191e392"
+                "sha256": "b78bd36670135c87b101412c70ff620ded0f6eb87281bd2114b313e00549ac65"
               },
               {
                 "file_name": "driving_space_lab_3_august_08_2025_tinygrad.pkl.chunk02of02",
-                "sha256": "53f3b93fe6b37321a29f04ccdb223e1df938926af1df0c48ed9b3905615d64ab"
+                "sha256": "536436cf81f535393733054225f74ae9a1e6da169ac8b9e1d66ef4090af93d8b"
               }
             ]
           }
