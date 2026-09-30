@@ -235,23 +235,23 @@
           "artifact": {
             "file_name": "driving_notre_dame_july_01_2024_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Notre%20Dame%20%28July%2001%2C%202024%29-117/driving_notre_dame_july_01_2024_tinygrad.pkl",
-              "sha256": "f09a3064d234bff83126a899f72589c6f683ea887b594a328afcef4af40f59f2"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled39/model-Notre%20Dame%20%28July%2001%2C%202024%29-136/driving_notre_dame_july_01_2024_tinygrad.pkl",
+              "sha256": "acde0eae05cd57a452e2816415f6d4e40d0a250000ef14ff058463e17bb44680"
             },
             "chunks": [
               {
                 "file_name": "driving_notre_dame_july_01_2024_tinygrad.pkl.chunk01of02",
-                "sha256": "cd9d60bdefb723e8b76f8ac4536ec95a09a01c8b55648076549f1cca2b791a00"
+                "sha256": "1de7884217aabfe52fd6dce778d181eec5d1b9827ecf72dddb9331402078e62c"
               },
               {
                 "file_name": "driving_notre_dame_july_01_2024_tinygrad.pkl.chunk02of02",
-                "sha256": "68d50af5c857a0f39ff9d14121e0c26a7e87cd18cb6ef73c6aabaf6274a27a46"
+                "sha256": "e9f7db5cf53a25c0893ee908e979369e0ec2ab060a030d7d0a496ddabde1046c"
               }
             ]
           }
         }
       ],
-      "build_time": "2026-09-01T06:57:20Z"
+      "build_time": "2026-09-30T23:53:18Z"
     },
     {
       "short_name": "FOF",
