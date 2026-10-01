@@ -2744,7 +2744,7 @@
       "index": 75,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-10-01T01:53:10Z",
+      "build_time": "2026-10-01T22:58:29Z",
       "overrides": { "folder": "Custom Merge Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2752,17 +2752,17 @@
           "artifact": {
             "file_name": "driving_falling_phoenix_august_14_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled39/model-Falling%20Phoenix%20%28August%2014%2C%202026%29-136/driving_falling_phoenix_august_14_2026_tinygrad.pkl",
-              "sha256": "4feae907cd56a4bd7f53c35684335fa50beadc4a2bdfc94b49801a15f5f7f677"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled41/model-Falling%20Phoenix%20%28August%2014%2C%202026%29-139/driving_falling_phoenix_august_14_2026_tinygrad.pkl",
+              "sha256": "59f576419f6a96807dc006c0bd6c9e5f3cb6c9e34833fac825500ee0a087b4ea"
             },
             "chunks": [
               {
                 "file_name": "driving_falling_phoenix_august_14_2026_tinygrad.pkl.chunk01of02",
-                "sha256": "48311024061edb48597a5fccdcc1699152dde46473aae4c699daebe78686b6d8"
+                "sha256": "e9cce456e3047bd52c017c766ebcf98abdc305bf288698bae295df250f796edb"
               },
               {
                 "file_name": "driving_falling_phoenix_august_14_2026_tinygrad.pkl.chunk02of02",
-                "sha256": "a9a5336b32c2e3cbc042016ad9decf1e6759254bc18ec0234df29ad9dcf62cbf"
+                "sha256": "db72392998764e06a92fb8089c43495a1e8f4e14dbea5930d7df2c30e5f5b271"
               }
             ]
           }
