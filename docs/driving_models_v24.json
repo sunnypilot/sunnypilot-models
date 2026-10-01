@@ -336,7 +336,7 @@
       "index": 9,
       "minimum_selector_version": "20",
       "generation": "11",
-      "build_time": "2026-09-30T23:29:21Z",
+      "build_time": "2026-10-01T18:12:58Z",
       "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -344,17 +344,17 @@
           "artifact": {
             "file_name": "driving_tomb_raider_7_may_07_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled39/model-Tomb%20Raider%207%20%28May%2007%2C%202025%29-136/driving_tomb_raider_7_may_07_2025_tinygrad.pkl",
-              "sha256": "4ee29f82c4de218fe677c662806cea873d3264caee0952f37b85e95760bfe246"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled41/model-Tomb%20Raider%207%20%28May%2007%2C%202025%29-139/driving_tomb_raider_7_may_07_2025_tinygrad.pkl",
+              "sha256": "cff8d80ba6c582340c6ac18ae9c83d0f939971d85230f6ea45cc66fd0e90e347"
             },
             "chunks": [
               {
                 "file_name": "driving_tomb_raider_7_may_07_2025_tinygrad.pkl.chunk01of02",
-                "sha256": "3b867722deb1f8463559f9cc4d08822f11ce1a6483709a2fe582df84211cbd94"
+                "sha256": "41fd51f6250dfdff1c1f864111cc9a01000414ac85a2d7d83b360d754fe68d99"
               },
               {
                 "file_name": "driving_tomb_raider_7_may_07_2025_tinygrad.pkl.chunk02of02",
-                "sha256": "593c6bb4749476c793dd409a84191022e583e63844be9de8285ca8130eeffcb5"
+                "sha256": "228b92ffb3288cac4778242f56896e81c5c91c99d92607590fa6a613201264b9"
               }
             ]
           }
