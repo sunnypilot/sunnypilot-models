@@ -2468,7 +2468,7 @@
       "index": 68,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-10-01T01:37:02Z",
+      "build_time": "2026-10-01T23:03:38Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2476,21 +2476,21 @@
           "artifact": {
             "file_name": "driving_rebel_legion_model_july_22_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled39/model-Rebel%20Legion%20Model%20%28July%2022%2C%202026%29-136/driving_rebel_legion_model_july_22_2026_tinygrad.pkl",
-              "sha256": "e008353f2b73f4e02bbdda315c179659367ec3a1ec3abaf1cdef9620dd2a5fe4"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled41/model-Rebel%20Legion%20Model%20%28July%2022%2C%202026%29-139/driving_rebel_legion_model_july_22_2026_tinygrad.pkl",
+              "sha256": "f2b6c8db495b1d7ccdb77c168159fea6752c4d8fb7ede8b40ba45902f35fa425"
             },
             "chunks": [
               {
                 "file_name": "driving_rebel_legion_model_july_22_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "a6878c9dfa7de931d2028d4fdce2536d52fdf41ae0ebceb9dd69c45723da2555"
+                "sha256": "f2dc0a2459c01f9d5f2b7915c484ca96988b786f8c4d97a11379f05de81fecc8"
               },
               {
                 "file_name": "driving_rebel_legion_model_july_22_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "bd80e646276c29af9d4fa07984cab798a5f0573e52759faa18fdd28528c9eac2"
+                "sha256": "e2056ed9e29b2179f6ff0e47477c60c7892ebd6b5d3561ff1a31b13d33834187"
               },
               {
                 "file_name": "driving_rebel_legion_model_july_22_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "884b18527773fdb29a13149888b2d3ea4dbbb6be9363f830d7926450a3c43d04"
+                "sha256": "d09b9d8c6dfd41bb2eaef6380749194e5bca986048ad8f1df042eda1741d8eab"
               }
             ]
           }
