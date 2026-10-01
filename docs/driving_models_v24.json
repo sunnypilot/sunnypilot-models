@@ -2508,7 +2508,7 @@
       "index": 69,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-10-01T01:21:11Z",
+      "build_time": "2026-10-01T22:48:55Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2516,21 +2516,21 @@
           "artifact": {
             "file_name": "driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled39/model-Get%20Your%20Hopes%20Up%20Model%20%28July%2025%2C%202026%29-136/driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl",
-              "sha256": "0b9790a1c1ad5489cc4e1752d246936431aee63717f2a4e5e8d7a8d3c47c681a"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled41/model-Get%20Your%20Hopes%20Up%20Model%20%28July%2025%2C%202026%29-139/driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl",
+              "sha256": "f16444a7c4ee6c9ba2009ee09e8f9c2a2847e9f7a358fc17d64a8bc4c7fcae16"
             },
             "chunks": [
               {
                 "file_name": "driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "1c185dd3ce790d2b6df82deb64e97600745d43f58132f89cdd75bcd551d78b3d"
+                "sha256": "46d4ba95cbe46b091a9dff96e0ad76861510fd77d09c884722173f30f79dd289"
               },
               {
                 "file_name": "driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "031036092eb2c239f51a224c3e0253f4f5a415c2fed750afc70b6dfc6a153a5b"
+                "sha256": "16c74b592c679160c1ab04fe5b9640cd7823ddc79de19d2ee75cbcd07717b03d"
               },
               {
                 "file_name": "driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "790ddab3cf28f8715dac203be09c58caf80a29c92fe3be00059a02edd45380db"
+                "sha256": "7ea10d98093458d3a97c2d9c993233c9cb7a92a1204f534836519961478cc992"
               }
             ]
           }
