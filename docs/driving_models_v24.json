@@ -912,7 +912,7 @@
       "index": 25,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-09-30T21:47:25Z",
+      "build_time": "2026-10-01T18:36:13Z",
       "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -920,17 +920,17 @@
           "artifact": {
             "file_name": "driving_uv_dtr_model_august_13_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled39/model-UV%20%2B%20DTR%20Model%20%28August%2013%2C%202025%29-136/driving_uv_dtr_model_august_13_2025_tinygrad.pkl",
-              "sha256": "b0db0c8d5806f8e70f1b2f1253358b62e8dd2e6fb51d9d274f83f1fed855e327"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled41/model-UV%20%2B%20DTR%20Model%20%28August%2013%2C%202025%29-139/driving_uv_dtr_model_august_13_2025_tinygrad.pkl",
+              "sha256": "bed41cbe613fd14c523b284938e1da92c2425867b6b493cca21b628e4a4e0ff5"
             },
             "chunks": [
               {
                 "file_name": "driving_uv_dtr_model_august_13_2025_tinygrad.pkl.chunk01of02",
-                "sha256": "d51165a98b7d76d997afe42f24c607e0a1a23dc38f3d09b3c2851791aa2c801b"
+                "sha256": "4de523dd1b4d61bcf457b0d3f138eec4c98cd7b64749b04ecb8aa4a79b90c74e"
               },
               {
                 "file_name": "driving_uv_dtr_model_august_13_2025_tinygrad.pkl.chunk02of02",
-                "sha256": "2d551679f85b031e361a8abd708b0618f3b2e52364ab5e8bb8f23fc9ba17cf81"
+                "sha256": "56aa766c9b92443003f2408d036f38a3c644ef019f713a29e9a3bdbf87c4d9c6"
               }
             ]
           }
