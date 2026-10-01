@@ -2668,7 +2668,7 @@
       "index": 73,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-10-01T01:48:18Z",
+      "build_time": "2026-10-01T22:07:40Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2676,21 +2676,21 @@
           "artifact": {
             "file_name": "driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled39/model-Terrible%20Super%20Fantastic%20Model%20%28August%2012%2C%202026%29-136/driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl",
-              "sha256": "554164ad1587b6e587e5cd01a245d4d788e3f26468d7b614d7b8f012fc56a1f8"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled41/model-Terrible%20Super%20Fantastic%20Model%20%28August%2012%2C%202026%29-139/driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl",
+              "sha256": "13f7e4a8ae359c7bc05a0f1a6a28548a1df84f2b81dc5b22429911b6bae6b85b"
             },
             "chunks": [
               {
                 "file_name": "driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "e69016cd628a279ce7890f0986e04f4486da5f27b628dcbfd7060eade2178175"
+                "sha256": "4793baf793b7f42c127ac245e2dea536306f9bbfe871819fb47c8505c2695276"
               },
               {
                 "file_name": "driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "8a43c395bab5f6c939fd938a0cf698e54f7e082ac3c12167196ed4920befc9b6"
+                "sha256": "d06a5692fd18ad256e134c2b92e42fe40f23f2efd81ec2b2673a46583353025e"
               },
               {
                 "file_name": "driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "85ec5cdff8429f0a3eee939d67e4a488c2d35ee839374370539829c83f058b76"
+                "sha256": "d81856052a80af405ebd3c62693ea84f9bdffe055acdbc788a634a81a0480795"
               }
             ]
           }
