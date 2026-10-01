@@ -2428,7 +2428,7 @@
       "index": 67,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-10-01T01:15:45Z",
+      "build_time": "2026-10-01T22:12:56Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2436,21 +2436,21 @@
           "artifact": {
             "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled39/model-Michael%20RL%20V2%20%28July%2018%2C%202026%29-136/driving_michael_rl_v2_july_18_2026_tinygrad.pkl",
-              "sha256": "507344cec6f3c56fd2b061c3a989baf9529bb5d6af6ebf3a24da97691379392d"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled41/model-Michael%20RL%20V2%20%28July%2018%2C%202026%29-139/driving_michael_rl_v2_july_18_2026_tinygrad.pkl",
+              "sha256": "1e39d5b2fb33913a9a9782012b31065d2c83f5f8d580c096be71794c083fd974"
             },
             "chunks": [
               {
                 "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "4927f7dca311282ca3d1f8ea7b1c4086615f5c9a94697e780b0cb5b3b2835e53"
+                "sha256": "888e5f36af6a90597ff70c45a26d772e6e0da1267649706a8706bed99087b757"
               },
               {
                 "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "cf933b584601bb10f143c9063f8547665e99c6537ab3113b494ca3d6b24e74a3"
+                "sha256": "be79102babd9246cc921eb11db1ea658940d25726e553e17f990e52aa4f2aa09"
               },
               {
                 "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "8db1bb9413550829227240b8caa8f356cba984c7c1e90df37f95fdcf25f4da6d"
+                "sha256": "a5c5f0435b3c401f8ca72428489959bcd52711a0846366053e07cc7d9c872098"
               }
             ]
           }
