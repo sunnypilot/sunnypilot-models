@@ -2468,7 +2468,7 @@
       "index": 68,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-09-01T07:24:24Z",
+      "build_time": "2026-10-01T01:37:02Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2476,21 +2476,21 @@
           "artifact": {
             "file_name": "driving_rebel_legion_model_july_22_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Rebel%20Legion%20Model%20%28July%2022%2C%202026%29-117/driving_rebel_legion_model_july_22_2026_tinygrad.pkl",
-              "sha256": "c57a78b16ab9c0c2706f2c0ee5a7da7c72165db956febabbbe93d5c05b5d4dbf"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled39/model-Rebel%20Legion%20Model%20%28July%2022%2C%202026%29-136/driving_rebel_legion_model_july_22_2026_tinygrad.pkl",
+              "sha256": "e008353f2b73f4e02bbdda315c179659367ec3a1ec3abaf1cdef9620dd2a5fe4"
             },
             "chunks": [
               {
                 "file_name": "driving_rebel_legion_model_july_22_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "46369cc7544b0f5b8da6a0ba8efb824c9668e732ce7bfa23f33cad37de8f620e"
+                "sha256": "a6878c9dfa7de931d2028d4fdce2536d52fdf41ae0ebceb9dd69c45723da2555"
               },
               {
                 "file_name": "driving_rebel_legion_model_july_22_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "085ab70c7a3f3d32318fb3f933e24d6314c49f6d681d31d81f2a1188d28bae2c"
+                "sha256": "bd80e646276c29af9d4fa07984cab798a5f0573e52759faa18fdd28528c9eac2"
               },
               {
                 "file_name": "driving_rebel_legion_model_july_22_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "741d679c06f5862d3a7c838821c0376d37049ca3b1cebf49bf014080cbf201be"
+                "sha256": "884b18527773fdb29a13149888b2d3ea4dbbb6be9363f830d7926450a3c43d04"
               }
             ]
           }
