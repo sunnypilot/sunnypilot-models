@@ -2588,7 +2588,7 @@
       "index": 71,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-09-01T07:18:06Z",
+      "build_time": "2026-10-01T01:10:22Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2596,21 +2596,21 @@
           "artifact": {
             "file_name": "driving_rdf_model_august_05_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-RDF%20Model%20%28August%2005%2C%202026%29-117/driving_rdf_model_august_05_2026_tinygrad.pkl",
-              "sha256": "9e7d5368ed92cd554df4a66cb23d840feabd05905ac3d434e968e91a7ce086bd"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled39/model-RDF%20Model%20%28August%2005%2C%202026%29-136/driving_rdf_model_august_05_2026_tinygrad.pkl",
+              "sha256": "28059ee70df3b778c27535a14be630584fa75f9c7c8bda504d86ce9da0c6af38"
             },
             "chunks": [
               {
                 "file_name": "driving_rdf_model_august_05_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "9713031eb6648f9240d137dc1bab9c88558d2a78ac3048a88090a8d3eeffc519"
+                "sha256": "2129b7e00d683f3e5f6c5283c8e2cfd28f0e36dce969964b17db4d339987ea2a"
               },
               {
                 "file_name": "driving_rdf_model_august_05_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "b88d7d69db915d4430d1255521cc5f948b7987889ed6f783d5c74fee8732d35a"
+                "sha256": "5dbb5c208bf92c826df731d64aeeb6acd00425b600a4a0e27aad3f8cd1abe4a9"
               },
               {
                 "file_name": "driving_rdf_model_august_05_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "dd8dcf565946c94e9bef49ff14f688eca173e6dfd80ec641b968475b1efa00e1"
+                "sha256": "2c8c638d6f80c7268ce6a0544d52559fe4d05443cca5f80e5d82c5e049a457c3"
               }
             ]
           }
