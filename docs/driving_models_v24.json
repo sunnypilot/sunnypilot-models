@@ -444,7 +444,7 @@
       "index": 12,
       "minimum_selector_version": "20",
       "generation": "10",
-      "build_time": "2026-09-30T21:33:20Z",
+      "build_time": "2026-10-01T17:45:06Z",
       "overrides": { "folder": "2025 Pre World Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -452,17 +452,17 @@
           "artifact": {
             "file_name": "driving_liquid_crystal_driving_june_21_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled39/model-Liquid%20Crystal%20Driving%20%28June%2021%2C%202025%29-136/driving_liquid_crystal_driving_june_21_2025_tinygrad.pkl",
-              "sha256": "d81003ca517adf3d86b2a90727df04a8c28165159bdec059e2a4c697ee1b50a3"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled41/model-Liquid%20Crystal%20Driving%20%28June%2021%2C%202025%29-139/driving_liquid_crystal_driving_june_21_2025_tinygrad.pkl",
+              "sha256": "522acbcb38610728cb3a14545791688c007fd8d2da782e84fcd2f2739f4161d8"
             },
             "chunks": [
               {
                 "file_name": "driving_liquid_crystal_driving_june_21_2025_tinygrad.pkl.chunk01of02",
-                "sha256": "c3c52f21ea132924b9a242e1e543d3d031ae892266e57c7dac704323e0f8d211"
+                "sha256": "a17b7e3e2e8ed9db24bf935633d5df920c1b3db26fe5505b20465157f18a3443"
               },
               {
                 "file_name": "driving_liquid_crystal_driving_june_21_2025_tinygrad.pkl.chunk02of02",
-                "sha256": "ca58e90e1d774127ff16f8204cc9f6bbf2a200a9fe82c5d1d44146a316141371"
+                "sha256": "1bea6439fa41dd26c7ba5e212237817012f1b7b676b680fa462acb851dc1a3d0"
               }
             ]
           }
