@@ -2780,7 +2780,7 @@
       "index": 76,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-10-01T01:00:19Z",
+      "build_time": "2026-10-01T22:28:16Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2788,21 +2788,21 @@
           "artifact": {
             "file_name": "driving_terrible_super_fantastic_do_over_model_august_15_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled39/model-Terrible%20Super%20Fantastic%20Do%20Over%20Model%20%28August%2015%2C%202026%29-136/driving_terrible_super_fantastic_do_over_model_august_15_2026_tinygrad.pkl",
-              "sha256": "0269e237453cb2bfe4583d444cd52c67ac5cc497a36038d135e77c7d00182f85"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled41/model-Terrible%20Super%20Fantastic%20Do%20Over%20Model%20%28August%2015%2C%202026%29-139/driving_terrible_super_fantastic_do_over_model_august_15_2026_tinygrad.pkl",
+              "sha256": "2bb4725181cbd88f3ae69503541e81dee2b90d0c14a36e9fc8174f569b006aef"
             },
             "chunks": [
               {
                 "file_name": "driving_terrible_super_fantastic_do_over_model_august_15_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "274fdc3e5ca09f077a24ceffbf3e9f96f28c6f7f88700df906d3d7c52a45ac51"
+                "sha256": "46f7827f2bc7556de12f95c1233ac8a347724995941598f011b0aab47787c215"
               },
               {
                 "file_name": "driving_terrible_super_fantastic_do_over_model_august_15_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "03d0c9c8c949ee68c76fafe16859af2af994961283f6b68810e758db6fbc2752"
+                "sha256": "b8b22c072f0b8a1fa34e83decc16bed1430797a6cecdb179fd321c4d879dac50"
               },
               {
                 "file_name": "driving_terrible_super_fantastic_do_over_model_august_15_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "f6658b4c99c2987c00f626f4116d1685b39042570277cd7d15cd2a9a9b6547ae"
+                "sha256": "ac336bcdb69032b4470724ccbe855feedda92d10c2ef9ca76c3464790137a387"
               }
             ]
           }
