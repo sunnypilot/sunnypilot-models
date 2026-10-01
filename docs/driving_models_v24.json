@@ -127,23 +127,23 @@
           "artifact": {
             "file_name": "driving_duck_amigo_march_18_2024_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled39/model-Duck%20Amigo%20%28March%2018%2C%202024%29-136/driving_duck_amigo_march_18_2024_tinygrad.pkl",
-              "sha256": "6a7d345a6285f73127122d37088a3f784e6fda0a215b9e54d196dc6d6de0b316"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled41/model-Duck%20Amigo%20%28March%2018%2C%202024%29-139/driving_duck_amigo_march_18_2024_tinygrad.pkl",
+              "sha256": "16248e238dd1606755393b3c5637a37f1382949f8a254ad6f49c31d30c7e540b"
             },
             "chunks": [
               {
                 "file_name": "driving_duck_amigo_march_18_2024_tinygrad.pkl.chunk01of02",
-                "sha256": "18ca4bd0b479eccb41711f6b1cf5d2efb0ed9a242da2b397fb5f531fa5df4e85"
+                "sha256": "f2e54c81c4251209a81406a43ed7b57008700cdb7ff837295bd085ef0c5b74de"
               },
               {
                 "file_name": "driving_duck_amigo_march_18_2024_tinygrad.pkl.chunk02of02",
-                "sha256": "6526adeb3345b5d621920c993f6b91b3e90ccabbdb420f381ce5296d19d58a16"
+                "sha256": "3183dc4b2f43583b7b768c655842743449700ced6640481bd96770dfc33bfc02"
               }
             ]
           }
         }
       ],
-      "build_time": "2026-09-30T20:19:49Z"
+      "build_time": "2026-10-01T21:15:14Z"
     },
     {
       "short_name": "WD40",
