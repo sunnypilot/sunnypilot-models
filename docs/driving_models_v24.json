@@ -1236,7 +1236,7 @@
       "index": 34,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-10-01T19:18:29Z",
+      "build_time": "2026-10-02T08:24:41Z",
       "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1244,17 +1244,17 @@
           "artifact": {
             "file_name": "driving_the_cool_peoples_model_october_03_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled41/model-The%20Cool%20Peoples%20Model%20%28October%2003%2C%202025%29-139/driving_the_cool_peoples_model_october_03_2025_tinygrad.pkl",
-              "sha256": "15cee21108f5e97dbe78bc043b69d4409d015b086b139a7ffa54bb2621b7743c"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-The%20Cool%20Peoples%20Model%20%28October%2003%2C%202025%29-140/driving_the_cool_peoples_model_october_03_2025_tinygrad.pkl",
+              "sha256": "7022de6e2beea9df83d22e1a34579573243286998baf3c83bf46f9fcea43309d"
             },
             "chunks": [
               {
                 "file_name": "driving_the_cool_peoples_model_october_03_2025_tinygrad.pkl.chunk01of02",
-                "sha256": "68c9461dc13b0dc29128034a60ac7a6cd645fe8f7cc91e5aba5c4372497125a9"
+                "sha256": "46fe90a51b8cd34d1aa0a2b34624d22839087a896fa12bfe8f24b6ac2573c7dd"
               },
               {
                 "file_name": "driving_the_cool_peoples_model_october_03_2025_tinygrad.pkl.chunk02of02",
-                "sha256": "a3ac45bb24d372424d8a719a6e85cdf8f8a19992fa333fefc85e3c8d5657bff8"
+                "sha256": "fcfdde81682542e4a84e4363dd95b7707225039c72bce75d2002ab606d97d795"
               }
             ]
           }
