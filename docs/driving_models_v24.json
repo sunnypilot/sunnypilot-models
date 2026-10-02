@@ -163,7 +163,7 @@
           "artifact": {
             "file_name": "driving_wd40_april_09_2024_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled41/model-WD40%20%28April%2009%2C%202024%29-139/driving_wd40_april_09_2024_tinygrad.pkl",
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-WD40%20%28April%2009%2C%202024%29-140/driving_wd40_april_09_2024_tinygrad.pkl",
               "sha256": "c7b5dbc881a474f45e1acd1b73e38ed948b6e182b92ffcc57a7cc0c48183f125"
             },
             "chunks": [
@@ -179,7 +179,7 @@
           }
         }
       ],
-      "build_time": "2026-10-01T18:45:29Z"
+      "build_time": "2026-10-02T07:56:44Z"
     },
     {
       "short_name": "NDV2",
