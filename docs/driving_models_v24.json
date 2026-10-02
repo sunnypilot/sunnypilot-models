@@ -1560,7 +1560,7 @@
       "index": 43,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-10-01T21:33:47Z",
+      "build_time": "2026-10-02T06:28:18Z",
       "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1568,17 +1568,17 @@
           "artifact": {
             "file_name": "driving_neurips_driving_model_v2_november_12_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled41/model-Neurips%20Driving%20Model%20v2%20%28November%2012%2C%202025%29-139/driving_neurips_driving_model_v2_november_12_2025_tinygrad.pkl",
-              "sha256": "79c3112e9636a77c826b59b7d9fe7fa4fb7d5637ac922246a55b91b86cdcb17d"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Neurips%20Driving%20Model%20v2%20%28November%2012%2C%202025%29-140/driving_neurips_driving_model_v2_november_12_2025_tinygrad.pkl",
+              "sha256": "f0141b67e3fef5ef40982f92ccb99c4a087f2affcfbc8b03a40dc8d5d1bf4a1b"
             },
             "chunks": [
               {
                 "file_name": "driving_neurips_driving_model_v2_november_12_2025_tinygrad.pkl.chunk01of02",
-                "sha256": "bb1e9c83b32c9e73a7bfc3089701e1bb6455391ca4bf227e35e855400ea826af"
+                "sha256": "3a798f27157fa01c3fc8cadfdce2ffa641bc792d5ab22ef1b9e21a2f92d5f010"
               },
               {
                 "file_name": "driving_neurips_driving_model_v2_november_12_2025_tinygrad.pkl.chunk02of02",
-                "sha256": "0a5aa438202ce5b5539e701e0650baff3a1fe22e33e505f9a65e015c1a308ae4"
+                "sha256": "d33562d4dcffaadbb4e63cab644dd80cda4048c665ce6ae02470cbe154ac63c4"
               }
             ]
           }
