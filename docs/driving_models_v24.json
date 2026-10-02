@@ -948,7 +948,7 @@
       "index": 26,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-10-01T22:02:19Z",
+      "build_time": "2026-10-02T07:33:14Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -956,17 +956,17 @@
           "artifact": {
             "file_name": "driving_steam_powered_model_august_16_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled41/model-Steam%20Powered%20Model%20%28August%2016%2C%202025%29-139/driving_steam_powered_model_august_16_2025_tinygrad.pkl",
-              "sha256": "39bf2dd8341149aad462d5640c250246931ef24571e44881776d35d235c4d244"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Steam%20Powered%20Model%20%28August%2016%2C%202025%29-140/driving_steam_powered_model_august_16_2025_tinygrad.pkl",
+              "sha256": "629f594a2c80173679596cf5afa9ab0fc6f30affa2e9d402907c8c329232b842"
             },
             "chunks": [
               {
                 "file_name": "driving_steam_powered_model_august_16_2025_tinygrad.pkl.chunk01of02",
-                "sha256": "9bd82c09e9d0d9dfd8e889107bdc5268f959bea31842eeede39602ee26703ac4"
+                "sha256": "cb557de861a50f44a515998791082279da3151a2706aab8a6eda80a04259d7fa"
               },
               {
                 "file_name": "driving_steam_powered_model_august_16_2025_tinygrad.pkl.chunk02of02",
-                "sha256": "113807b0df148d319cb9f48c0b046e77832f4baae20831afef1f0b1676ada619"
+                "sha256": "ad0786b1e16c4a92df9ac8f2abdaa12a9a853b803f82e7e0eb68da866f44e083"
               }
             ]
           }
