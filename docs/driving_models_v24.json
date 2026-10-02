@@ -1056,7 +1056,7 @@
       "index": 29,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-10-01T17:54:18Z",
+      "build_time": "2026-10-02T08:15:13Z",
       "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1064,17 +1064,17 @@
           "artifact": {
             "file_name": "driving_fly_by_wire_september_04_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled41/model-Fly%20By%20Wire%20%28September%2004%2C%202025%29-139/driving_fly_by_wire_september_04_2025_tinygrad.pkl",
-              "sha256": "1e606df59cd6e00bf82bd32d04e1e011ffcde88cb406edc00e53fc74f0c9fff0"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Fly%20By%20Wire%20%28September%2004%2C%202025%29-140/driving_fly_by_wire_september_04_2025_tinygrad.pkl",
+              "sha256": "0d8aa09355a0c91dc9e1b4fb74fee9cab4233027fc9226b1afeaeded14ec62cd"
             },
             "chunks": [
               {
                 "file_name": "driving_fly_by_wire_september_04_2025_tinygrad.pkl.chunk01of02",
-                "sha256": "14ff14e8d7f14ff6ed2f9ca7cc9018ca6c7edb0a7cb6470a50956cb4f0c2285a"
+                "sha256": "fa8b40af97cb0aa92b34bfd6448bd8a9958f66d6ecb144ac99c8854b418cdb4b"
               },
               {
                 "file_name": "driving_fly_by_wire_september_04_2025_tinygrad.pkl.chunk02of02",
-                "sha256": "5f8f63243da2ed3957e37f6ba2f75dad007d81d80f4d972e5d6b819fe30a3db9"
+                "sha256": "be7039a2f68b3a4fc64149908680ac81663f56f0f7b2a36a650bedae5e732825"
               }
             ]
           }
