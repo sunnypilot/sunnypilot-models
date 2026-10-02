@@ -2468,7 +2468,7 @@
       "index": 68,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-10-02T20:18:18Z",
+      "build_time": "2026-10-02T23:03:17Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2476,21 +2476,21 @@
           "artifact": {
             "file_name": "driving_rebel_legion_model_july_22_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Rebel%20Legion%20Model%20%28July%2022%2C%202026%29-773/driving_rebel_legion_model_july_22_2026_tinygrad.pkl",
-              "sha256": "b49837308a5bfef2f8fff55dc46cac42cc4173245e465dc2dec43e0300e4d694"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Rebel%20Legion%20Model%20%28July%2022%2C%202026%29-809/driving_rebel_legion_model_july_22_2026_tinygrad.pkl",
+              "sha256": "c63ba6ce4095cfc629b5a2fc0b76645b938b441029ca03d0b898b47a9cfa310c"
             },
             "chunks": [
               {
                 "file_name": "driving_rebel_legion_model_july_22_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "eadbb0823c74a2153d08322fa2de69e8f1abe9884de45101d9519bd067c081a4"
+                "sha256": "618d5b9e8dfc95917c1e3c39e12ba888b95bd69e93ed40e3e32552c38265975f"
               },
               {
                 "file_name": "driving_rebel_legion_model_july_22_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "6399d6c43c508bab1574372e2e5f0d93038a1c85641cd02e834cab5476f844eb"
+                "sha256": "035cfa777f2cd39ba10bb5ecbbada5672bfa7cfa5fa6649dc3762eab82874309"
               },
               {
                 "file_name": "driving_rebel_legion_model_july_22_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "e4c0e8898c86dc86487c1a8f96a45c633ce81428bb59ba6c3581ab1d5b6fb7ae"
+                "sha256": "e62c5a32ac1de4882d1cda109c2fdf1f22b135fd2ecfdbd7f2a82ab78f3bb1e8"
               }
             ]
           }
