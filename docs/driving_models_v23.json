@@ -2548,7 +2548,7 @@
       "index": 70,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-10-02T17:56:58Z",
+      "build_time": "2026-10-02T20:13:03Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2556,7 +2556,7 @@
           "artifact": {
             "file_name": "driving_rebellious_hope_model_july_27_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Rebellious%20Hope%20Model%20%28July%2027%2C%202026%29-762/driving_rebellious_hope_model_july_27_2026_tinygrad.pkl",
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Rebellious%20Hope%20Model%20%28July%2027%2C%202026%29-771/driving_rebellious_hope_model_july_27_2026_tinygrad.pkl",
               "sha256": "a2df95097a1b75e8fdd7c10d174f546b38813c56a4b27520aa49849ae000455c"
             },
             "chunks": [
