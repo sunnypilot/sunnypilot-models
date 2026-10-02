@@ -300,7 +300,7 @@
       "index": 8,
       "minimum_selector_version": "20",
       "generation": "11",
-      "build_time": "2026-10-01T17:35:51Z",
+      "build_time": "2026-10-02T07:10:21Z",
       "overrides": { "folder": "Custom Merge Models", "lat": ".2", "long": ".3" },
       "models": [
         {
@@ -308,17 +308,17 @@
           "artifact": {
             "file_name": "driving_sp_vikander_model_may_03_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled41/model-SP%20Vikander%20Model%20%28May%2003%2C%202025%29-139/driving_sp_vikander_model_may_03_2025_tinygrad.pkl",
-              "sha256": "6b286459be7ab0c6f2958577cf3e25bced19199307c648f2d37531c659799b9c"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-SP%20Vikander%20Model%20%28May%2003%2C%202025%29-140/driving_sp_vikander_model_may_03_2025_tinygrad.pkl",
+              "sha256": "eb8ac0d68a67f99b8676e897efda6c2a14746551d998efbcb262119a654b7d03"
             },
             "chunks": [
               {
                 "file_name": "driving_sp_vikander_model_may_03_2025_tinygrad.pkl.chunk01of02",
-                "sha256": "1546fe1817dac99c9bb63056fc315afdbb5fd4871750bf9bfb1a6cd5d5011de5"
+                "sha256": "057549edd1a366b895ba3e1bf8fa93c3977c12fb232ae23337e17c477fa24c6c"
               },
               {
                 "file_name": "driving_sp_vikander_model_may_03_2025_tinygrad.pkl.chunk02of02",
-                "sha256": "64d89f07687a81e1c4f3dba1b07f9abb8c215d59db7dc5eba304f7835ad75f73"
+                "sha256": "efc9178d84547cf1bcee03b4fedfc46a7c5576bb0583b48669bdb69612dcf9d0"
               }
             ]
           }
