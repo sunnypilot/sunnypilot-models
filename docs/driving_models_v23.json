@@ -2588,7 +2588,7 @@
       "index": 71,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-10-02T16:09:19Z",
+      "build_time": "2026-10-02T17:46:11Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2596,21 +2596,21 @@
           "artifact": {
             "file_name": "driving_rdf_model_august_05_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-RDF%20Model%20%28August%2005%2C%202026%29-752/driving_rdf_model_august_05_2026_tinygrad.pkl",
-              "sha256": "fef3d0042262d5865967bd9580b853b9b4bda3645f8fd4fe2e3093c528bbf452"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-RDF%20Model%20%28August%2005%2C%202026%29-761/driving_rdf_model_august_05_2026_tinygrad.pkl",
+              "sha256": "076ac3583d56b4dfd2e38d8c9aae2b205d2085c2956c340b4e132087cb93505b"
             },
             "chunks": [
               {
                 "file_name": "driving_rdf_model_august_05_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "00a72d372e259b78be264126adbdcb584db6237761b041c5f4cb88f3a2199c4e"
+                "sha256": "face9b21e29a42bf56ae1ff84a95728b0a668a81c024cb04efbbd847eedde92f"
               },
               {
                 "file_name": "driving_rdf_model_august_05_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "316049d042d513701a4c9272ea1fb54a2881c9788f0b3c7e3908a686aadca8fe"
+                "sha256": "20a3abd1418adae5d22818a70122afc9403f9c16da59310aa2c5b0320d4808b1"
               },
               {
                 "file_name": "driving_rdf_model_august_05_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "75b28e54cdee50e4e560f59d252086d3bdfa33ea7c5e98f574c0b0cff7622d2c"
+                "sha256": "50dce2471f652663095400c04372da480984a8cb34109ab1db83ffddf3e10230"
               }
             ]
           }
