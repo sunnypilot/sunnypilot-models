@@ -1848,7 +1848,7 @@
       "index": 51,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-10-01T19:51:18Z",
+      "build_time": "2026-10-02T06:00:29Z",
       "overrides": { "folder": "Master Models", "lat": ".0", "long": ".3" },
       "models": [
         {
@@ -1856,17 +1856,17 @@
           "artifact": {
             "file_name": "driving_wmi_v12_january_13_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled41/model-WMI%20V12%20%28January%2013%2C%202026%29-139/driving_wmi_v12_january_13_2026_tinygrad.pkl",
-              "sha256": "589725878ebe3f1802fa761a3d50e5d2a26373fb42771f065015636b08e7b90e"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-WMI%20V12%20%28January%2013%2C%202026%29-140/driving_wmi_v12_january_13_2026_tinygrad.pkl",
+              "sha256": "ec4cc5103d5943cc30a271062155c753e0a151e0c571f194c984ea43491ad3c0"
             },
             "chunks": [
               {
                 "file_name": "driving_wmi_v12_january_13_2026_tinygrad.pkl.chunk01of02",
-                "sha256": "7608a47cb16bbeb2c529f5504377d35606da205f2268608298b652e8552fd419"
+                "sha256": "9e861ddad465c1475a09b46a34f1548ee264af85ac918fee10bbe7e38f4a2153"
               },
               {
                 "file_name": "driving_wmi_v12_january_13_2026_tinygrad.pkl.chunk02of02",
-                "sha256": "fa3e7c4f05631594a5be97a14afde8251cfd8d8885593cba04f42a7fc42d8413"
+                "sha256": "fe13a80001f9461671a3fc0c7a986f70d30b24255a829a91a9f6d350d90fbbfb"
               }
             ]
           }
