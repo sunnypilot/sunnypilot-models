@@ -2628,7 +2628,7 @@
       "index": 72,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-10-02T19:57:01Z",
+      "build_time": "2026-10-02T22:24:27Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2636,21 +2636,21 @@
           "artifact": {
             "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-RDF%20Model%20V2%20%28August%2011%2C%202026%29-769/driving_rdf_model_v2_august_11_2026_tinygrad.pkl",
-              "sha256": "356eafedfdeeaaeebcddd5f7950646ec1f0f15e03f6132bf1b819cd4ca088861"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-RDF%20Model%20V2%20%28August%2011%2C%202026%29-805/driving_rdf_model_v2_august_11_2026_tinygrad.pkl",
+              "sha256": "703497fab7ed9d748188fa0b1d660a406e4c547768d444f65462405331022e4c"
             },
             "chunks": [
               {
                 "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "3103c4d404952069eadba1b74a904256bd7e77359bd2ba373969bb4d57118ce6"
+                "sha256": "787365a6c83104dfd88dc3635cd295845ae3122738b65de25aae423b771378de"
               },
               {
                 "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "339d8c3a382e093e1716f00b04ef77c06c210fb07ca80bbebdf21da2a37c5d63"
+                "sha256": "0597dbcb28e1a4ddc8bb3c1f23b7eb99807c197d9a04c6080540dad098e3f88a"
               },
               {
                 "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "3ecd7dc738277f7308abbc70f422dbbf64e23c2198d0765b5709b1dabaa0e34f"
+                "sha256": "f1c6ed6d1806f9255676d55672f4788e221c337828371a33ec3244d22aaf9ac0"
               }
             ]
           }
