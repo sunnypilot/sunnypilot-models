@@ -2628,7 +2628,7 @@
       "index": 72,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-10-02T16:20:05Z",
+      "build_time": "2026-10-02T17:51:42Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2636,21 +2636,21 @@
           "artifact": {
             "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-RDF%20Model%20V2%20%28August%2011%2C%202026%29-751/driving_rdf_model_v2_august_11_2026_tinygrad.pkl",
-              "sha256": "015c4ae325e91795be23a1ad11b95bbe1af2d5bed6a469540da30b6aeae29e52"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-RDF%20Model%20V2%20%28August%2011%2C%202026%29-760/driving_rdf_model_v2_august_11_2026_tinygrad.pkl",
+              "sha256": "356eafedfdeeaaeebcddd5f7950646ec1f0f15e03f6132bf1b819cd4ca088861"
             },
             "chunks": [
               {
                 "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "e02ded4bd2650f5f4171d8d01b9e94e38cb7de80dcb5da43e358e6b512fd7259"
+                "sha256": "3103c4d404952069eadba1b74a904256bd7e77359bd2ba373969bb4d57118ce6"
               },
               {
                 "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "2c42701f2704b84b42f93ce109721f14fabcad539ee1f19e56e6a5bdd451af00"
+                "sha256": "339d8c3a382e093e1716f00b04ef77c06c210fb07ca80bbebdf21da2a37c5d63"
               },
               {
                 "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "932bc77b184480b6f3d40ab412c40dba0ff6ac6ae84a9bc0b67a070c5ded0b13"
+                "sha256": "3ecd7dc738277f7308abbc70f422dbbf64e23c2198d0765b5709b1dabaa0e34f"
               }
             ]
           }
