@@ -1020,7 +1020,7 @@
       "index": 28,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-10-01T18:40:48Z",
+      "build_time": "2026-10-02T05:32:36Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1028,17 +1028,17 @@
           "artifact": {
             "file_name": "driving_firehose_model_august_31_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled41/model-Firehose%20Model%20%28August%2031%2C%202025%29-139/driving_firehose_model_august_31_2025_tinygrad.pkl",
-              "sha256": "c216687ebc5e68116a1829d3854ac0019060724ee0e7d5e5356b89c63fc5868e"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Firehose%20Model%20%28August%2031%2C%202025%29-140/driving_firehose_model_august_31_2025_tinygrad.pkl",
+              "sha256": "0b0b210982baf9b70f3661a5983a582d38a1f90fcf6fe3551a954c9cfa21610e"
             },
             "chunks": [
               {
                 "file_name": "driving_firehose_model_august_31_2025_tinygrad.pkl.chunk01of02",
-                "sha256": "f324faa70b47baa5bbc33fcce0c6aeade285d3e0d2e5e744d631c6273f1adb79"
+                "sha256": "f7b2e02bb829b8d35172defa36af5bb4d8a9112b2cb83507064ad27be668a0ee"
               },
               {
                 "file_name": "driving_firehose_model_august_31_2025_tinygrad.pkl.chunk02of02",
-                "sha256": "f09f62d6b36464e96c45c24bf0e977dd2ffc31ff17c074276f39dec9787fabd4"
+                "sha256": "70a77226575b7e87750ffbb247b62c327ade0b8f21249270f1d9aa1832265855"
               }
             ]
           }
