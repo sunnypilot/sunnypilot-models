@@ -2428,7 +2428,7 @@
       "index": 67,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-10-02T20:23:36Z",
+      "build_time": "2026-10-02T22:50:29Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2436,21 +2436,21 @@
           "artifact": {
             "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Michael%20RL%20V2%20%28July%2018%2C%202026%29-774/driving_michael_rl_v2_july_18_2026_tinygrad.pkl",
-              "sha256": "960849e47ddfaf9644bf950035830d2d8dfaab5528014365ece23490a147f2bf"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Michael%20RL%20V2%20%28July%2018%2C%202026%29-810/driving_michael_rl_v2_july_18_2026_tinygrad.pkl",
+              "sha256": "f7fea8e9e4720377f76c069beb1e1c56bec6e683e9be7d6324a03b34f719890f"
             },
             "chunks": [
               {
                 "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "60e710a009049fb9f1be81e82d0499dc74bf6a88dcb582f5f6c2eabf77ba40f1"
+                "sha256": "751e9e03d029c1e338e52a568e1b7ec03965acbf60f90b83eeb5be2fbcbfc367"
               },
               {
                 "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "3357a06a9d944cfb5c0a9ac8192649071c6da9046a704f46d7cc1bfdcbd8cc5a"
+                "sha256": "858a78123fe67de2789c2c60577113cbb807d34c319e1527bcfb7cc14e26bb31"
               },
               {
                 "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "122ad59dc3181210e1a7914f3f2f36ad664b8f4ab151c3a9eb0d2dd33c0ec2f6"
+                "sha256": "ceafccdca4bb12486de9e7e8e70e60431a4edbde2db7e7a07c00c1de5e7e3b6e"
               }
             ]
           }
