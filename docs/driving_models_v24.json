@@ -2388,7 +2388,7 @@
       "index": 66,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-10-01T21:57:38Z",
+      "build_time": "2026-10-02T10:50:15Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2396,21 +2396,21 @@
           "artifact": {
             "file_name": "driving_op_model_16_deep_june_03_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled41/model-OP%20Model%2016%20Deep%20%28June%2003%2C%202026%29-139/driving_op_model_16_deep_june_03_2026_tinygrad.pkl",
-              "sha256": "7ae5193c2af562077f462ae00303cf7e8590874af4ff5ab2346b7fca178a75dd"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-OP%20Model%2016%20Deep%20%28June%2003%2C%202026%29-140/driving_op_model_16_deep_june_03_2026_tinygrad.pkl",
+              "sha256": "7e85bf06065962502f80f2fec6786ff9f2785a649110afa2dfa996af84572a0b"
             },
             "chunks": [
               {
                 "file_name": "driving_op_model_16_deep_june_03_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "9fe643130861f3a321197eb751abf56d2c27f7213b0c961a529a90a5bcbc5fed"
+                "sha256": "e3cdb7f5d95884b8973f8d805cbe36b6ab3daabe4b918f85decb8295e3a91914"
               },
               {
                 "file_name": "driving_op_model_16_deep_june_03_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "5ff775d341a594cc27fb5b92bc624c42fa7119b871c995c4c71935b71446cd31"
+                "sha256": "c2146639f5ed0b7902e2c8cab73e49fce19870cdc7e001b49bd8cb11fc0303ef"
               },
               {
                 "file_name": "driving_op_model_16_deep_june_03_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "818c41b1456276968f4185e28800ee527a18437b3b8140d46ee7e239b64e50e2"
+                "sha256": "7b3f48456b30477cdcb11b3030a890bbdf9dbe5314bbbf90ed6753cd3853960b"
               }
             ]
           }
