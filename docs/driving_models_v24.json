@@ -372,7 +372,7 @@
       "index": 10,
       "minimum_selector_version": "20",
       "generation": "11",
-      "build_time": "2026-10-01T17:21:51Z",
+      "build_time": "2026-10-02T09:07:26Z",
       "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -380,17 +380,17 @@
           "artifact": {
             "file_name": "driving_secret_good_openpilot_may_16_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled41/model-Secret%20Good%20Openpilot%20%28May%2016%2C%202025%29-139/driving_secret_good_openpilot_may_16_2025_tinygrad.pkl",
-              "sha256": "3e0d2c5f0aa5943eca97ee999c1bd9ead0bb72200283176575ce9ec0627cdb88"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Secret%20Good%20Openpilot%20%28May%2016%2C%202025%29-140/driving_secret_good_openpilot_may_16_2025_tinygrad.pkl",
+              "sha256": "ce8f360af3ef0441f6dd5df34f42556360bd93ee2d4a04072984fba8b79f9a94"
             },
             "chunks": [
               {
                 "file_name": "driving_secret_good_openpilot_may_16_2025_tinygrad.pkl.chunk01of02",
-                "sha256": "68ed9c6bf9a0c415a48bd0b59348ae120859750e42db3be667c37932052ad935"
+                "sha256": "289c8209862a57288feaec202de205f8497adc91ed3805e0cd5338361eb2c764"
               },
               {
                 "file_name": "driving_secret_good_openpilot_may_16_2025_tinygrad.pkl.chunk02of02",
-                "sha256": "9d793b919f10be46041501fd49f9a08eb086e28f64f947e53f2fa96255b5c07f"
+                "sha256": "14735c000d69e6f1e390eae1c6a904921d209bdb9949e279ff2ebb3ad45404a3"
               }
             ]
           }
