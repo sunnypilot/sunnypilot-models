@@ -264,7 +264,7 @@
       "index": 7,
       "minimum_selector_version": "20",
       "generation": "10",
-      "build_time": "2026-10-01T21:19:47Z",
+      "build_time": "2026-10-02T10:25:12Z",
       "overrides": { "folder": "Release Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -272,17 +272,17 @@
           "artifact": {
             "file_name": "driving_filet_o_fish_march_07_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled41/model-Filet%20o%20Fish%20%28March%2007%2C%202025%29-139/driving_filet_o_fish_march_07_2025_tinygrad.pkl",
-              "sha256": "87da9df0b5ca29b1d597b108ca60f3b2f54e33caa09011b4a9344337814c1ec9"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Filet%20o%20Fish%20%28March%2007%2C%202025%29-140/driving_filet_o_fish_march_07_2025_tinygrad.pkl",
+              "sha256": "d6b3be5fe4b0987200829711a76c1070c9746382f77e7f2c4b459d7fd4da41db"
             },
             "chunks": [
               {
                 "file_name": "driving_filet_o_fish_march_07_2025_tinygrad.pkl.chunk01of02",
-                "sha256": "d9b3835d4906db6eafe0f6a467a1e61b5696ea8614eb7a7c7847892b70f9949f"
+                "sha256": "57bcbaa685b81fc5f8e82d2eda8a252bbc0fba8422ce0cc434fc5a23d2ea8b78"
               },
               {
                 "file_name": "driving_filet_o_fish_march_07_2025_tinygrad.pkl.chunk02of02",
-                "sha256": "5bd711de0b0bec273be465d046ef62e52117c07c752a84cd10f997cfe7e4bbd2"
+                "sha256": "f72a846f09adbb80e0df8b8e1e89bb453f281f9f14a15c9628da3e9336fcfa74"
               }
             ]
           }
