@@ -2588,7 +2588,7 @@
       "index": 71,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-10-02T20:28:52Z",
+      "build_time": "2026-10-02T22:56:56Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2596,21 +2596,21 @@
           "artifact": {
             "file_name": "driving_rdf_model_august_05_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-RDF%20Model%20%28August%2005%2C%202026%29-770/driving_rdf_model_august_05_2026_tinygrad.pkl",
-              "sha256": "076ac3583d56b4dfd2e38d8c9aae2b205d2085c2956c340b4e132087cb93505b"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-RDF%20Model%20%28August%2005%2C%202026%29-806/driving_rdf_model_august_05_2026_tinygrad.pkl",
+              "sha256": "bc2f414891963b9a80317747b37f6968e922249384742177fb40d2b02dedfd7d"
             },
             "chunks": [
               {
                 "file_name": "driving_rdf_model_august_05_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "face9b21e29a42bf56ae1ff84a95728b0a668a81c024cb04efbbd847eedde92f"
+                "sha256": "6feea401423fb6e75a9229e1aa0ce33da4a59dd7607a994d7422b7508c7f3cac"
               },
               {
                 "file_name": "driving_rdf_model_august_05_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "20a3abd1418adae5d22818a70122afc9403f9c16da59310aa2c5b0320d4808b1"
+                "sha256": "23205138e50406a0a7b9a281c5bd61436e68998993ce9aac5f6acd478acf6723"
               },
               {
                 "file_name": "driving_rdf_model_august_05_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "50dce2471f652663095400c04372da480984a8cb34109ab1db83ffddf3e10230"
+                "sha256": "271b238f4c112505bec19e87cd97eb148862d61c56e8b60ebaf25f5eee846887"
               }
             ]
           }
