@@ -2508,7 +2508,7 @@
       "index": 69,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-10-02T11:00:43Z",
+      "build_time": "2026-10-02T16:30:32Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2516,7 +2516,7 @@
           "artifact": {
             "file_name": "driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Get%20Your%20Hopes%20Up%20Model%20%28July%2025%2C%202026%29-140/driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl",
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Get%20Your%20Hopes%20Up%20Model%20%28July%2025%2C%202026%29-754/driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl",
               "sha256": "f16444a7c4ee6c9ba2009ee09e8f9c2a2847e9f7a358fc17d64a8bc4c7fcae16"
             },
             "chunks": [
