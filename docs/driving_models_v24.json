@@ -1704,7 +1704,7 @@
       "index": 47,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-10-01T18:17:38Z",
+      "build_time": "2026-10-02T07:47:16Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1712,17 +1712,17 @@
           "artifact": {
             "file_name": "driving_dark_souls_model_v2_december_11_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled41/model-Dark%20Souls%20Model%20v2%20%28December%2011%2C%202025%29-139/driving_dark_souls_model_v2_december_11_2025_tinygrad.pkl",
-              "sha256": "b9a50cccc5dd9fd905fd9dd2d3395a4c4eea8e1594adee6c55638c7d633c39d9"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Dark%20Souls%20Model%20v2%20%28December%2011%2C%202025%29-140/driving_dark_souls_model_v2_december_11_2025_tinygrad.pkl",
+              "sha256": "a36787e110393bd4f5045353fd365aca5ccfb6801f7c5c54201b7e0a78994ccb"
             },
             "chunks": [
               {
                 "file_name": "driving_dark_souls_model_v2_december_11_2025_tinygrad.pkl.chunk01of02",
-                "sha256": "b76839253abfdc998e8a4711dd1b406a510c4535e295db3bb4b09b22cf3ee822"
+                "sha256": "6af4a7526a0b2145218c86aa0b435750d55aafc872328f06c5c0019e4500a6d2"
               },
               {
                 "file_name": "driving_dark_souls_model_v2_december_11_2025_tinygrad.pkl.chunk02of02",
-                "sha256": "bf8fa57a451cb997b9d240811a464c9b8538734a0d79e8af8d5eefc6a3a34b53"
+                "sha256": "1c66e6df89e02b98a61a00a074129c485fcdf4c7e34180caeedc3ab0f6982d40"
               }
             ]
           }
