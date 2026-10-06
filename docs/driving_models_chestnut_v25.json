@@ -1740,7 +1740,7 @@
       "index": 11,
       "minimum_selector_version": "19",
       "generation": "12",
-      "build_time": "2026-09-05T21:23:01Z",
+      "build_time": "2026-10-06T22:48:13Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1748,7 +1748,7 @@
           "artifact": {
             "file_name": "driving_cinque_terre_model_september_04_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled25/model-Cinque%20Terre%20Model%20%28September%2004%2C%202026%29-423/driving_cinque_terre_model_september_04_2026_tinygrad.pkl",
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled24/model-Cinque%20Terre%20Model%20%28September%2004%2C%202026%29-816/driving_cinque_terre_model_september_04_2026_tinygrad.pkl",
               "sha256": "641d3567c8decc35839b6cec28047192e0a821fb54400803f3f276ae66f31c77"
             },
             "chunks": [
