@@ -2676,7 +2676,7 @@
       "index": 72,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-09-01T07:09:20Z",
+      "build_time": "2026-10-07T16:25:11Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2684,21 +2684,29 @@
           "artifact": {
             "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-RDF%20Model%20V2%20%28August%2011%2C%202026%29-117/driving_rdf_model_v2_august_11_2026_tinygrad.pkl",
-              "sha256": "52fcf48bfb991f327a8982037eb0855d9a63437d78e9f4828d2be54df0f32567"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-RDF%20Model%20V2%20%28August%2011%2C%202026%29-821/driving_rdf_model_v2_august_11_2026_tinygrad.pkl",
+              "sha256": "2bf8e86b5f54ea2baa8ca5a6778aac222229b6e0c41ce145e7b7df72bce3ed8b"
             },
             "chunks": [
               {
-                "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "daa108d1e79cc488e0df40a518ec57db5002418c7f3e90cff39c9f4033af6098"
+                "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl.chunk01of05",
+                "sha256": "1f30ac6e0c5527e13747321764ffcc3e6f6738edd4c4d6f8ae664b7100679647"
               },
               {
-                "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "08678a51a38bf7c6fe86ac69f13bedbc497093cc415e47ce81b0eab8ee2c5c76"
+                "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl.chunk02of05",
+                "sha256": "7b306bd033d1a648f7a74b1829e8c203cc00ca74185113c3403942e90325d063"
               },
               {
-                "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "88ff671dc77085cb7d39f5ceda9da2c9f2b2c30ef011eac2a0a095a8c2412aa8"
+                "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl.chunk03of05",
+                "sha256": "9cadb0b12e7f6bb9b52c4be842166a1a1d648186a521f57831916d6f49747c62"
+              },
+              {
+                "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl.chunk04of05",
+                "sha256": "7634ae97b884684a86ec1d42b28a29b7d4fc5cea69e2be11e9ae3993b7edcb73"
+              },
+              {
+                "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl.chunk05of05",
+                "sha256": "f73a86521c61a8a8f1e29c5e81912b73cc41d24972dd46ad328c3fce6213362e"
               }
             ]
           }
