@@ -2436,7 +2436,7 @@
       "index": 67,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-10-09T10:04:26Z",
+      "build_time": "2026-10-09T21:37:25Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2444,29 +2444,21 @@
           "artifact": {
             "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Michael%20RL%20V2%20%28July%2018%2C%202026%29-838/driving_michael_rl_v2_july_18_2026_tinygrad.pkl",
-              "sha256": "72e70467466cdf506a7b8b3dd5cac9c4f52fb94d6899d35c0f85dbc022890ea8"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Michael%20RL%20V2%20%28July%2018%2C%202026%29-847/driving_michael_rl_v2_july_18_2026_tinygrad.pkl",
+              "sha256": "e43e26ee48db9d7158318af9b7baa6025ef199e3256eff9115d0cc49b0f01167"
             },
             "chunks": [
               {
-                "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl.chunk01of05",
-                "sha256": "677bab46c6b5331ab2b1c06ccede09e155d563b5a97698b52553dc8b8641f5f7"
+                "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl.chunk01of03",
+                "sha256": "342f51cd037613b13c83bafee584c3412128e00558e64c1473bc67e826a552a9"
               },
               {
-                "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl.chunk02of05",
-                "sha256": "26bc178659e45398114138a45c18a182eddaeee6eba898937ad6fbcfbb3ef00d"
+                "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl.chunk02of03",
+                "sha256": "9c81dcfa353d475496c59ad7bdd131b03929b66825d822bf79eaa73d4d6de200"
               },
               {
-                "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl.chunk03of05",
-                "sha256": "a1d519d19614a0046dfc28291030fbadc6a5b43ae4a5694a322e3b68fcadfb0b"
-              },
-              {
-                "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl.chunk04of05",
-                "sha256": "b0a23bbd307ec25f799892b6d8d0d08f132176a195d36097a166397139d76f3c"
-              },
-              {
-                "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl.chunk05of05",
-                "sha256": "f9fd3e0078172cf751cf72a7a1dcb2ddfb8b9aff90a7bfb2978e06790c3c08c7"
+                "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl.chunk03of03",
+                "sha256": "804f30fd1c23298955c64c800d34419753059ccb12a9006e3a7f523edb692b6a"
               }
             ]
           }
