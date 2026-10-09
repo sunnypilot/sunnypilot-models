@@ -2484,7 +2484,7 @@
       "index": 68,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-10-07T16:13:18Z",
+      "build_time": "2026-10-09T10:10:14Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2492,29 +2492,29 @@
           "artifact": {
             "file_name": "driving_rebel_legion_model_july_22_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Rebel%20Legion%20Model%20%28July%2022%2C%202026%29-825/driving_rebel_legion_model_july_22_2026_tinygrad.pkl",
-              "sha256": "5a0acdbcb98ddedc562ca0817cecbdac6e1628367ba4517a4f0bca1ece8c8a22"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Rebel%20Legion%20Model%20%28July%2022%2C%202026%29-837/driving_rebel_legion_model_july_22_2026_tinygrad.pkl",
+              "sha256": "64777293b63d4429cdba0fb820b1f1a75195bf8f40d2db2e186f465e5a8ddbc6"
             },
             "chunks": [
               {
                 "file_name": "driving_rebel_legion_model_july_22_2026_tinygrad.pkl.chunk01of05",
-                "sha256": "947da7cb001c27b3534f35bd62149b51556ca2c42034afe6d229150e93a523fa"
+                "sha256": "a596e6dbde0f625d1b52d4610465be2081918b6b8fb7a2ee4d6b1152246a91b7"
               },
               {
                 "file_name": "driving_rebel_legion_model_july_22_2026_tinygrad.pkl.chunk02of05",
-                "sha256": "bd2cc0aa472ede7cc7690078d6ac64c60dffddcc8eec6d5464e3eaa6cd540a80"
+                "sha256": "3d8f8c6ebac14d040388380974d4955316fc98bb6ac46b334d59456fdbae2d5a"
               },
               {
                 "file_name": "driving_rebel_legion_model_july_22_2026_tinygrad.pkl.chunk03of05",
-                "sha256": "18944cce5f98f7c485c379587232da1e250897745acb345475ceba6619808977"
+                "sha256": "2d23579df5a7f0c7d3587d26ca3a97c30627185e1b4a7e511c5f6179aa6c7b48"
               },
               {
                 "file_name": "driving_rebel_legion_model_july_22_2026_tinygrad.pkl.chunk04of05",
-                "sha256": "0ef6ad1eea6f40a96371a21f57e621ea5795912f37e5d8a1edd33b73b7487eda"
+                "sha256": "a5f489bb687731f9bffde63f44975497c8190679d827d1650317dc329caa7120"
               },
               {
                 "file_name": "driving_rebel_legion_model_july_22_2026_tinygrad.pkl.chunk05of05",
-                "sha256": "b2486412d5e34385b2b26b3426f4d3ac4cdd62618a562e9115a65aa84cfe6bdf"
+                "sha256": "e808b67834c16c616cceb42b09cb859a3be18460444995bc4f3b730084a9ecef"
               }
             ]
           }
