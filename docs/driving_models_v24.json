@@ -2532,7 +2532,7 @@
       "index": 69,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-10-09T09:58:34Z",
+      "build_time": "2026-10-09T21:26:34Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2540,29 +2540,21 @@
           "artifact": {
             "file_name": "driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Get%20Your%20Hopes%20Up%20Model%20%28July%2025%2C%202026%29-836/driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl",
-              "sha256": "3bd46c9b089589b0027db0f3ca353a40ff4494852a24626609eaa69fda8f5107"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Get%20Your%20Hopes%20Up%20Model%20%28July%2025%2C%202026%29-845/driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl",
+              "sha256": "25c6943f742de5946f1f1d5db6df6c3aaeec6bf310bde8c097671ef9e9fc4222"
             },
             "chunks": [
               {
-                "file_name": "driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl.chunk01of05",
-                "sha256": "5119327b74e5648cf5af6d3b16f1c69f26987d45fcfae73d0b9895af53d96ca9"
+                "file_name": "driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl.chunk01of03",
+                "sha256": "ae635e6d94e1ec468e7b88bb1d9d64cd8f64f788aac5481f8eed1923e649997c"
               },
               {
-                "file_name": "driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl.chunk02of05",
-                "sha256": "5459b287f702c10dc3dbb2aacb83d5722c5be633a6f62ec6ebaa3bf56182fd71"
+                "file_name": "driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl.chunk02of03",
+                "sha256": "e3e236ee7e1038cedb70b274cdfb4998bcbc2fa8453de8c3ecb70e5fe6f05248"
               },
               {
-                "file_name": "driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl.chunk03of05",
-                "sha256": "038374c0b36ab30f25df6cc70bb36848167ab28401c0ba38582e38f873df261e"
-              },
-              {
-                "file_name": "driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl.chunk04of05",
-                "sha256": "b41a7414734a63523aa6d111ea54f9e286ea27f6a4a6283c300ae908df2a28dd"
-              },
-              {
-                "file_name": "driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl.chunk05of05",
-                "sha256": "9a5b15fdeeb3abaeee24786b1b0380f529a8311d60fcaeba371ea513d2f98276"
+                "file_name": "driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl.chunk03of03",
+                "sha256": "7991a44755a383e224b549974f1f22eeda78eaa209e64ea8cae9a7ac5ed60d6d"
               }
             ]
           }
