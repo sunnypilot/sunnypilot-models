@@ -2376,6 +2376,438 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "OPM16D",
+      "display_name": "OP Model 16 Deep (June 03, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "f02d134f40f5e7be22b182af21b438915a47600e",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 66,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-10-09T21:58:31Z",
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_op_model_16_deep_june_03_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-OP%20Model%2016%20Deep%20%28June%2003%2C%202026%29-848/driving_op_model_16_deep_june_03_2026_tinygrad.pkl",
+              "sha256": "c3e7ca4aae5e62891fa254d25ef9b8aa728ae86e277c254c7466ed00d1c4902c"
+            },
+            "chunks": [
+              {
+                "file_name": "driving_op_model_16_deep_june_03_2026_tinygrad.pkl.chunk01of03",
+                "sha256": "ffd5dc27bee29189e30685e4c14ed1172aad455df38b079e9479190329ad9fc0"
+              },
+              {
+                "file_name": "driving_op_model_16_deep_june_03_2026_tinygrad.pkl.chunk02of03",
+                "sha256": "106bb00ac6d2c57d82db3293816b17ea1015e86508294676ad5c17f200f01731"
+              },
+              {
+                "file_name": "driving_op_model_16_deep_june_03_2026_tinygrad.pkl.chunk03of03",
+                "sha256": "eba86d07efe31af569a0b8e3f859dafc9e73f5e05af154114e3f91c818862927"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "MRLV2",
+      "display_name": "Michael RL V2 (July 18, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "37b38bf738edfb1daa6875255f581e5fc9b0a258",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 67,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-10-09T21:37:25Z",
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Michael%20RL%20V2%20%28July%2018%2C%202026%29-847/driving_michael_rl_v2_july_18_2026_tinygrad.pkl",
+              "sha256": "e43e26ee48db9d7158318af9b7baa6025ef199e3256eff9115d0cc49b0f01167"
+            },
+            "chunks": [
+              {
+                "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl.chunk01of03",
+                "sha256": "342f51cd037613b13c83bafee584c3412128e00558e64c1473bc67e826a552a9"
+              },
+              {
+                "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl.chunk02of03",
+                "sha256": "9c81dcfa353d475496c59ad7bdd131b03929b66825d822bf79eaa73d4d6de200"
+              },
+              {
+                "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl.chunk03of03",
+                "sha256": "804f30fd1c23298955c64c800d34419753059ccb12a9006e3a7f523edb692b6a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "RLM",
+      "display_name": "Rebel Legion Model (July 22, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "2895346746634d7eec0ee749f946c87039948a25",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 68,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-10-09T21:42:49Z",
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_rebel_legion_model_july_22_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Rebel%20Legion%20Model%20%28July%2022%2C%202026%29-846/driving_rebel_legion_model_july_22_2026_tinygrad.pkl",
+              "sha256": "e6813c73462df6f6ea2b57bf0e0a6abef9ad5cbc5c13690f1f257a3511022303"
+            },
+            "chunks": [
+              {
+                "file_name": "driving_rebel_legion_model_july_22_2026_tinygrad.pkl.chunk01of03",
+                "sha256": "cacf3c3aafd716cb67cefc4d0de8ac4d8815ca584c6897d7146ab8da736deeca"
+              },
+              {
+                "file_name": "driving_rebel_legion_model_july_22_2026_tinygrad.pkl.chunk02of03",
+                "sha256": "605aa90f88679cd8da21d5b9d6d8110b099ce4c097e6b47f79f982f5a7251b12"
+              },
+              {
+                "file_name": "driving_rebel_legion_model_july_22_2026_tinygrad.pkl.chunk03of03",
+                "sha256": "12ee5497924760abebdba5b111ac3c17f289ef04ea495f491ed68732cd57677c"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "GYHUM",
+      "display_name": "Get Your Hopes Up Model (July 25, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "574735edc6e1aafdc2a69395f9a32e7f5cc4b62b",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 69,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-10-09T21:26:34Z",
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Get%20Your%20Hopes%20Up%20Model%20%28July%2025%2C%202026%29-845/driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl",
+              "sha256": "25c6943f742de5946f1f1d5db6df6c3aaeec6bf310bde8c097671ef9e9fc4222"
+            },
+            "chunks": [
+              {
+                "file_name": "driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl.chunk01of03",
+                "sha256": "ae635e6d94e1ec468e7b88bb1d9d64cd8f64f788aac5481f8eed1923e649997c"
+              },
+              {
+                "file_name": "driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl.chunk02of03",
+                "sha256": "e3e236ee7e1038cedb70b274cdfb4998bcbc2fa8453de8c3ecb70e5fe6f05248"
+              },
+              {
+                "file_name": "driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl.chunk03of03",
+                "sha256": "7991a44755a383e224b549974f1f22eeda78eaa209e64ea8cae9a7ac5ed60d6d"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "RHM",
+      "display_name": "Rebellious Hope Model (July 27, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "93f5aa469a72b7621aef7da7901c100e0113e4d9",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 70,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-10-09T21:21:17Z",
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_rebellious_hope_model_july_27_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Rebellious%20Hope%20Model%20%28July%2027%2C%202026%29-844/driving_rebellious_hope_model_july_27_2026_tinygrad.pkl",
+              "sha256": "fd39c2dc2cdf69446aa5f88f36652a0aca65f2abc51c41e557a5137c5d88bf7a"
+            },
+            "chunks": [
+              {
+                "file_name": "driving_rebellious_hope_model_july_27_2026_tinygrad.pkl.chunk01of03",
+                "sha256": "e6b88ebf728d7a3e8fe53da1ed06317339fa5b7e313ce052ae5f7d2c5ba551bf"
+              },
+              {
+                "file_name": "driving_rebellious_hope_model_july_27_2026_tinygrad.pkl.chunk02of03",
+                "sha256": "c803a0f010e82d0d44d8c8b76c3fb1710a55d7e6ddbf95ce46bf51e2b745691c"
+              },
+              {
+                "file_name": "driving_rebellious_hope_model_july_27_2026_tinygrad.pkl.chunk03of03",
+                "sha256": "06f738e5aa189b6b8ebf9b6e1340b959ffba23e27aa28cd713a4dfec6a5bd6f0"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "RDFM",
+      "display_name": "RDF Model (August 05, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "a95e2c25cae5fbf1afba7628bfb7acc4af59e0cc",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 71,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-10-09T21:53:34Z",
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_rdf_model_august_05_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-RDF%20Model%20%28August%2005%2C%202026%29-843/driving_rdf_model_august_05_2026_tinygrad.pkl",
+              "sha256": "e759262e25630bb56941232d29900e43be1b8a7ce6c48fea3a79a84573f516d2"
+            },
+            "chunks": [
+              {
+                "file_name": "driving_rdf_model_august_05_2026_tinygrad.pkl.chunk01of03",
+                "sha256": "ad8565d051c14a8eee1eb4d47cca5ac9e7c29ad3df0166d6290f834be8bbee62"
+              },
+              {
+                "file_name": "driving_rdf_model_august_05_2026_tinygrad.pkl.chunk02of03",
+                "sha256": "c5367251a62fe586907873c233f32510d93647d4796f24074871b5bddf97e04b"
+              },
+              {
+                "file_name": "driving_rdf_model_august_05_2026_tinygrad.pkl.chunk03of03",
+                "sha256": "a0583c34087bd254cd203d09e96d2e33eda155a829de81ebcc882c2a764bbf27"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "RDFMV2",
+      "display_name": "RDF Model V2 (August 11, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "35703097905a122c9f3ddf0d12889b4873d7e2a2",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 72,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-10-09T21:48:20Z",
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-RDF%20Model%20V2%20%28August%2011%2C%202026%29-842/driving_rdf_model_v2_august_11_2026_tinygrad.pkl",
+              "sha256": "352fb7b38f40cd878ba04043b638a2ce430d22d3fbdaacc7d011904a3d9fce1a"
+            },
+            "chunks": [
+              {
+                "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl.chunk01of03",
+                "sha256": "de67c36edfd0ff61ac8da66aa5571a98c66c2ae7d5b855ddca9c9ad74a738254"
+              },
+              {
+                "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl.chunk02of03",
+                "sha256": "bb57e771497d7f07f1bc3384aaad809da9ac8a2921997e480113a5eae38ae65a"
+              },
+              {
+                "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl.chunk03of03",
+                "sha256": "dda8c0a9dcf88e5e450e136b2556538b294094aebf1bf3621643101a98f33785"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "TSFM",
+      "display_name": "Terrible Super Fantastic Model (August 12, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "4d911346cde4e0d2978a625f31679808284cc19d",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 73,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-10-09T21:15:58Z",
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Terrible%20Super%20Fantastic%20Model%20%28August%2012%2C%202026%29-841/driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl",
+              "sha256": "a8c56bc4ae1a6c236c4540f60378ac7fe6fc489b2bb938146562f3290552f7c7"
+            },
+            "chunks": [
+              {
+                "file_name": "driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl.chunk01of03",
+                "sha256": "66ed518aa3bfd836856ec93db2849bffa0c5aa10ba7e73ad9506e35ad73ef1ed"
+              },
+              {
+                "file_name": "driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl.chunk02of03",
+                "sha256": "0d47d9f7f822c40a10814939b707b23d092b59460fc3459d7dbd869c1df470a0"
+              },
+              {
+                "file_name": "driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl.chunk03of03",
+                "sha256": "806f5e15dd3d757be51d9e3150c1b65c5d6970ac17289ffbf0f319d6ab807b57"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "KV",
+      "display_name": "Kumars Vibe (August 14, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "a992d64eb604af3effb5b6ce948da52507ae9de9",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 74,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T07:32:17Z",
+      "overrides": { "folder": "Custom Merge Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_kumars_vibe_august_14_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Kumars%20Vibe%20%28August%2014%2C%202026%29-117/driving_kumars_vibe_august_14_2026_tinygrad.pkl",
+              "sha256": "8b4f8e1368e71371c2e6f096394b028d205a2d959923395c7d40a5a910ed0a0e"
+            },
+            "chunks": [
+              {
+                "file_name": "driving_kumars_vibe_august_14_2026_tinygrad.pkl.chunk01of02",
+                "sha256": "c3cd94debc0814a76135583d107f89c4a182f0862bd73409f77c22c3d59e3e2f"
+              },
+              {
+                "file_name": "driving_kumars_vibe_august_14_2026_tinygrad.pkl.chunk02of02",
+                "sha256": "af7da0b7302673ca31d4b9ccc6415329a7bef4d26a1a0b443b63a85c45ce20f4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "FP",
+      "display_name": "Falling Phoenix (August 14, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "eff0854aad2a8908a6522382c78af96ce3810668",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 75,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T07:29:50Z",
+      "overrides": { "folder": "Custom Merge Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_falling_phoenix_august_14_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Falling%20Phoenix%20%28August%2014%2C%202026%29-117/driving_falling_phoenix_august_14_2026_tinygrad.pkl",
+              "sha256": "29c73c8ec35c27bd54d8ba63cb0f05a16b8be9d660bd9bbc247435d8d85cea63"
+            },
+            "chunks": [
+              {
+                "file_name": "driving_falling_phoenix_august_14_2026_tinygrad.pkl.chunk01of02",
+                "sha256": "c49baa6d4b3009495ea7dac0218cf51f184aacc9377680e572e7794efcc0697c"
+              },
+              {
+                "file_name": "driving_falling_phoenix_august_14_2026_tinygrad.pkl.chunk02of02",
+                "sha256": "8b281e510b1f1739995676654c4c365ef5779ea96c1e2aec6dd52f1280568bae"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "TSFDOM",
+      "display_name": "Terrible Super Fantastic Do Over Model (August 15, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "0394d7284cfc229f772ee4fa73ff724ba8245110",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 76,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-10-09T21:32:04Z",
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_terrible_super_fantastic_do_over_model_august_15_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Terrible%20Super%20Fantastic%20Do%20Over%20Model%20%28August%2015%2C%202026%29-840/driving_terrible_super_fantastic_do_over_model_august_15_2026_tinygrad.pkl",
+              "sha256": "58ea71022a77bd587b17f348fcf6d7387bfc7ae714115314c3386ffdd621518c"
+            },
+            "chunks": [
+              {
+                "file_name": "driving_terrible_super_fantastic_do_over_model_august_15_2026_tinygrad.pkl.chunk01of03",
+                "sha256": "765ea1975749c260027553ccb691c87d2f0a124595a766d3417008be5a2bb4f6"
+              },
+              {
+                "file_name": "driving_terrible_super_fantastic_do_over_model_august_15_2026_tinygrad.pkl.chunk02of03",
+                "sha256": "16b36ca7a75c4e868b528ea47619a9cb576fd138969d41764c839ab1264697fa"
+              },
+              {
+                "file_name": "driving_terrible_super_fantastic_do_over_model_august_15_2026_tinygrad.pkl.chunk03of03",
+                "sha256": "3ed6d0d9e267b9afdc6eb0d3d5ada85b69df25007d786f9f5011166846cd4153"
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }
