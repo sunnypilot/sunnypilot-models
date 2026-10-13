@@ -1950,7 +1950,7 @@
       "index": 71,
       "minimum_selector_version": "21",
       "generation": "12",
-      "build_time": "2026-10-09T21:53:34Z",
+      "build_time": "2026-10-13T10:40:03Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1958,23 +1958,9 @@
           "artifact": {
             "file_name": "driving_rdf_model_august_05_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-RDF%20Model%20%28August%2005%2C%202026%29-843/driving_rdf_model_august_05_2026_tinygrad.pkl",
-              "sha256": "e759262e25630bb56941232d29900e43be1b8a7ce6c48fea3a79a84573f516d2"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_rdf_model_august_05_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "ad8565d051c14a8eee1eb4d47cca5ac9e7c29ad3df0166d6290f834be8bbee62"
-              },
-              {
-                "file_name": "driving_rdf_model_august_05_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "c5367251a62fe586907873c233f32510d93647d4796f24074871b5bddf97e04b"
-              },
-              {
-                "file_name": "driving_rdf_model_august_05_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "a0583c34087bd254cd203d09e96d2e33eda155a829de81ebcc882c2a764bbf27"
-              }
-            ]
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled44/model-RDF%20Model%20%28August%2005%2C%202026%29-142/driving_rdf_model_august_05_2026_tinygrad.pkl",
+              "sha256": "44a308e69929dcfeb32288342126b6b6652cad739c2cb3d9688779991f1c3ac7"
+            }
           }
         }
       ]
