@@ -1352,7 +1352,7 @@
       "index": 9,
       "minimum_selector_version": "21",
       "generation": "12",
-      "build_time": "2026-10-13T07:58:08Z",
+      "build_time": "2026-10-13T17:22:39Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1360,7 +1360,7 @@
           "artifact": {
             "file_name": "driving_bmrlnap_model_v4_august_30_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled45/model-BMRLNAP%20Model%20v4%20%28August%2030%2C%202026%29-145/driving_bmrlnap_model_v4_august_30_2026_tinygrad.pkl",
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled46/model-BMRLNAP%20Model%20v4%20%28August%2030%2C%202026%29-146/driving_bmrlnap_model_v4_august_30_2026_tinygrad.pkl",
               "sha256": "0e4a32e6cf60c69d9aec93f9bba88ef264e5d77f6c0618e7fff2208ddda8fb16"
             }
           }
