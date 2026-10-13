@@ -1,5 +1,5 @@
 {
-  "tinygrad_ref": "9cd40014f651ac2472b3b5fc3b12178ab4bb1c66",
+  "tinygrad_ref": "5d186bdb43c2bcc6c56b6ececf427c34bada0de9",
   "bundles": [
     {
       "short_name": "LM",
@@ -10,7 +10,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 0,
-      "minimum_selector_version": "20",
+      "minimum_selector_version": "21",
       "generation": "12",
       "build_time": "2026-09-30T23:11:32Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
@@ -194,7 +194,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 1,
-      "minimum_selector_version": "20",
+      "minimum_selector_version": "21",
       "generation": "12",
       "build_time": "2026-09-30T22:38:51Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
@@ -378,7 +378,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 2,
-      "minimum_selector_version": "20",
+      "minimum_selector_version": "21",
       "generation": "12",
       "build_time": "2026-09-30T22:55:31Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
@@ -562,7 +562,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 3,
-      "minimum_selector_version": "20",
+      "minimum_selector_version": "21",
       "generation": "12",
       "build_time": "2026-09-30T21:47:18Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
@@ -746,7 +746,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 4,
-      "minimum_selector_version": "20",
+      "minimum_selector_version": "21",
       "generation": "12",
       "build_time": "2026-09-30T21:09:35Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
@@ -930,7 +930,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 5,
-      "minimum_selector_version": "20",
+      "minimum_selector_version": "21",
       "generation": "12",
       "build_time": "2026-09-30T20:53:29Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
@@ -1114,7 +1114,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 6,
-      "minimum_selector_version": "20",
+      "minimum_selector_version": "21",
       "generation": "12",
       "build_time": "2026-09-30T20:37:27Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
@@ -1298,7 +1298,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 7,
-      "minimum_selector_version": "20",
+      "minimum_selector_version": "21",
       "generation": "12",
       "build_time": "2026-09-30T22:13:42Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
@@ -1482,7 +1482,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 8,
-      "minimum_selector_version": "20",
+      "minimum_selector_version": "21",
       "generation": "12",
       "build_time": "2026-09-30T21:59:42Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
@@ -1578,7 +1578,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 9,
-      "minimum_selector_version": "20",
+      "minimum_selector_version": "21",
       "generation": "12",
       "build_time": "2026-09-30T20:23:19Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
@@ -1674,7 +1674,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 10,
-      "minimum_selector_version": "20",
+      "minimum_selector_version": "21",
       "generation": "12",
       "build_time": "2026-09-30T21:22:44Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
@@ -1770,7 +1770,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 11,
-      "minimum_selector_version": "20",
+      "minimum_selector_version": "21",
       "generation": "12",
       "build_time": "2026-09-30T21:32:35Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
@@ -1866,9 +1866,9 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 12,
-      "minimum_selector_version": "20",
+      "minimum_selector_version": "21",
       "generation": "12",
-      "build_time": "2026-09-30T20:13:26Z",
+      "build_time": "2026-10-13T06:45:37Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1876,79 +1876,9 @@
           "artifact": {
             "file_name": "driving_cinque_terre_model_v2_september_08_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled40/model-Cinque%20Terre%20Model%20V2%20%28September%2008%2C%202026%29-138/driving_cinque_terre_model_v2_september_08_2026_tinygrad.pkl",
-              "sha256": "22743ea4e1928bdc8893e212956bc69d4dc18a24b27e9af45154e20dd6e58686"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_cinque_terre_model_v2_september_08_2026_tinygrad.pkl.chunk01of17",
-                "sha256": "edcdaf8ef058d8b1a11ab35324ad25926502beb24968bf1dcb10a324f55ef30f"
-              },
-              {
-                "file_name": "driving_cinque_terre_model_v2_september_08_2026_tinygrad.pkl.chunk02of17",
-                "sha256": "938e213014af5dfb3780589998b0645b6e2c44bd4ed6b850bcf0cc91a975e8de"
-              },
-              {
-                "file_name": "driving_cinque_terre_model_v2_september_08_2026_tinygrad.pkl.chunk03of17",
-                "sha256": "3485cac149d12627ea40b3e912b41375fecaa3675aeb478424ca7f2ec95c0797"
-              },
-              {
-                "file_name": "driving_cinque_terre_model_v2_september_08_2026_tinygrad.pkl.chunk04of17",
-                "sha256": "d64dab3c47de54500d8a80cd8a6de6b7231a0f50bb7a7983f13c5be918bfe718"
-              },
-              {
-                "file_name": "driving_cinque_terre_model_v2_september_08_2026_tinygrad.pkl.chunk05of17",
-                "sha256": "8ab447137918af76931ee9cea41a4689223d61ffa2b6ce70df56cd876fd182ba"
-              },
-              {
-                "file_name": "driving_cinque_terre_model_v2_september_08_2026_tinygrad.pkl.chunk06of17",
-                "sha256": "f26b367397dbe61f9a82288564468027d85a7aa5b8f3c4e5a08de2f2d4c36654"
-              },
-              {
-                "file_name": "driving_cinque_terre_model_v2_september_08_2026_tinygrad.pkl.chunk07of17",
-                "sha256": "b79e2d06ef4e958078da7e339a6e3ffffbb78984874af68ffe131522929fed46"
-              },
-              {
-                "file_name": "driving_cinque_terre_model_v2_september_08_2026_tinygrad.pkl.chunk08of17",
-                "sha256": "a4965297777fbd58a6306dc53876755b2734baab1ced821e6d514addcdc21188"
-              },
-              {
-                "file_name": "driving_cinque_terre_model_v2_september_08_2026_tinygrad.pkl.chunk09of17",
-                "sha256": "2e4c43929e8af50dc77a9e9b69b06f568ad868549ebe3bff2b0eebac526899e3"
-              },
-              {
-                "file_name": "driving_cinque_terre_model_v2_september_08_2026_tinygrad.pkl.chunk10of17",
-                "sha256": "67e4d6acec689d210366f1644356617d21b9d1861a0a2120145b69acda2cb84d"
-              },
-              {
-                "file_name": "driving_cinque_terre_model_v2_september_08_2026_tinygrad.pkl.chunk11of17",
-                "sha256": "38d5ba25f0cbfb19cea934d35b81ffd17c2ec31d8f122d53a253d55c07731f97"
-              },
-              {
-                "file_name": "driving_cinque_terre_model_v2_september_08_2026_tinygrad.pkl.chunk12of17",
-                "sha256": "ebca3b069b5cbbed7ad947db2552ca1aeca31a06cde418242a8b8a2d3c943c4e"
-              },
-              {
-                "file_name": "driving_cinque_terre_model_v2_september_08_2026_tinygrad.pkl.chunk13of17",
-                "sha256": "ce666da42fb3ce17049d1b8b52b1fcc9a2734327d64ede6bf04c465cbca72bf7"
-              },
-              {
-                "file_name": "driving_cinque_terre_model_v2_september_08_2026_tinygrad.pkl.chunk14of17",
-                "sha256": "4fdf3e1ecc2d430a570ea30e0335c485c3a9b08295ad7c498f13d33e7801872d"
-              },
-              {
-                "file_name": "driving_cinque_terre_model_v2_september_08_2026_tinygrad.pkl.chunk15of17",
-                "sha256": "ada30d6b26716e8725b59d98ae7b7bb9ec912fad34fd6adc5ac33415bafe9b6b"
-              },
-              {
-                "file_name": "driving_cinque_terre_model_v2_september_08_2026_tinygrad.pkl.chunk16of17",
-                "sha256": "ae600a67059b600bb48cd957ed2a3591749d5441da825c2209b9837e3ec453e1"
-              },
-              {
-                "file_name": "driving_cinque_terre_model_v2_september_08_2026_tinygrad.pkl.chunk17of17",
-                "sha256": "1243d02eec047f68eef123ae486a70fd6723a760758fa1f57b12bb685fdb2a70"
-              }
-            ]
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled45/model-Cinque%20Terre%20Model%20V2%20%28September%2008%2C%202026%29-145/driving_cinque_terre_model_v2_september_08_2026_tinygrad.pkl",
+              "sha256": "a3d33fe8bab848e744acd3f753e6083af5f1c60688ef8c5481518f6df2faa224"
+            }
           }
         }
       ]
@@ -1962,7 +1892,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 13,
-      "minimum_selector_version": "20",
+      "minimum_selector_version": "21",
       "generation": "12",
       "build_time": "2026-09-30T22:24:53Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
