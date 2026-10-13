@@ -402,7 +402,7 @@
       "index": 15,
       "minimum_selector_version": "21",
       "generation": "11",
-      "build_time": "2026-10-13T12:09:03Z",
+      "build_time": "2026-10-13T15:20:05Z",
       "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -410,7 +410,7 @@
           "artifact": {
             "file_name": "driving_aggressive_tr_june_28_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled44/model-Aggressive%20TR%20%28June%2028%2C%202025%29-retry-142/driving_aggressive_tr_june_28_2025_tinygrad.pkl",
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled44/model-Aggressive%20TR%20%28June%2028%2C%202025%29-142/driving_aggressive_tr_june_28_2025_tinygrad.pkl",
               "sha256": "e43495770c7c7917645aa194bc3da5b44a40c47902d6f85b4c5e71ac957f6649"
             }
           }
@@ -1390,7 +1390,7 @@
       "index": 53,
       "minimum_selector_version": "21",
       "generation": "12",
-      "build_time": "2026-10-13T11:58:56Z",
+      "build_time": "2026-10-13T15:15:17Z",
       "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
       "models": [
         {
@@ -1398,7 +1398,7 @@
           "artifact": {
             "file_name": "driving_off_policy_model_february_04_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled44/model-off%20policy%20model%20%28February%2004%2C%202026%29-retry-142/driving_off_policy_model_february_04_2026_tinygrad.pkl",
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled44/model-off%20policy%20model%20%28February%2004%2C%202026%29-142/driving_off_policy_model_february_04_2026_tinygrad.pkl",
               "sha256": "8fcf92f03963a7ee02b217e66185800a8f8db9f6b5aba358b577f1bf3df94438"
             }
           }
@@ -1806,7 +1806,7 @@
       "index": 69,
       "minimum_selector_version": "21",
       "generation": "12",
-      "build_time": "2026-10-13T12:04:10Z",
+      "build_time": "2026-10-13T15:25:19Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1814,7 +1814,7 @@
           "artifact": {
             "file_name": "driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled44/model-Get%20Your%20Hopes%20Up%20Model%20%28July%2025%2C%202026%29-retry-142/driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl",
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled44/model-Get%20Your%20Hopes%20Up%20Model%20%28July%2025%2C%202026%29-142/driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl",
               "sha256": "0fac06def3829efc85755ad8141bb1c2b9bc018135f16630763c844ed28b498e"
             }
           }
