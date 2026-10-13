@@ -97,13 +97,13 @@
           "artifact": {
             "file_name": "driving_duck_amigo_march_18_2024_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled43/model-Duck%20Amigo%20%28March%2018%2C%202024%29-141/driving_duck_amigo_march_18_2024_tinygrad.pkl",
-              "sha256": "e74e526e85531fb5bd4bab9fde7f2ba4512f1dcda89b372ea3c3ab995e27768f"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled44/model-Duck%20Amigo%20%28March%2018%2C%202024%29-142/driving_duck_amigo_march_18_2024_tinygrad.pkl",
+              "sha256": "aeee45427a51aefda5718e3dda30751b742e3c679867446a6d57d983846f62cd"
             }
           }
         }
       ],
-      "build_time": "2026-10-13T04:43:45Z"
+      "build_time": "2026-10-13T10:06:18Z"
     },
     {
       "short_name": "WD40",
