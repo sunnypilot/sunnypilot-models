@@ -2002,7 +2002,7 @@
       "index": 73,
       "minimum_selector_version": "21",
       "generation": "12",
-      "build_time": "2026-10-09T21:15:58Z",
+      "build_time": "2026-10-13T10:45:36Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2010,23 +2010,9 @@
           "artifact": {
             "file_name": "driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Terrible%20Super%20Fantastic%20Model%20%28August%2012%2C%202026%29-841/driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl",
-              "sha256": "a8c56bc4ae1a6c236c4540f60378ac7fe6fc489b2bb938146562f3290552f7c7"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "66ed518aa3bfd836856ec93db2849bffa0c5aa10ba7e73ad9506e35ad73ef1ed"
-              },
-              {
-                "file_name": "driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "0d47d9f7f822c40a10814939b707b23d092b59460fc3459d7dbd869c1df470a0"
-              },
-              {
-                "file_name": "driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "806f5e15dd3d757be51d9e3150c1b65c5d6970ac17289ffbf0f319d6ab807b57"
-              }
-            ]
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled44/model-Terrible%20Super%20Fantastic%20Model%20%28August%2012%2C%202026%29-142/driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl",
+              "sha256": "9efa2c8dbe92c341642c3416a3d354926c88470eed57f960d8999cf8a0755d1d"
+            }
           }
         }
       ]
