@@ -12,7 +12,7 @@
       "index": 0,
       "minimum_selector_version": "21",
       "generation": "4",
-      "build_time": "2026-10-13T02:58:13Z",
+      "build_time": "2026-10-13T06:59:15Z",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".3" },
       "models": [
         {
@@ -20,8 +20,8 @@
           "artifact": {
             "file_name": "driving_lav2_january_24_2024_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled43/model-LAv2%20%28January%2024%2C%202024%29-141/driving_lav2_january_24_2024_tinygrad.pkl",
-              "sha256": "bd948dda705d3832eaac904fe6e5f0886bdefb86d39643bc32ecc731bdf86f5f"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled44/model-LAv2%20%28January%2024%2C%202024%29-142/driving_lav2_january_24_2024_tinygrad.pkl",
+              "sha256": "4327cf3a26920bba2f33a5745e98f3895ffa7a33e7b9f02dbb25cc28dd2ce6a7"
             }
           }
         }
