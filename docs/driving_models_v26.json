@@ -318,7 +318,7 @@
       "index": 11,
       "minimum_selector_version": "21",
       "generation": "10",
-      "build_time": "2026-10-13T02:12:14Z",
+      "build_time": "2026-10-13T07:57:55Z",
       "overrides": { "folder": "2025 Pre World Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -326,8 +326,8 @@
           "artifact": {
             "file_name": "driving_kerrygold_driving_june_08_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled43/model-Kerrygold%20Driving%20%28June%2008%2C%202025%29-141/driving_kerrygold_driving_june_08_2025_tinygrad.pkl",
-              "sha256": "c7716e2df9264009b72261af9a39da0394d2f5e8eefddf9f73c733e2d100266e"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled44/model-Kerrygold%20Driving%20%28June%2008%2C%202025%29-142/driving_kerrygold_driving_june_08_2025_tinygrad.pkl",
+              "sha256": "cafce7e573b1c3aeca49db4fc667f06892f6473cb660ba806a4b55028d7c5d95"
             }
           }
         }
