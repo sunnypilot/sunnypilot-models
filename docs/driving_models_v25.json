@@ -1788,7 +1788,7 @@
       "index": 56,
       "minimum_selector_version": "21",
       "generation": "12",
-      "build_time": "2026-09-01T06:10:43Z",
+      "build_time": "2026-10-13T04:11:00Z",
       "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
       "models": [
         {
@@ -1796,19 +1796,9 @@
           "artifact": {
             "file_name": "driving_off_policy_model_v4_february_27_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Off-Policy%20Model%20V4%20%28February%2027%2C%202026%29-117/driving_off_policy_model_v4_february_27_2026_tinygrad.pkl",
-              "sha256": "23100382bf0ab5aadf52470c20fb8830351e2529cb8ee68621c19c2c97df1065"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_off_policy_model_v4_february_27_2026_tinygrad.pkl.chunk01of02",
-                "sha256": "7ff0fd11844321344bf32af276824165e3436103f4461ef808ceacc2ab8c6d63"
-              },
-              {
-                "file_name": "driving_off_policy_model_v4_february_27_2026_tinygrad.pkl.chunk02of02",
-                "sha256": "642788188b094976ba7adf29262e50ee7ffa110e4bf973f2691d5a0856dc9464"
-              }
-            ]
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled43/model-Off-Policy%20Model%20V4%20%28February%2027%2C%202026%29-141/driving_off_policy_model_v4_february_27_2026_tinygrad.pkl",
+              "sha256": "5f6c06b972312bc3a92c2c36dd20287a596776e15ec4714f2b0ce08e08217607"
+            }
           }
         }
       ]
