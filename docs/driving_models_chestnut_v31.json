@@ -616,7 +616,7 @@
       "index": 5,
       "minimum_selector_version": "21",
       "generation": "12",
-      "build_time": "2026-09-30T20:53:29Z",
+      "build_time": "2026-10-13T18:10:39Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -624,167 +624,9 @@
           "artifact": {
             "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled40/model-Happy%20Birthday%20Model%20%28August%2024%2C%202026%29-138/driving_happy_birthday_model_august_24_2026_tinygrad.pkl",
-              "sha256": "25711e0e4e9746f0ad1d8f59fe6b2ccec173e15b98a548093b0acb17e587e591"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk01of39",
-                "sha256": "40434cb776c330f915a3681bcfabac721c9dcb98236f7a09cca394613fe5a5a3"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk02of39",
-                "sha256": "f773e2d9128bf76dfc2843e83ff0430183cbe628c33274ecb29d068c03811df7"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk03of39",
-                "sha256": "220f9045e8ef63f7bfbdb1745eca1fd6086d6178612f63b3bc1f9d4a2de8c92a"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk04of39",
-                "sha256": "0d3319c2af832a9efa6ba39c67cf58f91608945f961a993b6e3177d06e08b878"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk05of39",
-                "sha256": "3c5fb4691b910c27f1669bf01b12f4d5907f95f98d4f47e405af666ea24238b4"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk06of39",
-                "sha256": "0c86958be6a48dd99eb339b30febb071ad138f52955d5b9e4009efa594fbd5a5"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk07of39",
-                "sha256": "56d1e8d5bc69371b5f5ba48419e26c0bdf054b7ab5495c9e78d80a10400d2f91"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk08of39",
-                "sha256": "ba17590cceb8be0e8d629ba87a69b174309d9a0ca169516a6336e91a87a8d6c2"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk09of39",
-                "sha256": "80af671d1c74b6fc7f32926e687f5129d3f70bb7a70ec669cf8aae09e51f0893"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk10of39",
-                "sha256": "42599e9043de1249fe269aee833618279033d9a072df3bd07c325075ad1228da"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk11of39",
-                "sha256": "902d97aca18a7f0a34a6f59e941b7d518ec89a323826891e903ac3cd0c48bc48"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk12of39",
-                "sha256": "8ee41f3d1ecab40126ac88beed613318076573c50a73b036e07e8b11bff0f9d2"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk13of39",
-                "sha256": "15a9980ffda931cf7adbd1543b90c391bce0cc129e6cd99d305dcc0162582d14"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk14of39",
-                "sha256": "890bca2100aa636f1ea25132781feeb3f57b3f2a763de85c4a366d9c467e06ea"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk15of39",
-                "sha256": "d8d95cf20a5af0379f3a44486c1a8ad9e481fe6e00ef2e81c1c8bd04d8d8d1c5"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk16of39",
-                "sha256": "f24aaf82fc8ba3f8652bb555459b8f5c602a080c051bb9f846afa4384e542388"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk17of39",
-                "sha256": "f6d7e03c340bd063e52bfd69f713481f1ddccfc48f074d52c24143674ff23a01"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk18of39",
-                "sha256": "835fd2f3beb34d12ae049df1c3a1a6e49988d5c6bd8df3ae416aed0ac63f78f7"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk19of39",
-                "sha256": "7fd9cba43700e76be59e285c7b1d3989e65271fc01554d7053eb5ce529120b46"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk20of39",
-                "sha256": "4aec1b7e92637ab5905d55f7418033d63d30b6c77f59106b4c486da27ea1fc61"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk21of39",
-                "sha256": "88fde49481e859e3117d3f447733a8ca39e96a3554324ca175a96bb1a4995c2e"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk22of39",
-                "sha256": "e82d691ccfd77c0fd6c484e157da8024aa675d66cc62f32d9145cd3b15ec00e2"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk23of39",
-                "sha256": "8fd7c5f7424b3e69b7512380d42877d8358325060d9edd0703bc53af4eaa670b"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk24of39",
-                "sha256": "0350f6123e0e01b3500d4bbfcb8188b838c78db77a9c4d4dc9dd0f272dc7aa6d"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk25of39",
-                "sha256": "59b424e9c5620fd6bc35ebe8cde326b9f94a8824ea66f46125508fed38b612ce"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk26of39",
-                "sha256": "88c094fb2ae82b2b8499586eb433d818bfe92ff0536fd34550e3c5e74ff42ecc"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk27of39",
-                "sha256": "6dd8904badc0b2dbd3271e7624b24fac051c7f973efe5b1be074515db77da7dc"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk28of39",
-                "sha256": "b2a37abb9d232a08d12ffa22eefd81cf3374167647f01a6a411d3173e858773f"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk29of39",
-                "sha256": "89cf49ef696cac2156080b9d66885fadacdb221554a84420fc8a99a56db52cdc"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk30of39",
-                "sha256": "d16962346f68cdf9033964a7266ec3edd6471d59f4d69c32fa8a44125356f33e"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk31of39",
-                "sha256": "900a0e0bd650125364981a9454968bb08be3815372d461d6edf1b126b7a0ab46"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk32of39",
-                "sha256": "8e0d37449279d74ebe1f30f26d80ecdac9bbf6143552343047a9055aaa05a718"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk33of39",
-                "sha256": "6ee4c7a40c09601c503aa33945f19af77b1de3cbb3a2a48b36c5c47dcc482621"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk34of39",
-                "sha256": "0daba89818d84a616d6f36aee7a9a3ea414e18407728cc54197810194a78447b"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk35of39",
-                "sha256": "8e3f9a76ace2501c6fd36005f61c9a46b7f8e84c5a10e3a1c0c06b2e18e43546"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk36of39",
-                "sha256": "59fe96679355ba237d37c8b3372712ed782f1fbaedcf3b0d153aea983b853d09"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk37of39",
-                "sha256": "2a7d383f928b92d0e0d617666acd704a6cb2be1ac548973d1d5b1c884756a206"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk38of39",
-                "sha256": "7dba18cfec6894436f376a13f80ba1a335dca862fd3e3fe4e6badf20e65f1ad8"
-              },
-              {
-                "file_name": "driving_happy_birthday_model_august_24_2026_tinygrad.pkl.chunk39of39",
-                "sha256": "3d1a0199be8331d5a04007f1d8dd6d48550bd58f54caa1ce626fe6e283970e84"
-              }
-            ]
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled46/model-Happy%20Birthday%20Model%20%28August%2024%2C%202026%29-146/driving_happy_birthday_model_august_24_2026_tinygrad.pkl",
+              "sha256": "b8c0e66ad0f37e1f56fb7c81498ca9ce8309652fdb3621c335ed405afbf4d51b"
+            }
           }
         }
       ]
