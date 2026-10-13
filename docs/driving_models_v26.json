@@ -802,7 +802,7 @@
       "index": 30,
       "minimum_selector_version": "21",
       "generation": "12",
-      "build_time": "2026-09-01T05:44:24Z",
+      "build_time": "2026-10-13T09:54:38Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -810,19 +810,9 @@
           "artifact": {
             "file_name": "driving_nevada_model_september_07_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Nevada%20Model%20%28September%2007%2C%202025%29-117/driving_nevada_model_september_07_2025_tinygrad.pkl",
-              "sha256": "e6003939c6bb6ad2b650c96cd69e00f97e8eff4f12cc539bc85ff4bfafc4e29b"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_nevada_model_september_07_2025_tinygrad.pkl.chunk01of02",
-                "sha256": "10295f0fa519bd94b1214f8f4b73b42134f88ab1ba23387c98fd7af1a1349ced"
-              },
-              {
-                "file_name": "driving_nevada_model_september_07_2025_tinygrad.pkl.chunk02of02",
-                "sha256": "3cb81438a2e953c3bdd92823c0f8f62a8bc840e91134b4184cb18cb7d551a1ac"
-              }
-            ]
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled44/model-Nevada%20Model%20%28September%2007%2C%202025%29-142/driving_nevada_model_september_07_2025_tinygrad.pkl",
+              "sha256": "4fbb87962198a832d3990942139c0f3920b1e7992ea11640a858251a1874344e"
+            }
           }
         }
       ]
