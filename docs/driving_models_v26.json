@@ -1910,7 +1910,7 @@
       "index": 70,
       "minimum_selector_version": "21",
       "generation": "12",
-      "build_time": "2026-10-09T21:21:17Z",
+      "build_time": "2026-10-13T10:50:56Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1918,23 +1918,9 @@
           "artifact": {
             "file_name": "driving_rebellious_hope_model_july_27_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Rebellious%20Hope%20Model%20%28July%2027%2C%202026%29-844/driving_rebellious_hope_model_july_27_2026_tinygrad.pkl",
-              "sha256": "fd39c2dc2cdf69446aa5f88f36652a0aca65f2abc51c41e557a5137c5d88bf7a"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_rebellious_hope_model_july_27_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "e6b88ebf728d7a3e8fe53da1ed06317339fa5b7e313ce052ae5f7d2c5ba551bf"
-              },
-              {
-                "file_name": "driving_rebellious_hope_model_july_27_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "c803a0f010e82d0d44d8c8b76c3fb1710a55d7e6ddbf95ce46bf51e2b745691c"
-              },
-              {
-                "file_name": "driving_rebellious_hope_model_july_27_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "06f738e5aa189b6b8ebf9b6e1340b959ffba23e27aa28cd713a4dfec6a5bd6f0"
-              }
-            ]
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled44/model-Rebellious%20Hope%20Model%20%28July%2027%2C%202026%29-142/driving_rebellious_hope_model_july_27_2026_tinygrad.pkl",
+              "sha256": "0b4a0082d6b0b79513f3760371be3dc18b294780a7abf4e4751d25b233a2754b"
+            }
           }
         }
       ]
