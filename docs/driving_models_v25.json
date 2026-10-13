@@ -1074,7 +1074,7 @@
       "index": 37,
       "minimum_selector_version": "21",
       "generation": "12",
-      "build_time": "2026-09-01T06:05:31Z",
+      "build_time": "2026-10-13T05:27:43Z",
       "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1082,19 +1082,9 @@
           "artifact": {
             "file_name": "driving_nuggets_in_digon_october_09_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Nuggets%20in%20Digon%20%28October%2009%2C%202025%29-117/driving_nuggets_in_digon_october_09_2025_tinygrad.pkl",
-              "sha256": "b1133a3be7c6e9fc1128354cb520813eae445fe189eeff9c80857fdc87d7e255"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_nuggets_in_digon_october_09_2025_tinygrad.pkl.chunk01of02",
-                "sha256": "12336bd29d7933231bff5b2c2348f6b633149037662f88a2cb96098832886e61"
-              },
-              {
-                "file_name": "driving_nuggets_in_digon_october_09_2025_tinygrad.pkl.chunk02of02",
-                "sha256": "76a7cddaa997ea5613807269f1e619743faf9d47a4a9063ea7bf84eaeb68d42e"
-              }
-            ]
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled43/model-Nuggets%20in%20Digon%20%28October%2009%2C%202025%29-141/driving_nuggets_in_digon_october_09_2025_tinygrad.pkl",
+              "sha256": "a6fadd081e331f4fea481be3f37f777f7557f25aa2f2dbe3627b114f71aec960"
+            }
           }
         }
       ]
