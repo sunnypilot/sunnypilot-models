@@ -520,7 +520,7 @@
       "index": 18,
       "minimum_selector_version": "21",
       "generation": "11",
-      "build_time": "2026-10-13T04:20:25Z",
+      "build_time": "2026-10-13T07:23:53Z",
       "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -528,8 +528,8 @@
           "artifact": {
             "file_name": "driving_down_to_ride_v5_july_08_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled43/model-Down%20to%20Ride%20v5%20%28July%2008%2C%202025%29-141/driving_down_to_ride_v5_july_08_2025_tinygrad.pkl",
-              "sha256": "5eaf1b7495dbbe61e62dd799e2d3d10e82b694ece7820e1a296e80688c6a437d"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled44/model-Down%20to%20Ride%20v5%20%28July%2008%2C%202025%29-142/driving_down_to_ride_v5_july_08_2025_tinygrad.pkl",
+              "sha256": "f7c0167729c3f8f1b77a64fc302a24eb011075f61489afc7bea3c9f196e3eb1e"
             }
           }
         }
