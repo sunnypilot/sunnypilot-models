@@ -1484,7 +1484,7 @@
       "index": 8,
       "minimum_selector_version": "21",
       "generation": "12",
-      "build_time": "2026-10-13T07:02:08Z",
+      "build_time": "2026-10-13T16:37:52Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1492,7 +1492,7 @@
           "artifact": {
             "file_name": "driving_sad_model_august_28_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled45/model-Sad%20Model%20%28August%2028%2C%202026%29-145/driving_sad_model_august_28_2026_tinygrad.pkl",
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled46/model-Sad%20Model%20%28August%2028%2C%202026%29-146/driving_sad_model_august_28_2026_tinygrad.pkl",
               "sha256": "d6faaca021d0f9f18be347a09803827116ef549ea4bda72228ad5de52a8b256d"
             }
           }
