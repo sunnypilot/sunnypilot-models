@@ -159,23 +159,13 @@
           "artifact": {
             "file_name": "driving_north_dakota_v2_april_29_2024_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-North%20Dakota%20v2%20%28April%2029%2C%202024%29-117/driving_north_dakota_v2_april_29_2024_tinygrad.pkl",
-              "sha256": "b7b33ee10073cd0e2b305697abdcf6453bebaf0dbb4afc7cfad0c82d41673656"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_north_dakota_v2_april_29_2024_tinygrad.pkl.chunk01of02",
-                "sha256": "adc8c44927bde41bd6cd1f8e28001a97fbd4c5f1fdb3193e53de1113b398a94f"
-              },
-              {
-                "file_name": "driving_north_dakota_v2_april_29_2024_tinygrad.pkl.chunk02of02",
-                "sha256": "7e799d926dc2560503696089a9065d9eefc1f82e6187463bc29442dcb6c2fc9b"
-              }
-            ]
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled43/model-North%20Dakota%20v2%20%28April%2029%2C%202024%29-141/driving_north_dakota_v2_april_29_2024_tinygrad.pkl",
+              "sha256": "8a75212a3256b39f774a50de3e9773613266558b8010d85320a9f46e48271f80"
+            }
           }
         }
       ],
-      "build_time": "2026-09-01T06:41:55Z"
+      "build_time": "2026-10-13T05:23:09Z"
     },
     {
       "short_name": "ND",
