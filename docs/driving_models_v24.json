@@ -2788,7 +2788,7 @@
       "index": 76,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-10-09T21:32:04Z",
+      "build_time": "2026-10-13T00:08:16Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2796,23 +2796,9 @@
           "artifact": {
             "file_name": "driving_terrible_super_fantastic_do_over_model_august_15_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Terrible%20Super%20Fantastic%20Do%20Over%20Model%20%28August%2015%2C%202026%29-840/driving_terrible_super_fantastic_do_over_model_august_15_2026_tinygrad.pkl",
-              "sha256": "58ea71022a77bd587b17f348fcf6d7387bfc7ae714115314c3386ffdd621518c"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_terrible_super_fantastic_do_over_model_august_15_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "765ea1975749c260027553ccb691c87d2f0a124595a766d3417008be5a2bb4f6"
-              },
-              {
-                "file_name": "driving_terrible_super_fantastic_do_over_model_august_15_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "16b36ca7a75c4e868b528ea47619a9cb576fd138969d41764c839ab1264697fa"
-              },
-              {
-                "file_name": "driving_terrible_super_fantastic_do_over_model_august_15_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "3ed6d0d9e267b9afdc6eb0d3d5ada85b69df25007d786f9f5011166846cd4153"
-              }
-            ]
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled42/model-Terrible%20Super%20Fantastic%20Do%20Over%20Model%20%28August%2015%2C%202026%29-851/driving_terrible_super_fantastic_do_over_model_august_15_2026_tinygrad.pkl",
+              "sha256": "258d8f4e67d19d4702af22a33db0651527e0df0ef77b62f9d2c5979e9deda338"
+            }
           }
         }
       ]
