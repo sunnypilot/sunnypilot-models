@@ -390,6 +390,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "MDMV3",
+      "display_name": "Mountain Dew Model v3 (October 14, 2026)",
+      "is_20hz": true,
+      "is_big": true,
+      "ref": "1e219d7785cfb7b7343c7f2366347fc86e7ce5f2",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 15,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-10-14T20:59:21Z",
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_mountain_dew_model_v3_october_14_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled46/model-Mountain%20Dew%20Model%20v3%20%28October%2014%2C%202026%29-856/driving_mountain_dew_model_v3_october_14_2026_tinygrad.pkl",
+              "sha256": "9cb7521287053af33ffe6b59ce792bea9f72384f89a3e6e93f756afdf6ff971c"
+            }
+          }
+        }
+      ]
     }
   ]
 }
