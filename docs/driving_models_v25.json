@@ -2002,32 +2002,6 @@
           }
         }
       ]
-    },
-    {
-      "short_name": "SMT",
-      "display_name": "Seeded Model Test (October 14, 2026)",
-      "is_20hz": true,
-      "is_big": false,
-      "ref": "1e219d7785cfb7b7343c7f2366347fc86e7ce5f2",
-      "environment": "development",
-      "runner": "tinygrad",
-      "index": 77,
-      "minimum_selector_version": "21",
-      "generation": "12",
-      "build_time": "2026-10-14T21:01:08Z",
-      "overrides": { "folder": "SMT Models", "lat": ".1", "long": ".3" },
-      "models": [
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_seeded_model_test_october_14_2026_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled47/model-Seeded%20Model%20Test%20%28October%2014%2C%202026%29-857/driving_seeded_model_test_october_14_2026_tinygrad.pkl",
-              "sha256": "3908602bd7a27563678fb5b83103ad01c9e2d08b61eed249b8d8654a974dad1b"
-            }
-          }
-        }
-      ]
     }
   ]
 }
