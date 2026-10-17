@@ -416,6 +416,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "TTM",
+      "display_name": "Train Track Model (October 16, 2026)",
+      "is_20hz": true,
+      "is_big": true,
+      "ref": "e46b35b0dcce35761ba28ada1a7df6ae36589c30",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 16,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-10-17T13:31:18Z",
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_train_track_model_october_16_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled46/model-Train%20Track%20Model%20%28October%2016%2C%202026%29-858/driving_train_track_model_october_16_2026_tinygrad.pkl",
+              "sha256": "08a42e24012037cac52c4fd7fb7eefbf26c87ff4e2de48d7466a31dfafda4385"
+            }
+          }
+        }
+      ]
     }
   ]
 }
