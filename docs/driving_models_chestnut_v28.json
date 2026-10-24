@@ -1,5 +1,5 @@
 {
-  "tinygrad_ref": "5d186bdb43c2bcc6c56b6ececf427c34bada0de9",
+  "tinygrad_ref": "52e8c3e840b44de2ac9e98a0a1484fa09caf0064",
   "bundles": [
     {
       "short_name": "LM",
@@ -438,6 +438,32 @@
             "download_uri": {
               "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled46/model-Train%20Track%20Model%20%28October%2016%2C%202026%29-858/driving_train_track_model_october_16_2026_tinygrad.pkl",
               "sha256": "08a42e24012037cac52c4fd7fb7eefbf26c87ff4e2de48d7466a31dfafda4385"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "FFM",
+      "display_name": "Flip Flop Model (October 23, 2026)",
+      "is_20hz": true,
+      "is_big": true,
+      "ref": "35c5406aa5b03c51a6246a1f09ff84464b2a6b96",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 17,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-10-24T18:35:41Z",
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_flip_flop_model_october_23_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled46/model-Flip%20Flop%20Model%20%28October%2023%2C%202026%29-861/driving_flip_flop_model_october_23_2026_tinygrad.pkl",
+              "sha256": "9dc368ef20a3624dc94d8e604b0221789aaed6939f6f4075a651ffe060709192"
             }
           }
         }
