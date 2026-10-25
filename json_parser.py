@@ -68,7 +68,7 @@ def main():
   parser.add_argument("--json-path", required=True, help="Path to driving_models_vX.json")
   parser.add_argument("--recompiled-dir", required=True, help="Path to recompiledX directory")
   parser.add_argument("--model-folder", required=False, help="Folder name for new model (overrides auto-detect)")
-  parser.add_argument("--lat", required=False, type=str, default=".1", help="Lat smooth (decimal, e.g. 0.1)")
+  parser.add_argument("--lat", required=False, type=str, default=".0", help="Lat smooth (decimal, e.g. 0.0)")
   parser.add_argument("--long", required=False, type=str, default=".3", help="long smooth (decimal, e.g. 0.3)")
   parser.add_argument("--generation", required=False, type=str, default=None, help="Model generation")
   parser.add_argument("--version", required=False, type=str, default=None, help="Minimum selector version")
