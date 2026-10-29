@@ -468,6 +468,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "LSM",
+      "display_name": "Light Speed Model (October 29, 2026)",
+      "is_20hz": true,
+      "is_big": true,
+      "ref": "e4acf619d4eb8b726fc405c264109310ac2951df",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 18,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-10-29T12:51:19Z",
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_light_speed_model_october_29_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled46/model-Light%20Speed%20Model%20%28October%2029%2C%202026%29-862/driving_light_speed_model_october_29_2026_tinygrad.pkl",
+              "sha256": "6c84bb8c9536c21e0761addac3d58eb651c25eaea405427e57ceb6f76f59c0f3"
+            }
+          }
+        }
+      ]
     }
   ]
 }
