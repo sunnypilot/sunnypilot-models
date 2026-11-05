@@ -1978,8 +1978,8 @@
       ]
     },
     {
-      "short_name": "TSFDOM",
-      "display_name": "Terrible Super Fantastic Do Over Model (August 15, 2026)",
+      "short_name": "TSFDOV11",
+      "display_name": "Terrible Super Fantastic Do Over v1.1 (August 15, 2026)",
       "is_20hz": true,
       "is_big": false,
       "ref": "0394d7284cfc229f772ee4fa73ff724ba8245110",
@@ -1988,16 +1988,16 @@
       "index": 76,
       "minimum_selector_version": "21",
       "generation": "12",
-      "build_time": "2026-10-13T11:36:08Z",
+      "build_time": "2026-11-05T15:06:46Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_terrible_super_fantastic_do_over_model_august_15_2026_tinygrad.pkl",
+            "file_name": "driving_terrible_super_fantastic_do_over_v1_1_august_15_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled44/model-Terrible%20Super%20Fantastic%20Do%20Over%20Model%20%28August%2015%2C%202026%29-142/driving_terrible_super_fantastic_do_over_model_august_15_2026_tinygrad.pkl",
-              "sha256": "dad05dca91ccb2302ff421b6d0dfd4c2fe93738f0de7e230c5d93dbd55a115ae"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled50/model-Terrible%20Super%20Fantastic%20Do%20Over%20v1.1%20%28August%2015%2C%202026%29-865/driving_terrible_super_fantastic_do_over_v1_1_august_15_2026_tinygrad.pkl",
+              "sha256": "0d92a88e11ab5a0ec7867f8ad7fe9b9eab3d89cefcd168274c3830dbcee6d7ec"
             }
           }
         }
