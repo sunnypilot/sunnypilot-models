@@ -520,6 +520,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "LS2",
+      "display_name": "Light Speed 2 (November 04, 2026)",
+      "is_20hz": true,
+      "is_big": true,
+      "ref": "b92fc4828664f8767bce5e92f1630ed319cbe509",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 20,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-11-05T21:21:11Z",
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_light_speed_2_november_04_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled46/model-Light%20Speed%202%20%28November%2004%2C%202026%29-866/driving_light_speed_2_november_04_2026_tinygrad.pkl",
+              "sha256": "680a8d629785f2b1d1a2b0e40d0dfbcd0f7291c21e20c51259f1d768a22ec217"
+            }
+          }
+        }
+      ]
     }
   ]
 }
