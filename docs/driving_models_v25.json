@@ -2004,8 +2004,8 @@
       ]
     },
     {
-      "short_name": "CHD",
-      "display_name": "CH Driving (November 05, 2026)",
+      "short_name": "CHEDDAR",
+      "display_name": "Cheddar Model (November 05, 2026)",
       "is_20hz": true,
       "is_big": false,
       "ref": "875a6b7e1e59a76e1c5d9972371564a4feb1deb9",
