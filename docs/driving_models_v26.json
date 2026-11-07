@@ -1718,8 +1718,8 @@
       ]
     },
     {
-      "short_name": "EMUUUUUU",
-      "display_name": "emuuuuuuuuuu (June 03, 2026)",
+      "short_name": "OPM16D",
+      "display_name": "OP Model 16 Deep (June 03, 2026)",
       "is_20hz": true,
       "is_big": false,
       "ref": "f02d134f40f5e7be22b182af21b438915a47600e",
@@ -1728,16 +1728,16 @@
       "index": 66,
       "minimum_selector_version": "21",
       "generation": "12",
-      "build_time": "2026-11-07T06:56:44Z",
+      "build_time": "2026-10-13T10:23:45Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_emuuuuuuuuuu_june_03_2026_tinygrad.pkl",
+            "file_name": "driving_op_model_16_deep_june_03_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-emuuuuuuuuuu%20%28June%2003%2C%202026%29-870/driving_emuuuuuuuuuu_june_03_2026_tinygrad.pkl",
-              "sha256": "e462264dfe5468434621b3df794e519c7bf40c87a963289e2a262ed04cfb1c25"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled44/model-OP%20Model%2016%20Deep%20%28June%2003%2C%202026%29-142/driving_op_model_16_deep_june_03_2026_tinygrad.pkl",
+              "sha256": "a8b1a33e6ed0015a26ff86fd1e36f9a70343a825acf6a183564215e5543c6a4a"
             }
           }
         }
@@ -1978,8 +1978,8 @@
       ]
     },
     {
-      "short_name": "TSFDOV11",
-      "display_name": "Terrible Super Fantastic Do Over v1.1 (August 15, 2026)",
+      "short_name": "TSFDOM",
+      "display_name": "Terrible Super Fantastic Do Over Model (August 15, 2026)",
       "is_20hz": true,
       "is_big": false,
       "ref": "0394d7284cfc229f772ee4fa73ff724ba8245110",
@@ -1988,16 +1988,42 @@
       "index": 76,
       "minimum_selector_version": "21",
       "generation": "12",
-      "build_time": "2026-11-05T15:06:46Z",
+      "build_time": "2026-10-13T11:36:08Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_terrible_super_fantastic_do_over_v1_1_august_15_2026_tinygrad.pkl",
+            "file_name": "driving_terrible_super_fantastic_do_over_model_august_15_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled50/model-Terrible%20Super%20Fantastic%20Do%20Over%20v1.1%20%28August%2015%2C%202026%29-865/driving_terrible_super_fantastic_do_over_v1_1_august_15_2026_tinygrad.pkl",
-              "sha256": "0d92a88e11ab5a0ec7867f8ad7fe9b9eab3d89cefcd168274c3830dbcee6d7ec"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled44/model-Terrible%20Super%20Fantastic%20Do%20Over%20Model%20%28August%2015%2C%202026%29-142/driving_terrible_super_fantastic_do_over_model_august_15_2026_tinygrad.pkl",
+              "sha256": "dad05dca91ccb2302ff421b6d0dfd4c2fe93738f0de7e230c5d93dbd55a115ae"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "CHEDDAR",
+      "display_name": "Cheddar Model (November 05, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "875a6b7e1e59a76e1c5d9972371564a4feb1deb9",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 77,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-11-05T21:41:12Z",
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_ch_driving_november_05_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled44/model-CH%20Driving%20%28November%2005%2C%202026%29-867/driving_ch_driving_november_05_2026_tinygrad.pkl",
+              "sha256": "24fa1b3e67b64a1531d564aeca672969e4fcb8c120866325ff6eb71a31bb7f20"
             }
           }
         }
