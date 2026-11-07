@@ -1718,8 +1718,8 @@
       ]
     },
     {
-      "short_name": "OPM16D",
-      "display_name": "OP Model 16 Deep (June 03, 2026)",
+      "short_name": "EMUUUUUU",
+      "display_name": "emuuuuuuuuuu (June 03, 2026)",
       "is_20hz": true,
       "is_big": false,
       "ref": "f02d134f40f5e7be22b182af21b438915a47600e",
@@ -1728,16 +1728,16 @@
       "index": 66,
       "minimum_selector_version": "21",
       "generation": "12",
-      "build_time": "2026-10-13T10:23:45Z",
+      "build_time": "2026-11-07T06:56:44Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_op_model_16_deep_june_03_2026_tinygrad.pkl",
+            "file_name": "driving_emuuuuuuuuuu_june_03_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled44/model-OP%20Model%2016%20Deep%20%28June%2003%2C%202026%29-142/driving_op_model_16_deep_june_03_2026_tinygrad.pkl",
-              "sha256": "a8b1a33e6ed0015a26ff86fd1e36f9a70343a825acf6a183564215e5543c6a4a"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-emuuuuuuuuuu%20%28June%2003%2C%202026%29-870/driving_emuuuuuuuuuu_june_03_2026_tinygrad.pkl",
+              "sha256": "e462264dfe5468434621b3df794e519c7bf40c87a963289e2a262ed04cfb1c25"
             }
           }
         }
