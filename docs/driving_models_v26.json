@@ -2054,6 +2054,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "LAUNCH",
+      "display_name": "launch (November 07, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "5cc36c43ca827611b38c4d8393f4a967af95c7a8",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 79,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-11-08T06:52:36Z",
+      "overrides": { "folder": "Custom Merge Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_launch_november_07_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-launch%20%28November%2007%2C%202026%29-873/driving_launch_november_07_2026_tinygrad.pkl",
+              "sha256": "3d89aee867c8481fb49adc433889d1c6832553bba2929811759d2d54275e4113"
+            }
+          }
+        }
+      ]
     }
   ]
 }
