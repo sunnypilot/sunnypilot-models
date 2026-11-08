@@ -2028,6 +2028,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "SCMV2",
+      "display_name": "sp chd model v2 (November 07, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "014e9edbbf90ce65d54ea737bfb9fa2e76567c28",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 78,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-11-08T01:33:46Z",
+      "overrides": { "folder": "Custom Merge Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_sp_chd_model_v2_november_07_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-sp%20chd%20model%20v2%20%28November%2007%2C%202026%29-872/driving_sp_chd_model_v2_november_07_2026_tinygrad.pkl",
+              "sha256": "6dd4582d9fa06afdc07e925ae733ef08bcc085ba50ab9c5ba6542573264cfe3e"
+            }
+          }
+        }
+      ]
     }
   ]
 }
