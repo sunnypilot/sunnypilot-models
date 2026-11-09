@@ -2106,6 +2106,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "U5E18",
+      "display_name": "U5e18 (November 09, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "7bbb2472cee217237774fc3f877f640d44dc7acb",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 81,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-11-09T20:25:40Z",
+      "overrides": { "folder": "Custom ", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_u5e18_november_09_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-U5e18%20%28November%2009%2C%202026%29-875/driving_u5e18_november_09_2026_tinygrad.pkl",
+              "sha256": "bc62b3ad5048036faac482f629238514afe4f1d15de5a8cfe8521f7775c5941a"
+            }
+          }
+        }
+      ]
     }
   ]
 }
