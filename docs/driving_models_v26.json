@@ -2080,6 +2080,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "MOD9FA08",
+      "display_name": "mod9fa084ee42 (November 08, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "5ae8e98f9bb2a4170b3b311990c593efbcc91c93",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 80,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-11-09T05:32:59Z",
+      "overrides": { "folder": "Custom fine tunes", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_mod9fa084ee42_november_08_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-mod9fa084ee42%20%28November%2008%2C%202026%29-874/driving_mod9fa084ee42_november_08_2026_tinygrad.pkl",
+              "sha256": "a084ee42bd97b124c681bae36543cd03b7ff5ab5f875d345f777b3e67a934e32"
+            }
+          }
+        }
+      ]
     }
   ]
 }
