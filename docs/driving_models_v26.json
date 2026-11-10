@@ -2158,6 +2158,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "4469DC61",
+      "display_name": "4469dc61 (November 10, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "051599a9961330366720afe1a8e3752519391653",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 83,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-11-10T19:23:58Z",
+      "overrides": { "folder": "custom", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_4469dc61_november_10_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-4469dc61%20%28November%2010%2C%202026%29-880/driving_4469dc61_november_10_2026_tinygrad.pkl",
+              "sha256": "b1915f81797f719b6bd438ec52ab7f7928e719a956b8850e3d4a541da35333aa"
+            }
+          }
+        }
+      ]
     }
   ]
 }
