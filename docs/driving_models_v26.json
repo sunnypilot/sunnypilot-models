@@ -2132,6 +2132,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "U27FEB77",
+      "display_name": "U27feb776 (November 09, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "0b5620ef678906fe34503d35cdb0a4ea93f81b61",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 82,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-11-10T10:27:09Z",
+      "overrides": { "folder": "custom", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_u27feb776_november_09_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-U27feb776%20%28November%2009%2C%202026%29-879/driving_u27feb776_november_09_2026_tinygrad.pkl",
+              "sha256": "46f330fad348e439cb5eb9fade8b172cafa4824254a90af2f0525a68c0118756"
+            }
+          }
+        }
+      ]
     }
   ]
 }
