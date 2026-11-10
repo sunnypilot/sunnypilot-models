@@ -546,6 +546,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "FDM",
+      "display_name": "Fidx Driving Model (November 08, 2026)",
+      "is_20hz": true,
+      "is_big": true,
+      "ref": "3471915de772c645d60a563cc3c335b17da1fe0b",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 21,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-11-10T00:33:36Z",
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_fidx_driving_model_november_08_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-Fidx%20Driving%20Model%20%28November%2008%2C%202026%29-876/driving_fidx_driving_model_november_08_2026_tinygrad.pkl",
+              "sha256": "9be99d2ffbdc5ec2183f48d1342bceca629b4717339d81b509a426c35b7c73e0"
+            }
+          }
+        }
+      ]
     }
   ]
 }
