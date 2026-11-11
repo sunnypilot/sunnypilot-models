@@ -2184,6 +2184,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "LN4",
+      "display_name": "light net 4 (November 10, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "d3ba463e14b2d338101f5c95b2c7f0dc090f54e0",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 84,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-11-11T07:45:27Z",
+      "overrides": { "folder": "custom", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_light_net_4_november_10_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-light%20net%204%20%28November%2010%2C%202026%29-881/driving_light_net_4_november_10_2026_tinygrad.pkl",
+              "sha256": "2965a916aee26b38a7dc1a71834acc8ce6360af4eb2d4cdaa3c884d9e3136d61"
+            }
+          }
+        }
+      ]
     }
   ]
 }
