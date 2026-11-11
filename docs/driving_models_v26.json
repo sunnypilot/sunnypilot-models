@@ -2210,6 +2210,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "MOD9ITV1",
+      "display_name": "mod9i-tv1-ln4 (November 11, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "9b43af8e5684419f8817727652d72c7d2a5a1de4",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 85,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-11-11T17:01:04Z",
+      "overrides": { "folder": "custom", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_mod9i_tv1_ln4_november_11_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-mod9i-tv1-ln4%20%28November%2011%2C%202026%29-882/driving_mod9i_tv1_ln4_november_11_2026_tinygrad.pkl",
+              "sha256": "7e60137cbc65e9a8e1e38a1c902f19e4caad09effa499836ca356b071890deab"
+            }
+          }
+        }
+      ]
     }
   ]
 }
