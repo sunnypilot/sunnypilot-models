@@ -2210,6 +2210,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "LSPEEDGT",
+      "display_name": "l-speed-gte (November 11, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "39a62b6e6490f77d4b308420baf917d64ce1542a",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 85,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-11-11T23:09:55Z",
+      "overrides": { "folder": "custom", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_l_speed_gte_november_11_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-l-speed-gte%20%28November%2011%2C%202026%29-884/driving_l_speed_gte_november_11_2026_tinygrad.pkl",
+              "sha256": "97ee3664461e39653105be7d8621fa6e5adaf83f4ef6a3befa202bf793cd14c5"
+            }
+          }
+        }
+      ]
     }
   ]
 }
