@@ -2236,6 +2236,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "T1H",
+      "display_name": "ts1 holdout  (November 11, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "3251fe3d0f73b2943befe53d530063c4bc275488",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 86,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-11-12T05:29:19Z",
+      "overrides": { "folder": "custom", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_ts1_holdout_november_11_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-ts1%20holdout%20%20%28November%2011%2C%202026%29-885/driving_ts1_holdout_november_11_2026_tinygrad.pkl",
+              "sha256": "2110c48f88a9e8c60befac34f4b41a68b1855c7902f6853c9f1f7b1450a56ecc"
+            }
+          }
+        }
+      ]
     }
   ]
 }
