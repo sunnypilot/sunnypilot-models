@@ -2288,6 +2288,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "JT",
+      "display_name": "Jason ts1g (November 12, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "ae1dad23ee0d9a22c0a9c79aabd09b6445c92f80",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 88,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-11-13T16:50:27Z",
+      "overrides": { "folder": "custom", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_jason_ts1g_november_12_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-Jason%20ts1g%20%28November%2012%2C%202026%29-887/driving_jason_ts1g_november_12_2026_tinygrad.pkl",
+              "sha256": "d08f41b80aad15f265b22e7eec9532d3be337742d1efa9450555eca02081b1a8"
+            }
+          }
+        }
+      ]
     }
   ]
 }
