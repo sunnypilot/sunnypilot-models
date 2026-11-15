@@ -2340,6 +2340,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "TFLABR",
+      "display_name": "target finishes lc a bit rough (November 15, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "22d4bf0b66d7aa24b2eaf2893e3ff57548ca44f6",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 90,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-11-15T19:46:38Z",
+      "overrides": { "folder": "custom", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_target_finishes_lc_a_bit_rough_november_15_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-target%20finishes%20lc%20a%20bit%20rough%20%28November%2015%2C%202026%29-890/driving_target_finishes_lc_a_bit_rough_november_15_2026_tinygrad.pkl",
+              "sha256": "08922f7feb68f8b2b25a8306f82d65b85c0c30b5f895f7b60f45b0b78460b45a"
+            }
+          }
+        }
+      ]
     }
   ]
 }
