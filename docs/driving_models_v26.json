@@ -2366,6 +2366,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "CHDTORCH",
+      "display_name": "chd_torch_mod9k_rn2_lc28_ln13b_chss6_c6 (November 15, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "9cd1e24e13a2f1b2e6bf04edcd35b16a1d411773",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 91,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-11-15T22:06:52Z",
+      "overrides": { "folder": "custom", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_chd_torch_mod9k_rn2_lc28_ln13b_chss6_c6_november_15_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-chd_torch_mod9k_rn2_lc28_ln13b_chss6_c6%20%28November%2015%2C%202026%29-891/driving_chd_torch_mod9k_rn2_lc28_ln13b_chss6_c6_november_15_2026_tinygrad.pkl",
+              "sha256": "b3fa43f6ac3f4041c73a0c18480d097c4b7d6042ce3368d77dfd4025ef165977"
+            }
+          }
+        }
+      ]
     }
   ]
 }
