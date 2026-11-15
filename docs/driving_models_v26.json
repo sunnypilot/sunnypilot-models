@@ -2314,6 +2314,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "CSS6RN2M",
+      "display_name": "css6rn2mod9kc6 (November 15, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "dd8f558f90e512be2604f518596c6881fe5b43d3",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 89,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-11-15T18:11:38Z",
+      "overrides": { "folder": "custom", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_css6rn2mod9kc6_november_15_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-css6rn2mod9kc6%20%28November%2015%2C%202026%29-888/driving_css6rn2mod9kc6_november_15_2026_tinygrad.pkl",
+              "sha256": "60a8fcf19613621dfe0904ed090578560400c2e3f2ff1bbf0a84083534bcadfa"
+            }
+          }
+        }
+      ]
     }
   ]
 }
