@@ -2054,6 +2054,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "FEM",
+      "display_name": "fully e2e model (November 16, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "feaf52c1f211e89bedd8c3da6afdbb4ce5227b37",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 79,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-11-17T04:21:48Z",
+      "overrides": { "folder": "custom", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_fully_e2e_model_november_16_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-fully%20e2e%20model%20%28November%2016%2C%202026%29-892/driving_fully_e2e_model_november_16_2026_tinygrad.pkl",
+              "sha256": "4c2ed6bf22023fbc40e30cae76e2c628e4196a0b9e675aea3efda339aa7c5e61"
+            }
+          }
+        }
+      ]
     }
   ]
 }
