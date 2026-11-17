@@ -2080,6 +2080,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "SC",
+      "display_name": "Sharp Cheddar (November 17, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "da491579b8ea8be37c8f14e79beb1d87ead5dbb6",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 80,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-11-17T19:33:07Z",
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_sharp_cheddar_november_17_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-Sharp%20Cheddar%20%28November%2017%2C%202026%29-896/driving_sharp_cheddar_november_17_2026_tinygrad.pkl",
+              "sha256": "7dba3c9a5fe9c4e4d86149ed40857fd02748b6fcf8a213c96be1761d359cf9de"
+            }
+          }
+        }
+      ]
     }
   ]
 }
