@@ -2106,6 +2106,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "LD",
+      "display_name": "lag derived (November 18, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "da6f2ead1f16640478ad7e106b04597b77b98ee3",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 81,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-11-19T04:25:20Z",
+      "overrides": { "folder": "custom", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_lag_derived_november_18_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-lag%20derived%20%28November%2018%2C%202026%29-897/driving_lag_derived_november_18_2026_tinygrad.pkl",
+              "sha256": "c945a07ddb094b744cc705902fe89fb88243ffb8fadbd4a9ac12004fffed2d08"
+            }
+          }
+        }
+      ]
     }
   ]
 }
