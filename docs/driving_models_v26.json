@@ -2132,6 +2132,32 @@
         }
       ],
       "build_time": "2026-11-19T19:51:38Z"
+    },
+    {
+      "short_name": "NF",
+      "display_name": "no floor (November 19, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "98fb0138f6698093018cc22e10d5cf846b331f08",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 82,
+      "minimum_selector_version": "21",
+      "generation": "5",
+      "build_time": "2026-11-19T22:48:57Z",
+      "overrides": { "folder": "custom", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_no_floor_november_19_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-no%20floor%20%28November%2019%2C%202026%29-901/driving_no_floor_november_19_2026_tinygrad.pkl",
+              "sha256": "e1418b6127f1e10351457b2a33ec51abe53ad876015c1ced95757369906440cb"
+            }
+          }
+        }
+      ]
     }
   ]
 }
