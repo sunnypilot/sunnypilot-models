@@ -572,6 +572,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "FTM",
+      "display_name": "Fairy tale model (November 18, 2026)",
+      "is_20hz": true,
+      "is_big": true,
+      "ref": "57a0a395cad83c026405fa460e5e542791d1ffd1",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 22,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-11-19T09:20:12Z",
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_fairy_tale_model_november_18_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-Fairy%20tale%20model%20%28November%2018%2C%202026%29-899/driving_fairy_tale_model_november_18_2026_tinygrad.pkl",
+              "sha256": "1d4d221563002c73f3ba7f2e48be350c887898f254f558c406aeeaadb8a868f2"
+            }
+          }
+        }
+      ]
     }
   ]
 }
