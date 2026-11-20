@@ -2158,6 +2158,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "FLSS",
+      "display_name": "fix low speed stop (November 19, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "d3b041495bf0cf624e3fd7b892bb69ce517b9cbe",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 83,
+      "minimum_selector_version": "21",
+      "generation": "5",
+      "build_time": "2026-11-20T00:37:53Z",
+      "overrides": { "folder": "custom", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_fix_low_speed_stop_november_19_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-fix%20low%20speed%20stop%20%28November%2019%2C%202026%29-902/driving_fix_low_speed_stop_november_19_2026_tinygrad.pkl",
+              "sha256": "fcc0096e008466e8ea80ebd3d798247f3de7847e2d897f315f40ca50cf194c6f"
+            }
+          }
+        }
+      ]
     }
   ]
 }
