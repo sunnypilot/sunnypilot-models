@@ -2158,6 +2158,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "FSLTIV",
+      "display_name": "fix stuff like that instagram video (November 19, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "746207852943f6deb18c531fe172c1fccc3c67f4",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 83,
+      "minimum_selector_version": "21",
+      "generation": "5",
+      "build_time": "2026-11-20T03:16:59Z",
+      "overrides": { "folder": "custom", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_fix_stuff_like_that_instagram_video_november_19_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-fix%20stuff%20like%20that%20instagram%20video%20%28November%2019%2C%202026%29-903/driving_fix_stuff_like_that_instagram_video_november_19_2026_tinygrad.pkl",
+              "sha256": "533e054047373a365cce63529fd3fc26bb6e7daf38646bcca4b9e3f5724c5595"
+            }
+          }
+        }
+      ]
     }
   ]
 }
