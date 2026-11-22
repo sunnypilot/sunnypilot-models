@@ -600,6 +600,32 @@
       ]
     },
     {
+      "short_name": "FTMV1.1",
+      "display_name": "Fairy Tale Model v1.1 (November 20, 2026)",
+      "is_20hz": true,
+      "is_big": true,
+      "ref": "be5faaedf153f7f1d1303d2b74f20b1b784605aa",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 23,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-11-22T04:42:30Z",
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_fairy_tale_model_v1_1_november_20_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-Fairy%20Tale%20Model%20v1.1%20%28November%2020%2C%202026%29-909/driving_fairy_tale_model_v1_1_november_20_2026_tinygrad.pkl",
+              "sha256": "de0f219f53a8e0f57ac5052a802f39f26c9469c290107006fc8c3f34ca1dd776"
+            }
+          }
+        }
+      ]
+    },
+    {
       "short_name": "ED",
       "display_name": "ETCW Driving (November 21, 2026)",
       "is_20hz": true,
@@ -607,7 +633,7 @@
       "ref": "f50b5f1923deb9cd553b91dfac8f52ffa9c3420b",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 23,
+      "index": 24,
       "minimum_selector_version": "21",
       "generation": "12",
       "build_time": "2026-11-22T00:06:36Z",
