@@ -2184,6 +2184,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "FG",
+      "display_name": "fast greens (November 21, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "1d728da4011e89f78dd7a2ce559ada0e07528691",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 84,
+      "minimum_selector_version": "21",
+      "generation": "5",
+      "build_time": "2026-11-22T01:05:45Z",
+      "overrides": { "folder": "custom", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_fast_greens_november_21_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-fast%20greens%20%28November%2021%2C%202026%29-906/driving_fast_greens_november_21_2026_tinygrad.pkl",
+              "sha256": "8bc018dcc11211e6da0218a7bb6ab74c0fd67c064c2807fcd5bd24f3fe6d3a4e"
+            }
+          }
+        }
+      ]
     }
   ]
 }
