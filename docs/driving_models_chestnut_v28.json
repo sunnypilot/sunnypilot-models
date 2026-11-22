@@ -598,6 +598,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "ED",
+      "display_name": "ETCW Driving (November 21, 2026)",
+      "is_20hz": true,
+      "is_big": true,
+      "ref": "f50b5f1923deb9cd553b91dfac8f52ffa9c3420b",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 23,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-11-22T00:06:36Z",
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_etcw_driving_november_21_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-ETCW%20Driving%20%28November%2021%2C%202026%29-905/driving_etcw_driving_november_21_2026_tinygrad.pkl",
+              "sha256": "b42fec8f405c8f1d98c8a5ad8ca14c99d94b3de460461113f894f4366dd72520"
+            }
+          }
+        }
+      ]
     }
   ]
 }
