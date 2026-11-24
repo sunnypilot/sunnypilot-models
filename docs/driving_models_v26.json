@@ -2056,32 +2056,6 @@
       ]
     },
     {
-      "short_name": "SC",
-      "display_name": "Sharp Cheddar (November 17, 2026)",
-      "is_20hz": true,
-      "is_big": false,
-      "ref": "da491579b8ea8be37c8f14e79beb1d87ead5dbb6",
-      "environment": "development",
-      "runner": "tinygrad",
-      "index": 79,
-      "minimum_selector_version": "21",
-      "generation": "12",
-      "build_time": "2026-11-17T19:33:07Z",
-      "overrides": { "folder": "2026 Deep RL Models", "lat": ".0", "long": ".3" },
-      "models": [
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_sharp_cheddar_november_17_2026_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-Sharp%20Cheddar%20%28November%2017%2C%202026%29-896/driving_sharp_cheddar_november_17_2026_tinygrad.pkl",
-              "sha256": "7dba3c9a5fe9c4e4d86149ed40857fd02748b6fcf8a213c96be1761d359cf9de"
-            }
-          }
-        }
-      ]
-    },
-    {
       "short_name": "LD",
       "display_name": "lag derived (November 18, 2026)",
       "is_20hz": true,
@@ -2089,7 +2063,7 @@
       "ref": "da6f2ead1f16640478ad7e106b04597b77b98ee3",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 80,
+      "index": 79,
       "minimum_selector_version": "21",
       "generation": "12",
       "build_time": "2026-11-19T04:25:20Z",
@@ -2115,7 +2089,7 @@
       "ref": "5ebc89b3e9d65430a263739669f71c75e24e6d27",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 81,
+      "index": 80,
       "minimum_selector_version": "21",
       "generation": "5",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
@@ -2141,7 +2115,7 @@
       "ref": "98fb0138f6698093018cc22e10d5cf846b331f08",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 82,
+      "index": 81,
       "minimum_selector_version": "21",
       "generation": "5",
       "build_time": "2026-11-19T22:48:57Z",
@@ -2167,7 +2141,7 @@
       "ref": "746207852943f6deb18c531fe172c1fccc3c67f4",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 83,
+      "index": 82,
       "minimum_selector_version": "21",
       "generation": "5",
       "build_time": "2026-11-20T03:16:59Z",
@@ -2193,7 +2167,7 @@
       "ref": "1d728da4011e89f78dd7a2ce559ada0e07528691",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 84,
+      "index": 83,
       "minimum_selector_version": "21",
       "generation": "5",
       "build_time": "2026-11-22T01:05:45Z",
@@ -2206,6 +2180,32 @@
             "download_uri": {
               "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-fast%20greens%20%28November%2021%2C%202026%29-906/driving_fast_greens_november_21_2026_tinygrad.pkl",
               "sha256": "8bc018dcc11211e6da0218a7bb6ab74c0fd67c064c2807fcd5bd24f3fe6d3a4e"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "SC",
+      "display_name": "Shredded cheddar (November 24, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "2a63be39e4a243a53f6bacf3b0bee27a4eb7b973",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 84,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-11-24T19:39:35Z",
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_shredded_cheddar_november_24_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-Shredded%20cheddar%20%28November%2024%2C%202026%29-910/driving_shredded_cheddar_november_24_2026_tinygrad.pkl",
+              "sha256": "dfd53f4dec388efe46998e6deed83bc35bc5da823929da0b3cf8f6937b9a81ac"
             }
           }
         }
