@@ -108,9 +108,9 @@ def main():
 
     if not bundle:
       for b in driving_models_json["bundles"]:
-        if b.get("short_name").upper() == short_name:
+        if b.get("display_name") == display_name:
           bundle = b
-          print(f"Updating bundle {short_name} with new ref: {bundle.get('ref')} -> {ref}")
+          print(f"Updating bundle {display_name} with new ref: {bundle.get('ref')} -> {ref}")
           bundle["ref"] = ref
           break
 
@@ -145,6 +145,8 @@ def main():
     bundle["is_20hz"] = meta.get("is_20hz", bundle["is_20hz"])
     bundle["is_big"] = is_big_model
     bundle["build_time"] = meta.get("build_time", bundle.get("build_time"))
+    if args.model_folder:
+      bundle.setdefault("overrides", {})["folder"] = args.model_folder
     allow_big_models = "chestnut" in args.json_path.lower()
     update_bundle_models(bundle, meta["models"], folder, recompiled_dir_name, allow_big_models=allow_big_models)
 
