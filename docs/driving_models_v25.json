@@ -2054,6 +2054,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "CCM",
+      "display_name": "Crumbly Cheddar Model (November 24, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "8892f177ea11a9e20e5afba4cb88802b161eaf49",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 79,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-11-25T20:17:28Z",
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_crumbly_cheddar_model_november_24_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-Crumbly%20Cheddar%20Model%20%28November%2024%2C%202026%29-914/driving_crumbly_cheddar_model_november_24_2026_tinygrad.pkl",
+              "sha256": "b9a78e49046ce54f296c515de7f1d8566e8dcb38ced271a2b1d7ea9276c48553"
+            }
+          }
+        }
+      ]
     }
   ]
 }
