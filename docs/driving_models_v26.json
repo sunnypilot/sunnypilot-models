@@ -2210,6 +2210,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "SL",
+      "display_name": "speedy lights (November 25, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "92af1dd0e66bdc74e2bc9118f5dc7bd1b1eafd7a",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 85,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-11-25T17:40:49Z",
+      "overrides": { "folder": "custom", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_speedy_lights_november_25_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-speedy%20lights%20%28November%2025%2C%202026%29-911/driving_speedy_lights_november_25_2026_tinygrad.pkl",
+              "sha256": "19e6d3d0f40498be6f5db6e80a5342921bb16606a6e3ecc81651dd636210e2b7"
+            }
+          }
+        }
+      ]
     }
   ]
 }
