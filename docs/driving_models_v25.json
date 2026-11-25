@@ -2080,6 +2080,32 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "SCM",
+      "display_name": "Smoked Cheddar Model (November 24, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "e170f08049b4d91f595a0a11378b0cf030f3afb1",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 80,
+      "minimum_selector_version": "21",
+      "generation": "12",
+      "build_time": "2026-11-25T21:04:39Z",
+      "overrides": { "folder": "Master Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_smoked_cheddar_model_november_24_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled1/model-Smoked%20Cheddar%20Model%20%28November%2024%2C%202026%29-916/driving_smoked_cheddar_model_november_24_2026_tinygrad.pkl",
+              "sha256": "1001fa877eec367612f6a3a8cdf3f8c094e2a6df071de8cbf12b60625e22973f"
+            }
+          }
+        }
+      ]
     }
   ]
 }
